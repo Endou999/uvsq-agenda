@@ -1,0 +1,42 @@
+name: Update UVSQ Calendars
+
+on:
+  schedule:
+    # Se lance tous les jours à 06:00 UTC (7h ou 8h Paris)
+    - cron: '0 6 * * *'
+  # Permet de lancer manuellement pour tester
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install requests ics
+
+      - name: Run script
+        run: |
+          python export_uvsq.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          # La commande suivante ajoute TOUS les fichiers .ics créés (TD, Exam, CM...)
+          git add *.ics
+          # On ne commit que s'il y a du changement
+          git commit -m "Mise à jour automatique des agendas" || echo "Pas de changement"
+          git push
