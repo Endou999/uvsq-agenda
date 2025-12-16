@@ -122,7 +122,8 @@ def get_edt():
                 if final_subject: e.name = f"{final_subject} ({short_type})"
                 else: e.name = short_type
 
-                e.description = full_text
+                # On recrée la description en collant les lignes non-vides
+                e.description = "\n".join(lines)
                 
                 # Salle
                 found_room = ""
