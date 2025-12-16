@@ -10,7 +10,7 @@ from zoneinfo import ZoneInfo
 # Le script va fusionner les événements de S5 (Examens) et S6 (Futur semestre).
 MY_GROUPS = [
     "S5 LDD MP PSC",  # Pour finir le semestre actuel
-    "S6 LDD MP PSC"   # Pour le semestre qui commence le 19 janvier
+    "S6 LDDMP PSC"   # Pour le semestre qui commence le 19 janvier
 ]
 
 BASE_URL = "https://edt.uvsq.fr/Home/GetCalendarData"
