@@ -10,7 +10,6 @@ GROUP_ID = "S5 LDD MP PSC"
 BASE_URL = "https://edt.uvsq.fr/Home/GetCalendarData"
 
 def extract_name_from_line(line):
-    """ (Même logique de hachoir que la V8) """
     bracket_match = re.search(r'\[(.*?)\]', line)
     if bracket_match:
         content = bracket_match.group(1)
@@ -32,22 +31,15 @@ def extract_name_from_line(line):
     return best_part.strip()
 
 def get_event_type(category, full_text):
-    """ Détermine le type de cours pour le tri """
     cat_up = category.upper()
-    text_up = full_text.upper()
-    
-    if "EXAMEN" in cat_up or "CONTRÔLE" in cat_up or "PARTIEL" in cat_up:
-        return "EXAM"
-    if "TD" in cat_up or "TRAVAUX DIRIGÉS" in cat_up:
-        return "TD"
-    if "TP" in cat_up or "TRAVAUX PRATIQUES" in cat_up:
-        return "TP"
-    if "CM" in cat_up or "COURS MAGISTRAUX" in cat_up or "AMPHI" in cat_up:
-        return "CM"
+    if "EXAMEN" in cat_up or "CONTRÔLE" in cat_up or "PARTIEL" in cat_up: return "EXAM"
+    if "TD" in cat_up or "TRAVAUX DIRIGÉS" in cat_up: return "TD"
+    if "TP" in cat_up or "TRAVAUX PRATIQUES" in cat_up: return "TP"
+    if "CM" in cat_up or "COURS MAGISTRAUX" in cat_up or "AMPHI" in cat_up: return "CM"
     return "AUTRE"
 
 def get_edt():
-    print(f"--- Récupération V9 (Multi-Fichiers pour Couleurs) ---")
+    print(f"--- Récupération V9.1 (Fichiers Forcés) ---")
     
     start_date = datetime.date.today()
     end_date = start_date + datetime.timedelta(days=180)
@@ -66,7 +58,6 @@ def get_edt():
         response.raise_for_status()
         data = response.json()
         
-        # On prépare plusieurs calendriers
         cals = {
             "EXAM": Calendar(),
             "TD": Calendar(),
@@ -75,12 +66,10 @@ def get_edt():
             "AUTRE": Calendar()
         }
         
-        print(f"{len(data)} événements. Tri en cours...")
+        print(f"{len(data)} événements trouvés.")
 
         for item in data:
             e = Event()
-            
-            # --- ANALYSE (Code V8) ---
             raw_desc = item.get("description", "") or item.get("text", "")
             full_text = html.unescape(raw_desc).replace("\r", "").replace("<br />", "\n").replace("<br>", "\n")
             lines = [line.strip() for line in full_text.split('\n') if line.strip()]
@@ -103,21 +92,18 @@ def get_edt():
                         final_subject = line
                         break
 
-            # --- CATEGORISATION ---
-            short_type = category
             evt_type = get_event_type(category, full_text)
             
-            # Petit nettoyage du libellé court
+            # Types courts pour le titre
+            short_type = category
             if "Contrôle Continu" in category: short_type = "CC"
             elif "Examen" in category: short_type = "Exam"
             elif "Réunion" in category: short_type = "Réunion"
             elif "Travaux Dirigés" in category: short_type = "TD"
             elif "Cours Magistraux" in category: short_type = "CM"
 
-            if final_subject:
-                e.name = f"{final_subject} ({short_type})"
-            else:
-                e.name = short_type
+            if final_subject: e.name = f"{final_subject} ({short_type})"
+            else: e.name = short_type
 
             e.description = full_text
             
@@ -126,7 +112,6 @@ def get_edt():
                 if any(x in line.upper() for x in ["AMPHI", "SALLE", "FERMAT", "DESCARTES", "D'ALEMBERT", "BUFFON", "JOLIOT", "E303", "RC14"]):
                     found_room = line
                     break
-            
             if found_room: e.location = found_room
             elif "location" in item: e.location = item.get("location")
 
@@ -136,19 +121,18 @@ def get_edt():
             e.begin = dt_start.replace(tzinfo=ZoneInfo("Europe/Paris"))
             e.end = dt_end.replace(tzinfo=ZoneInfo("Europe/Paris"))
             
-            # --- AJOUT AU BON CALENDRIER ---
             cals[evt_type].events.add(e)
 
-        # --- SAUVEGARDE DES FICHIERS ---
+        # --- MODIFICATION ICI : On sauvegarde TOUS les fichiers, même vides ---
         files_generated = []
         for type_name, cal_obj in cals.items():
-            if len(cal_obj.events) > 0: # On ne crée le fichier que s'il y a des événements
-                filename = f"UVSQ_{type_name}.ics"
-                with open(filename, 'w', encoding='utf-8') as f:
-                    f.writelines(cal_obj.serialize_iter())
-                files_generated.append(filename)
+            # J'ai supprimé la condition "if len > 0"
+            filename = f"UVSQ_{type_name}.ics"
+            with open(filename, 'w', encoding='utf-8') as f:
+                f.writelines(cal_obj.serialize_iter())
+            files_generated.append(filename)
             
-        print(f"\nSuccès ! Fichiers générés : {', '.join(files_generated)}")
+        print(f"\nSuccès ! Tous les fichiers (y compris vides) ont été générés : {', '.join(files_generated)}")
 
     except Exception as err:
         print(f"\nERREUR : {err}")
