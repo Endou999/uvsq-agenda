@@ -2,531 +2,523 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260218T100000Z
-LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
-DTSTART:20260218T080000Z
-SUMMARY:Probabilités avancées (CM)
-UID:68f0ed10-5085-4767-81eb-3101b1ab006b@68f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260330T105000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260330T092000Z
-SUMMARY:Optimisation et Applications (CM)
-UID:981dace7-42a6-4852-9fb1-2375860b0fe3@981d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260403T132000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260403T115000Z
-SUMMARY:: Analyse complexe (CM)
-UID:ce265e6f-bebc-4668-acfb-e4ba31f44c54@ce26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260422T090000Z
-LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
-DTSTART:20260422T070000Z
-SUMMARY:Probabilités avancées (CM)
-UID:f3b7e5d0-ac97-482a-9e6d-42f6f6a17f66@f3b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260407T073000Z
-LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
-DTSTART:20260407T060000Z
-SUMMARY:Mécanique quantique II (CM)
-UID:60250a43-528c-4f62-83fe-46838a7c9cb3@6025.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260331T073000Z
-LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
-DTSTART:20260331T060000Z
-SUMMARY:Mécanique quantique II (CM)
-UID:23782756-8901-4802-b288-ae61f7fe31a6@2378.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260210T083000Z
-LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
-DTSTART:20260210T070000Z
-SUMMARY:Mécanique quantique II (CM)
-UID:ca97b957-e3aa-432a-8aca-e552d1815837@ca97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260130T115000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260130T102000Z
-SUMMARY:Groupes et Géométrie (CM)
-UID:52553c80-aa3d-4cfb-a566-6edf7885c389@5255.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260327T115000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260327T102000Z
-SUMMARY:Groupes et Géométrie (CM)
-UID:4d005414-5b13-4b88-bdc4-0da81a1bd689@4d00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260417T132000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260417T115000Z
-SUMMARY:: Analyse complexe (CM)
-UID:ebb6267f-ef24-46db-b3e6-e612a23bcb27@ebb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260203T083000Z
-LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
-DTSTART:20260203T070000Z
-SUMMARY:Mécanique quantique II (CM)
-UID:fbf35d5c-263f-4b74-8a24-760d04215dc2@fbf3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260225T100000Z
-LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
-DTSTART:20260225T080000Z
-SUMMARY:Probabilités avancées (CM)
-UID:aa35ddfe-b2d8-406d-8fc2-24dd9e19b484@aa35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260310T083000Z
-LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
-DTSTART:20260310T070000Z
-SUMMARY:Mécanique quantique II (CM)
-UID:2ad8b6aa-e57b-41d1-9a2a-026ab5b739a7@2ad8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260220T115000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260220T102000Z
-SUMMARY:Groupes et Géométrie (CM)
-UID:051aa680-8dea-4d3c-9e9c-d7ccc2bacf1e@051a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260213T115000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260213T102000Z
-SUMMARY:Groupes et Géométrie (CM)
-UID:c04393a0-fb53-438b-a673-0bfb44ac99c1@c043.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260323T115000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260323T102000Z
-SUMMARY:Optimisation et Applications (CM)
-UID:22214ba1-2086-49a0-acdd-6f5f218ecbaa@2221.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260415T090000Z
-LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
-DTSTART:20260415T070000Z
-SUMMARY:Probabilités avancées (CM)
-UID:370c0dc1-5f1d-4315-92be-5f68d5e3df72@370c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260424T132000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260424T115000Z
-SUMMARY:: Analyse complexe (CM)
-UID:3c37a81e-1c79-4601-92de-bcb444ceddab@3c37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260202T115000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260202T102000Z
-SUMMARY:Optimisation et Applications (CM)
-UID:dc5a377d-1d0c-4f99-a7d4-c6df93e4b263@dc5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260220T142000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260220T125000Z
-SUMMARY:: Analyse complexe (CM)
-UID:6a0d4a4c-378e-4efe-bb7c-63042b56854a@6a0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260317T083000Z
-LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
-DTSTART:20260317T070000Z
-SUMMARY:Mécanique quantique II (CM)
-UID:1a884d93-2624-4cb2-b79b-c341240a80e8@1a88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260320T115000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260320T102000Z
-SUMMARY:Groupes et Géométrie (CM)
-UID:09d3cc56-7ad8-4ead-9ad6-5ca873189800@09d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260211T100000Z
-LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
-DTSTART:20260211T080000Z
-SUMMARY:Probabilités avancées (CM)
-UID:adc9af16-2880-4279-84b4-ab26cc5a0b23@adc9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260420T105000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260420T092000Z
-SUMMARY:Optimisation et Applications (CM)
-UID:b3a0ab37-26f5-476b-b728-1e3b12f2cceb@b3a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260213T142000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260213T125000Z
-SUMMARY:: Analyse complexe (CM)
-UID:b31756b6-2628-48f3-a1ae-2ff2f5bf32eb@b317.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260227T142000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260227T125000Z
-SUMMARY:: Analyse complexe (CM)
-UID:08473d04-18f1-49f3-84c7-8e1002596d99@0847.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260123T142000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260123T125000Z
-SUMMARY:: Analyse complexe (CM)
-UID:394e4eed-d1a6-40b9-8166-4c381f696b13@394e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260320T142000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260320T125000Z
-SUMMARY:: Analyse complexe (CM)
-UID:b4c2cfb4-d5a7-4551-92cd-8ef907f5c699@b4c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260325T100000Z
-LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
-DTSTART:20260325T080000Z
-SUMMARY:Probabilités avancées (CM)
-UID:731d47e6-670b-431f-af26-0d1bfe01b988@731d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260127T083000Z
-LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
-DTSTART:20260127T070000Z
-SUMMARY:Mécanique quantique II (CM)
-UID:02b8f064-3f5c-46bc-84c4-9925327b79d8@02b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260123T115000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260123T102000Z
-SUMMARY:Groupes et Géométrie (CM)
-UID:75a149fb-0386-4bfd-9492-f0f9611801f2@75a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260119T115000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260119T102000Z
-SUMMARY:Optimisation et Applications (CM)
-UID:c33e75eb-4360-4287-bc0a-5a55d9e0aafd@c33e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260223T115000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260223T102000Z
-SUMMARY:Optimisation et Applications (CM)
-UID:f3d78db0-240f-41d4-a48d-c37401e3142a@f3d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260401T090000Z
-LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
-DTSTART:20260401T070000Z
-SUMMARY:Probabilités avancées (CM)
-UID:4969fc1b-2818-49ee-8895-5dc326db75bd@4969.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
 DTEND:20260313T142000Z
 LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
 DTSTART:20260313T125000Z
 SUMMARY:: Analyse complexe (CM)
-UID:5b742fa1-16ed-4d9c-b3a3-e6afe1022589@5b74.org
+UID:2f35667b-c26e-4a35-8fb1-95456a744156@2f35.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260417T105000Z
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260213T142000Z
 LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260417T092000Z
-SUMMARY:Groupes et Géométrie (CM)
-UID:4a887dcf-29bf-49d5-afb3-53d0699161ae@4a88.org
+DTSTART:20260213T125000Z
+SUMMARY:: Analyse complexe (CM)
+UID:0a7d7b81-a146-4c5f-9928-336b4abc1597@0a7d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260227T115000Z
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA651-Optimisation et Applications [LSMA651]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260223T115000Z
 LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260227T102000Z
-SUMMARY:Groupes et Géométrie (CM)
-UID:74c3ca96-8af4-4b63-a937-52832e1a44aa@74c3.org
+DTSTART:20260223T102000Z
+SUMMARY:Optimisation et Applications (CM)
+UID:9154fc77-c6d2-4ef4-951b-75c3ae9e8bad@9154.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260318T100000Z
+DESCRIPTION:CM\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260211T100000Z
 LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
-DTSTART:20260318T080000Z
+DTSTART:20260211T080000Z
 SUMMARY:Probabilités avancées (CM)
-UID:f00e1738-f762-4c81-8319-1f48f2cee0f1@f00e.org
+UID:dc4e9305-9042-41ec-a2a6-dbd166e7aaae@dc4e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
+DESCRIPTION:CM\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260407T073000Z
+LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
+DTSTART:20260407T060000Z
+SUMMARY:Mécanique quantique II (CM)
+UID:5380b201-513c-44db-8b1a-c873ff9ca9bf@5380.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260403T132000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260403T115000Z
+SUMMARY:: Analyse complexe (CM)
+UID:c3b8aa54-a8c2-4e23-baef-4bf964462017@c3b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
 DTEND:20260313T115000Z
 LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
 DTSTART:20260313T102000Z
 SUMMARY:Groupes et Géométrie (CM)
-UID:52deedfe-ed60-41be-8225-93eda7c9bf0b@52de.org
+UID:d833d432-24fa-4093-beb2-f15e69232a0d@d833.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260408T090000Z
-LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
-DTSTART:20260408T070000Z
-SUMMARY:Probabilités avancées (CM)
-UID:1e14f71b-e09d-457d-b5bd-5ef2d6736251@1e14.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260424T105000Z
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA651-Optimisation et Applications [LSMA651]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260420T105000Z
 LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260424T092000Z
+DTSTART:20260420T092000Z
+SUMMARY:Optimisation et Applications (CM)
+UID:6c6514d6-0eb8-474c-bf65-6ec12788ff3e@6c65.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260213T115000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260213T102000Z
 SUMMARY:Groupes et Géométrie (CM)
-UID:0a73c7ee-64a7-47d6-8680-d54ffe87b3f8@0a73.org
+UID:648f376d-8cb6-4975-b305-4532f196955b@648f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260311T100000Z
-LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
-DTSTART:20260311T080000Z
-SUMMARY:Probabilités avancées (CM)
-UID:8722c560-0e5a-4496-8eb7-22be96d9ea6a@8722.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260128T100000Z
-LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
-DTSTART:20260128T080000Z
-SUMMARY:Probabilités avancées (CM)
-UID:3c3acf8b-2313-46d7-a263-bd8a74a5b927@3c3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260410T132000Z
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260227T142000Z
 LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260410T115000Z
+DTSTART:20260227T125000Z
 SUMMARY:: Analyse complexe (CM)
-UID:49faee46-079c-4300-a29b-178b8827a112@49fa.org
+UID:2ea290f2-cd27-4a96-94d8-4352812bd7d5@2ea2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260204T100000Z
-LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
-DTSTART:20260204T080000Z
-SUMMARY:Probabilités avancées (CM)
-UID:c2fcfecb-96e5-4357-91b8-df1aa93d3e76@c2fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260126T115000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260126T102000Z
-SUMMARY:Optimisation et Applications (CM)
-UID:4eb5e182-43df-49ea-8eb6-82299f6c39cb@4eb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260421T073000Z
-LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
-DTSTART:20260421T060000Z
-SUMMARY:Mécanique quantique II (CM)
-UID:7b7bf833-5358-4a09-8b57-a5b5db1cce1d@7b7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260414T073000Z
-LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
-DTSTART:20260414T060000Z
-SUMMARY:Mécanique quantique II (CM)
-UID:4f74e6fa-7256-463e-98b8-140067ae4e7b@4f74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260209T115000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260209T102000Z
-SUMMARY:Optimisation et Applications (CM)
-UID:492df3e7-02c5-46ac-9daa-ec68585832d5@492d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260130T142000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260130T125000Z
-SUMMARY:: Analyse complexe (CM)
-UID:19041a6d-1eee-4217-959d-a5ec091be744@1904.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260217T083000Z
-LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
-DTSTART:20260217T070000Z
-SUMMARY:Mécanique quantique II (CM)
-UID:30d23c8b-2aac-402b-a1b3-d566792e58d0@30d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260120T083000Z
-LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
-DTSTART:20260120T070000Z
-SUMMARY:Mécanique quantique II (CM)
-UID:75499f20-1ac9-42f4-957f-8cf6ee6ad94a@7549.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260206T142000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260206T125000Z
-SUMMARY:: Analyse complexe (CM)
-UID:509f6a77-57d4-4f54-a05c-8126b13dfef2@509f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260410T105000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260410T092000Z
-SUMMARY:Groupes et Géométrie (CM)
-UID:b1fec939-e031-40f0-a7ad-27c099b730f6@b1fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260309T115000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260309T102000Z
-SUMMARY:Optimisation et Applications (CM)
-UID:ee1668f7-f42f-429a-9b4b-cca2703aaf22@ee16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260504T105000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260504T092000Z
-SUMMARY:Optimisation et Applications (CM)
-UID:685f8751-df95-42f1-beb8-c1f5826a93ec@685f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260324T083000Z
-LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
-DTSTART:20260324T070000Z
-SUMMARY:Mécanique quantique II (CM)
-UID:d8d499f5-7490-4e1e-b3b5-407790f7114c@d8d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260316T115000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260316T102000Z
-SUMMARY:Optimisation et Applications (CM)
-UID:f70f6620-8e11-430a-846f-1a99b82b70fc@f70f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260403T105000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260403T092000Z
-SUMMARY:Groupes et Géométrie (CM)
-UID:5af2277f-bba8-47d9-9b21-1f1a2ae3e99d@5af2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260224T083000Z
-LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
-DTSTART:20260224T070000Z
-SUMMARY:Mécanique quantique II (CM)
-UID:88167c43-42d2-4e58-b506-cab84222e57c@8816.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260327T142000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260327T125000Z
-SUMMARY:: Analyse complexe (CM)
-UID:6cb16cda-f67c-4f30-b345-e3fe1fa45986@6cb1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260413T105000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260413T092000Z
-SUMMARY:Optimisation et Applications (CM)
-UID:76f361bf-d613-4c1a-8b98-46e84ffd4f41@76f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260206T115000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260206T102000Z
-SUMMARY:Groupes et Géométrie (CM)
-UID:f1f82813-3c38-4c4e-97e6-87049ae2534b@f1f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI B - DESCARTES (160 / 85) [Amphithéâtre]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260122T160000Z
-LOCATION:AMPHI B - DESCARTES (160 / 85) [Amphithéâtre]
-DTSTART:20260122T125000Z
-SUMMARY:Mécanique quantique II (CM)
-UID:91f01c2f-1de6-48aa-a0c4-88839da0f0f4@91f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260216T115000Z
-LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
-DTSTART:20260216T102000Z
-SUMMARY:Optimisation et Applications (CM)
-UID:6e55275d-0f5e-46a9-a35b-7ebc3464272d@6e55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM\n\n\n\n\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
+DESCRIPTION:CM\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
 DTEND:20260121T100000Z
 LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
 DTSTART:20260121T080000Z
 SUMMARY:Probabilités avancées (CM)
-UID:dae53f48-0786-4d6e-baf8-73279160a39c@dae5.org
+UID:4dca0bda-00b0-4580-91da-29b1a09b824a@4dca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260130T142000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260130T125000Z
+SUMMARY:: Analyse complexe (CM)
+UID:91465a3f-e52f-4c0b-9c6d-2a545626b427@9146.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260310T083000Z
+LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
+DTSTART:20260310T070000Z
+SUMMARY:Mécanique quantique II (CM)
+UID:c34395ba-53a6-4fcb-a3f6-1243a53ee56c@c343.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260130T115000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260130T102000Z
+SUMMARY:Groupes et Géométrie (CM)
+UID:532fa697-60c8-4c5e-a817-7ffa789504e9@532f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260227T115000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260227T102000Z
+SUMMARY:Groupes et Géométrie (CM)
+UID:511e7bc9-6322-4882-b3ce-e5c8508d2352@511e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260415T090000Z
+LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
+DTSTART:20260415T070000Z
+SUMMARY:Probabilités avancées (CM)
+UID:c896455e-6707-4765-aac2-c774be4e804e@c896.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260123T142000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260123T125000Z
+SUMMARY:: Analyse complexe (CM)
+UID:df6f1f29-77f0-44d5-ba99-2e080ce7de5b@df6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260220T115000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260220T102000Z
+SUMMARY:Groupes et Géométrie (CM)
+UID:578fc33c-bd82-4831-b1fa-2f13c8fbee47@578f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260128T100000Z
+LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
+DTSTART:20260128T080000Z
+SUMMARY:Probabilités avancées (CM)
+UID:814cf975-a7a9-4406-8999-a4562e561ed3@814c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA651-Optimisation et Applications [LSMA651]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260209T115000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260209T102000Z
+SUMMARY:Optimisation et Applications (CM)
+UID:96a21180-c8e3-4d43-a6cf-5e15f41a2b13@96a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260224T083000Z
+LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
+DTSTART:20260224T070000Z
+SUMMARY:Mécanique quantique II (CM)
+UID:9fb76b41-442a-4a30-aeeb-9dfae8a05a8d@9fb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260204T100000Z
+LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
+DTSTART:20260204T080000Z
+SUMMARY:Probabilités avancées (CM)
+UID:0df10b51-991a-4d94-a13e-a1ec51d9903d@0df1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260206T115000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260206T102000Z
+SUMMARY:Groupes et Géométrie (CM)
+UID:1be1e017-40d3-4dc6-9aa0-e82fe835e41c@1be1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA651-Optimisation et Applications [LSMA651]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260126T115000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260126T102000Z
+SUMMARY:Optimisation et Applications (CM)
+UID:786c7b40-d99a-4abb-880a-4850cb73b15c@786c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260127T083000Z
+LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
+DTSTART:20260127T070000Z
+SUMMARY:Mécanique quantique II (CM)
+UID:75663aff-81e8-4021-a156-78fd2c37c7d2@7566.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260206T142000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260206T125000Z
+SUMMARY:: Analyse complexe (CM)
+UID:c93eb93d-1ba3-4d32-9984-c4cf367f1168@c93e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260203T083000Z
+LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
+DTSTART:20260203T070000Z
+SUMMARY:Mécanique quantique II (CM)
+UID:f0151289-3db9-479a-8bab-6f84bbc1c101@f015.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260220T142000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260220T125000Z
+SUMMARY:: Analyse complexe (CM)
+UID:8ab3fa32-93b4-4246-8b18-1b24bc50a6f8@8ab3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260324T083000Z
+LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
+DTSTART:20260324T070000Z
+SUMMARY:Mécanique quantique II (CM)
+UID:208c2e14-b30c-4d71-8881-b36edb5c541a@208c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260331T073000Z
+LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
+DTSTART:20260331T060000Z
+SUMMARY:Mécanique quantique II (CM)
+UID:9706e556-d405-43f5-b01c-f0a621f5fa20@9706.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260408T090000Z
+LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
+DTSTART:20260408T070000Z
+SUMMARY:Probabilités avancées (CM)
+UID:0a7e48b7-3e0b-4709-8078-1944d1618cbd@0a7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA651-Optimisation et Applications [LSMA651]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260119T115000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260119T102000Z
+SUMMARY:Optimisation et Applications (CM)
+UID:69d81ef5-b576-4d8c-8993-3de6e623e2c9@69d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260422T090000Z
+LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
+DTSTART:20260422T070000Z
+SUMMARY:Probabilités avancées (CM)
+UID:4f8b281d-5677-4a90-b0a7-0d75dd44fe07@4f8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA651-Optimisation et Applications [LSMA651]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260316T115000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260316T102000Z
+SUMMARY:Optimisation et Applications (CM)
+UID:090c6796-7f57-44ae-a7aa-aba16a366faf@090c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260320T142000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260320T125000Z
+SUMMARY:: Analyse complexe (CM)
+UID:fa8f8906-c38f-4011-a512-ff45b9299fbb@fa8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260225T100000Z
+LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
+DTSTART:20260225T080000Z
+SUMMARY:Probabilités avancées (CM)
+UID:cc21f7c3-18fc-4d5e-9f5d-85fac350200c@cc21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260320T115000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260320T102000Z
+SUMMARY:Groupes et Géométrie (CM)
+UID:970864fd-5b00-4e22-9eb7-b6ffc3d01e22@9708.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260410T132000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260410T115000Z
+SUMMARY:: Analyse complexe (CM)
+UID:3df1aae3-853e-495f-a6e1-dd40d3703df5@3df1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260311T100000Z
+LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
+DTSTART:20260311T080000Z
+SUMMARY:Probabilités avancées (CM)
+UID:77448544-f12d-4da1-b6cf-a0f1e796fdb9@7744.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260417T105000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260417T092000Z
+SUMMARY:Groupes et Géométrie (CM)
+UID:56a29064-8571-45c9-be87-61d92cd8e10b@56a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260120T083000Z
+LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
+DTSTART:20260120T070000Z
+SUMMARY:Mécanique quantique II (CM)
+UID:b08a6ecb-a284-4bce-a04e-165a15bc8692@b08a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260403T105000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260403T092000Z
+SUMMARY:Groupes et Géométrie (CM)
+UID:369b0c79-0a59-45d1-9f57-d999fee9449d@369b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260410T105000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260410T092000Z
+SUMMARY:Groupes et Géométrie (CM)
+UID:82d04fb7-b396-41e8-9f5f-aa887fc2c846@82d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260325T100000Z
+LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
+DTSTART:20260325T080000Z
+SUMMARY:Probabilités avancées (CM)
+UID:6dc3db11-29d9-4545-8999-07e7d5736c0a@6dc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260210T083000Z
+LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
+DTSTART:20260210T070000Z
+SUMMARY:Mécanique quantique II (CM)
+UID:911af975-9a30-49e6-aa5b-a3ff6df3ee13@911a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA651-Optimisation et Applications [LSMA651]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260504T105000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260504T092000Z
+SUMMARY:Optimisation et Applications (CM)
+UID:bb09ae9a-8fcd-4331-9139-711911f9bc50@bb09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260417T132000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260417T115000Z
+SUMMARY:: Analyse complexe (CM)
+UID:a36f5573-ddd5-474e-b996-d9c8aedbc0f3@a36f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260421T073000Z
+LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
+DTSTART:20260421T060000Z
+SUMMARY:Mécanique quantique II (CM)
+UID:e9ae7c6e-34f7-49db-a126-a7239c952525@e9ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260318T100000Z
+LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
+DTSTART:20260318T080000Z
+SUMMARY:Probabilités avancées (CM)
+UID:60ce04d1-384d-4e07-8ebd-236f0c451717@60ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260218T100000Z
+LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
+DTSTART:20260218T080000Z
+SUMMARY:Probabilités avancées (CM)
+UID:6d10e2bf-1d8d-43fc-8f3d-ceb1bb944d58@6d10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260414T073000Z
+LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
+DTSTART:20260414T060000Z
+SUMMARY:Mécanique quantique II (CM)
+UID:30a35558-491e-4e03-bc65-d65d6b2e5e7b@30a3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260401T090000Z
+LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
+DTSTART:20260401T070000Z
+SUMMARY:Probabilités avancées (CM)
+UID:e36b7ee2-bcef-4a2c-8bd1-30db32606754@e36b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA651-Optimisation et Applications [LSMA651]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260202T115000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260202T102000Z
+SUMMARY:Optimisation et Applications (CM)
+UID:b17c872a-23a2-4650-8ac2-41b8b6d70f53@b17c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA651-Optimisation et Applications [LSMA651]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260309T115000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260309T102000Z
+SUMMARY:Optimisation et Applications (CM)
+UID:455cb93d-796f-4362-b08a-28f754036b58@455c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260327T142000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260327T125000Z
+SUMMARY:: Analyse complexe (CM)
+UID:1e5b8043-49f7-4dcf-9759-785da0c51422@1e5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260327T115000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260327T102000Z
+SUMMARY:Groupes et Géométrie (CM)
+UID:9b14f8db-4c1f-478c-a714-93e4f4a47f7e@9b14.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA651-Optimisation et Applications [LSMA651]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260216T115000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260216T102000Z
+SUMMARY:Optimisation et Applications (CM)
+UID:194e637f-299c-49a6-8c58-c84b57f0c16d@194e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260217T083000Z
+LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
+DTSTART:20260217T070000Z
+SUMMARY:Mécanique quantique II (CM)
+UID:56e1856b-cd00-4080-bb43-bdfcd1a2ba55@56e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260123T115000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260123T102000Z
+SUMMARY:Groupes et Géométrie (CM)
+UID:d88e21ee-4f8f-4236-8f0e-fccee4d471f7@d88e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA651-Optimisation et Applications [LSMA651]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260330T105000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260330T092000Z
+SUMMARY:Optimisation et Applications (CM)
+UID:86df9d31-fe67-49ce-8f39-162e50e1d754@86df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA651-Optimisation et Applications [LSMA651]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260413T105000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260413T092000Z
+SUMMARY:Optimisation et Applications (CM)
+UID:8d0ede44-587a-47cd-b140-4f97019a0d29@8d0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI B - DESCARTES (160 / 85) [Amphithéâtre]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260122T160000Z
+LOCATION:AMPHI B - DESCARTES (160 / 85) [Amphithéâtre]
+DTSTART:20260122T125000Z
+SUMMARY:Mécanique quantique II (CM)
+UID:ff3a206b-1298-4679-a9d0-ea06f54ec961@ff3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260317T083000Z
+LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
+DTSTART:20260317T070000Z
+SUMMARY:Mécanique quantique II (CM)
+UID:52c2ff55-ad9b-4514-908c-a9ff92d826d9@52c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA651-Optimisation et Applications [LSMA651]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nL3 MIASHS S6 ( S6MIASHS ) [S6 MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260323T115000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260323T102000Z
+SUMMARY:Optimisation et Applications (CM)
+UID:4f9e44e4-a29d-4823-8453-722a8c82ee54@4f9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260424T105000Z
+LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
+DTSTART:20260424T092000Z
+SUMMARY:Groupes et Géométrie (CM)
+UID:4a57c09f-9ea9-4384-bd28-893f58942f88@4a57.org
 END:VEVENT
 END:VCALENDAR

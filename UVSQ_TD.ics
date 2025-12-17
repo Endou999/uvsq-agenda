@@ -2,770 +2,770 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nAMPHI I - FERMAT (58 / 29)\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260309T101000Z
-LOCATION:AMPHI I - FERMAT (58 / 29)
-DTSTART:20260309T070000Z
-SUMMARY:: Analyse complexe (TD)
-UID:26448063-fd2f-468e-831c-b3fbb6d6c85c@2644.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2104 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260408T105000Z
-LOCATION:2104 - FERMAT [Salle de TD]
-DTSTART:20260408T092000Z
-SUMMARY:Probabilités avancées (TD)
-UID:5b5fd212-41fe-4242-a6e6-3f5c72ab7038@5b5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM/TD\n\n\n\n\n501/503 - BUFFON  [Salle de cours]\n\n\n\n\nLSPH617-LSPH617 - Physique statistique [LSPH617]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260126T174000Z
-LOCATION:501/503 - BUFFON  [Salle de cours]
-DTSTART:20260126T143000Z
-SUMMARY:Physique statistique (CM/TD)
-UID:837ebe5c-c757-4e7a-85f2-11df1a7b97b2@837e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD Cartable Numérique\n\n\n\n\n326/328 - BUFFON [CARTABLE NUMERIQUE ]\nPas de salles CN\n\n\n\n\nLSEN690-Astrophysique [LSEN690]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260407T105000Z
-LOCATION:326/328 - BUFFON [CARTABLE NUMERIQUE ]
-DTSTART:20260407T074000Z
-SUMMARY:Astrophysique (TD Cartable Numérique)
-UID:44a66ce2-845a-480d-b53f-d4b105421cef@44a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD Cartable Numérique\n\n\n\n\nG104 - GERMAIN (MASTER)\nPas de salles CN\n\n\n\n\nLSEN690-Astrophysique [LSEN690]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260203T115000Z
-LOCATION:Pas de salles CN
-DTSTART:20260203T084000Z
-SUMMARY:Astrophysique (TD Cartable Numérique)
-UID:e53c8621-3ffe-44b9-8211-d571495396e2@e53c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nAMPHI I - FERMAT (58 / 29)\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260126T101000Z
-LOCATION:AMPHI I - FERMAT (58 / 29)
-DTSTART:20260126T070000Z
-SUMMARY:: Analyse complexe (TD)
-UID:099b27f5-6867-47cf-9ab9-a44a79c4f0e6@099b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD Cartable Numérique\n\n\n\n\nG104 - GERMAIN (MASTER)\nPas de salles CN\n\n\n\n\nLSEN690-Astrophysique [LSEN690]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260317T115000Z
-LOCATION:Pas de salles CN
-DTSTART:20260317T084000Z
-SUMMARY:Astrophysique (TD Cartable Numérique)
-UID:e2d86175-3145-458a-9007-65546885505f@e2d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM/TD\n\n\n\n\n501/503 - BUFFON  [Salle de cours]\n\n\n\n\nLSPH617-LSPH617 - Physique statistique [LSPH617]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260309T174000Z
-LOCATION:501/503 - BUFFON  [Salle de cours]
-DTSTART:20260309T143000Z
-SUMMARY:Physique statistique (CM/TD)
-UID:bf269886-86ae-4096-9ab0-8e9632308ccd@bf26.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG105 - GERMAIN [Salle de TD]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260417T091000Z
-LOCATION:G105 - GERMAIN [Salle de TD]
-DTSTART:20260417T060000Z
-SUMMARY:Groupes et Géométrie (TD)
-UID:688fcce4-ddea-43d4-8ebb-ff25ae0f518d@688f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nAMPHI I - FERMAT (58 / 29)\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260209T101000Z
-LOCATION:AMPHI I - FERMAT (58 / 29)
-DTSTART:20260209T070000Z
-SUMMARY:: Analyse complexe (TD)
-UID:d270e6df-6bba-44c5-92b1-d91d18c32b64@d270.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG001 - GERMAIN [Salle de TD]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260205T160000Z
-LOCATION:G001 - GERMAIN [Salle de TD]
-DTSTART:20260205T125000Z
-SUMMARY:Mécanique quantique II (TD)
-UID:6719b293-d87f-43da-8e74-b795c5774361@6719.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG001 - GERMAIN [Salle de TD]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260423T150000Z
-LOCATION:G001 - GERMAIN [Salle de TD]
-DTSTART:20260423T115000Z
-SUMMARY:Mécanique quantique II (TD)
-UID:d509ffbd-9b96-4ef0-983a-3c0eec4b92a6@d509.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2104 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260422T105000Z
-LOCATION:2104 - FERMAT [Salle de TD]
-DTSTART:20260422T092000Z
-SUMMARY:Probabilités avancées (TD)
-UID:e5aba3fb-1d76-4025-942f-85cc3d595f4f@e5ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nAMPHI I - FERMAT (58 / 29)\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260323T101000Z
-LOCATION:AMPHI I - FERMAT (58 / 29)
-DTSTART:20260323T070000Z
-SUMMARY:: Analyse complexe (TD)
-UID:d5bd2ee3-fea3-4295-a211-58e116be2a65@d5bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nAMPHI I - FERMAT (58 / 29)\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260202T101000Z
-LOCATION:AMPHI I - FERMAT (58 / 29)
-DTSTART:20260202T070000Z
-SUMMARY:: Analyse complexe (TD)
-UID:dbc36b01-ba1c-4014-a5e5-eecbdfadf1d6@dbc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG001 - GERMAIN [Salle de TD]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260416T150000Z
-LOCATION:G001 - GERMAIN [Salle de TD]
-DTSTART:20260416T115000Z
-SUMMARY:Mécanique quantique II (TD)
-UID:eca6a97b-27e5-403f-bef1-a373548db21d@eca6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD Cartable Numérique\n\n\n\n\nG104 - GERMAIN (MASTER)\nPas de salles CN\n\n\n\n\nLSEN690-Astrophysique [LSEN690]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260310T115000Z
-LOCATION:Pas de salles CN
-DTSTART:20260310T084000Z
-SUMMARY:Astrophysique (TD Cartable Numérique)
-UID:4dbb93c5-ee3d-489a-9e5a-5ce4b9628f40@4dbb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2202 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260206T160000Z
-LOCATION:2202 - FERMAT [Salle de TD]
-DTSTART:20260206T143000Z
-SUMMARY:Probabilités avancées (TD)
-UID:cf032555-3748-43cb-98d9-a8da6e4ddb44@cf03.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2202 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260320T160000Z
-LOCATION:2202 - FERMAT [Salle de TD]
-DTSTART:20260320T143000Z
-SUMMARY:Probabilités avancées (TD)
-UID:53dd87df-cf3a-4bca-adec-5ab33cb757c9@53dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG001 - GERMAIN [Salle de TD]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260326T160000Z
-LOCATION:G001 - GERMAIN [Salle de TD]
-DTSTART:20260326T125000Z
-SUMMARY:Mécanique quantique II (TD)
-UID:dfff2477-19bb-47f0-99be-db20849eee74@dfff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM/TD\n\n\n\n\n501/503 - BUFFON  [Salle de cours]\n\n\n\n\nLSPH617-LSPH617 - Physique statistique [LSPH617]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260202T174000Z
-LOCATION:501/503 - BUFFON  [Salle de cours]
-DTSTART:20260202T143000Z
-SUMMARY:Physique statistique (CM/TD)
-UID:ddff9719-2c25-4128-be8a-10a415bf2400@ddff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2206 - FERMAT\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260317T160000Z
-LOCATION:2206 - FERMAT
-DTSTART:20260317T125000Z
-SUMMARY:Optimisation et Applications (TD)
-UID:21191874-d2d1-4917-8784-ba66e2a8ec05@2119.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2202 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260403T150000Z
-LOCATION:2202 - FERMAT [Salle de TD]
-DTSTART:20260403T133000Z
-SUMMARY:Probabilités avancées (TD)
-UID:b1fedd74-f9f9-4e5f-872b-e0369e403f32@b1fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM/TD\n\n\n\n\n501/503 - BUFFON  [Salle de cours]\n\n\n\n\nLSPH617-LSPH617 - Physique statistique [LSPH617]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260119T174000Z
-LOCATION:501/503 - BUFFON  [Salle de cours]
-DTSTART:20260119T143000Z
-SUMMARY:Physique statistique (CM/TD)
-UID:97295ee4-e1db-4898-9ac4-8fa5dca1442b@9729.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM/TD\n\n\n\n\n501/503 - BUFFON  [Salle de cours]\n\n\n\n\nLSPH617-LSPH617 - Physique statistique [LSPH617]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260323T174000Z
-LOCATION:501/503 - BUFFON  [Salle de cours]
-DTSTART:20260323T143000Z
-SUMMARY:Physique statistique (CM/TD)
-UID:fd041c22-5b06-4508-b32a-455f2d3fc884@fd04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2104 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
+DESCRIPTION:TD\n2104 - FERMAT [Salle de TD]\nLSMA631N-Probabilités avancées [LSMA631N]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
 DTEND:20260415T105000Z
 LOCATION:2104 - FERMAT [Salle de TD]
 DTSTART:20260415T092000Z
 SUMMARY:Probabilités avancées (TD)
-UID:61a4cfca-239d-4d2f-959d-79515fc36788@61a4.org
+UID:f6ce9a6f-019a-42a4-a249-cff56c584f23@f6ce.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG105 - GERMAIN [Salle de TD]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260213T101000Z
-LOCATION:G105 - GERMAIN [Salle de TD]
-DTSTART:20260213T070000Z
-SUMMARY:Groupes et Géométrie (TD)
-UID:22abe7ab-f2fd-4a88-8a25-10098cf2d70e@22ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2206 - FERMAT\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260310T160000Z
-LOCATION:2206 - FERMAT
-DTSTART:20260310T125000Z
-SUMMARY:Optimisation et Applications (TD)
-UID:e03f718f-54d3-45e2-8cf1-4846172676f4@e03f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG001 - GERMAIN [Salle de TD]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260319T160000Z
-LOCATION:G001 - GERMAIN [Salle de TD]
-DTSTART:20260319T125000Z
-SUMMARY:Mécanique quantique II (TD)
-UID:75c21818-01c1-44fe-80c5-29a876c9581c@75c2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM/TD\n\n\n\n\n501/503 - BUFFON  [Salle de cours]\n\n\n\n\nLSPH617-LSPH617 - Physique statistique [LSPH617]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260420T164000Z
-LOCATION:501/503 - BUFFON  [Salle de cours]
-DTSTART:20260420T133000Z
-SUMMARY:Physique statistique (CM/TD)
-UID:9d42349f-f3c5-4b97-99b5-5dd3226cd195@9d42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2202 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260313T160000Z
-LOCATION:2202 - FERMAT [Salle de TD]
-DTSTART:20260313T143000Z
-SUMMARY:Probabilités avancées (TD)
-UID:2571b9a5-8a01-4907-b9d2-c52cc356d72c@2571.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2104 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260318T115000Z
-LOCATION:2104 - FERMAT [Salle de TD]
-DTSTART:20260318T102000Z
-SUMMARY:Probabilités avancées (TD)
-UID:3fc0634b-fb37-405c-8ca6-7f92c7cff4b4@3fc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG001 - GERMAIN [Salle de TD]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260129T160000Z
-LOCATION:G001 - GERMAIN [Salle de TD]
-DTSTART:20260129T125000Z
-SUMMARY:Mécanique quantique II (TD)
-UID:1cb25634-980a-450c-9993-6e66cffb9d7b@1cb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2104 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260211T115000Z
-LOCATION:2104 - FERMAT [Salle de TD]
-DTSTART:20260211T102000Z
-SUMMARY:Probabilités avancées (TD)
-UID:3633751e-c77a-4214-856c-3e97ed17be54@3633.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG105 - GERMAIN [Salle de TD]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260130T101000Z
-LOCATION:G105 - GERMAIN [Salle de TD]
-DTSTART:20260130T070000Z
-SUMMARY:Groupes et Géométrie (TD)
-UID:8aac6a17-6439-465c-9fdc-073a00e1607c@8aac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG001 - GERMAIN [Salle de TD]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260212T160000Z
-LOCATION:G001 - GERMAIN [Salle de TD]
-DTSTART:20260212T125000Z
-SUMMARY:Mécanique quantique II (TD)
-UID:76a673ab-48ba-4be2-a938-255ca63a5bdc@76a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG105 - GERMAIN [Salle de TD]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260206T101000Z
-LOCATION:G105 - GERMAIN [Salle de TD]
-DTSTART:20260206T070000Z
-SUMMARY:Groupes et Géométrie (TD)
-UID:886e32e4-9e01-4f1b-bdd1-20695afc4e0f@886e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2104 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260225T115000Z
-LOCATION:2104 - FERMAT [Salle de TD]
-DTSTART:20260225T102000Z
-SUMMARY:Probabilités avancées (TD)
-UID:bf8e570e-3494-4d3e-a1c1-5f87a4b80f6b@bf8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2206 - FERMAT\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260421T150000Z
-LOCATION:2206 - FERMAT
-DTSTART:20260421T115000Z
-SUMMARY:Optimisation et Applications (TD)
-UID:9f766293-caed-4331-8941-0dfbe27c0006@9f76.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG001 - GERMAIN [Salle de TD]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260402T150000Z
-LOCATION:G001 - GERMAIN [Salle de TD]
-DTSTART:20260402T115000Z
-SUMMARY:Mécanique quantique II (TD)
-UID:7306e4ae-9fcd-44d7-8bfe-52d0b76ebe6e@7306.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2206 - FERMAT\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260331T150000Z
-LOCATION:2206 - FERMAT
-DTSTART:20260331T115000Z
-SUMMARY:Optimisation et Applications (TD)
-UID:a3270848-4d09-4343-bca7-3c5fbc17f082@a327.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG105 - GERMAIN [Salle de TD]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260410T091000Z
-LOCATION:G105 - GERMAIN [Salle de TD]
-DTSTART:20260410T060000Z
-SUMMARY:Groupes et Géométrie (TD)
-UID:dac7c4e1-ed7a-4a95-83e1-187d1c30e94c@dac7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2202 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260227T160000Z
-LOCATION:2202 - FERMAT [Salle de TD]
-DTSTART:20260227T143000Z
-SUMMARY:Probabilités avancées (TD)
-UID:302bae71-097a-47d3-8379-313d88a13c8f@302b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD Cartable Numérique\n\n\n\n\nALSACE - DESCARTES  [CARTABLE NUMERIQUE ]\nPas de salles CN\n\n\n\n\nLSEN690-Astrophysique [LSEN690]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260127T115000Z
-LOCATION:ALSACE - DESCARTES  [CARTABLE NUMERIQUE ]
-DTSTART:20260127T084000Z
-SUMMARY:Astrophysique (TD Cartable Numérique)
-UID:a11dc9e0-cf6d-4083-8272-663fc856a454@a11d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2202 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260220T160000Z
-LOCATION:2202 - FERMAT [Salle de TD]
-DTSTART:20260220T143000Z
-SUMMARY:Probabilités avancées (TD)
-UID:d07ca9a8-f61b-48f7-afba-e055263295ce@d07c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nAMPHI I - FERMAT (58 / 29)\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260420T091000Z
-LOCATION:AMPHI I - FERMAT (58 / 29)
-DTSTART:20260420T060000Z
-SUMMARY:: Analyse complexe (TD)
-UID:47814266-3368-4844-8f8c-6d0804d189dd@4781.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2104 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260325T115000Z
-LOCATION:2104 - FERMAT [Salle de TD]
-DTSTART:20260325T102000Z
-SUMMARY:Probabilités avancées (TD)
-UID:8046b162-6610-4bc0-8e82-3214e8e48d1d@8046.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2206 - FERMAT\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260217T160000Z
-LOCATION:2206 - FERMAT
-DTSTART:20260217T125000Z
-SUMMARY:Optimisation et Applications (TD)
-UID:f69054eb-fedb-4e56-8c34-2fb0bbfda7c1@f690.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG105 - GERMAIN [Salle de TD]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260327T101000Z
-LOCATION:G105 - GERMAIN [Salle de TD]
-DTSTART:20260327T070000Z
-SUMMARY:Groupes et Géométrie (TD)
-UID:66afc658-8d01-4f62-9642-33be2be9b908@66af.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD Cartable Numérique\n\n\n\n\nG104 - GERMAIN (MASTER)\nPas de salles CN\n\n\n\n\nLSEN690-Astrophysique [LSEN690]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260224T115000Z
-LOCATION:Pas de salles CN
-DTSTART:20260224T084000Z
-SUMMARY:Astrophysique (TD Cartable Numérique)
-UID:a0f7f5ac-cbb5-4a13-9c03-fb8f197d08e4@a0f7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD Cartable Numérique\n\n\n\n\nG104 - GERMAIN (MASTER)\nPas de salles CN\n\n\n\n\nLSEN690-Astrophysique [LSEN690]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260324T115000Z
-LOCATION:Pas de salles CN
-DTSTART:20260324T084000Z
-SUMMARY:Astrophysique (TD Cartable Numérique)
-UID:e117ef10-acf4-480c-ad48-765bb74c4687@e117.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM/TD\n\n\n\n\n501/503 - BUFFON  [Salle de cours]\n\n\n\n\nLSPH617-LSPH617 - Physique statistique [LSPH617]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260413T164000Z
-LOCATION:501/503 - BUFFON  [Salle de cours]
-DTSTART:20260413T133000Z
-SUMMARY:Physique statistique (CM/TD)
-UID:b297ed1e-724c-49f4-8e6d-3d9c07dbd8ae@b297.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD Cartable Numérique\n\n\n\n\nG104 - GERMAIN (MASTER)\nPas de salles CN\n\n\n\n\nLSEN690-Astrophysique [LSEN690]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260217T115000Z
-LOCATION:Pas de salles CN
-DTSTART:20260217T084000Z
-SUMMARY:Astrophysique (TD Cartable Numérique)
-UID:f77e6fdc-8fbe-47b3-956e-ff7f195a8adf@f77e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM/TD\n\n\n\n\n501/503 - BUFFON  [Salle de cours]\n\n\n\n\nLSPH617-LSPH617 - Physique statistique [LSPH617]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260216T174000Z
-LOCATION:501/503 - BUFFON  [Salle de cours]
-DTSTART:20260216T143000Z
-SUMMARY:Physique statistique (CM/TD)
-UID:3f2dc560-a9a1-44f5-b7a9-899c621f6265@3f2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nAMPHI I - FERMAT (58 / 29)\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260504T091000Z
-LOCATION:AMPHI I - FERMAT (58 / 29)
-DTSTART:20260504T060000Z
-SUMMARY:: Analyse complexe (TD)
-UID:6a7fa9e2-a8f6-4107-ae80-94f408a877c8@6a7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2104 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260218T115000Z
-LOCATION:2104 - FERMAT [Salle de TD]
-DTSTART:20260218T102000Z
-SUMMARY:Probabilités avancées (TD)
-UID:31670fef-7cd3-4ed2-9d28-87c24d85c47b@3167.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2202 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260424T150000Z
-LOCATION:2202 - FERMAT [Salle de TD]
-DTSTART:20260424T133000Z
-SUMMARY:Probabilités avancées (TD)
-UID:bf8d6b0b-6986-43b7-82e8-42b3b0c32f79@bf8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD Cartable Numérique\n\n\n\n\nG104 - GERMAIN (MASTER)\nPas de salles CN\n\n\n\n\nLSEN690-Astrophysique [LSEN690]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260210T115000Z
-LOCATION:Pas de salles CN
-DTSTART:20260210T084000Z
-SUMMARY:Astrophysique (TD Cartable Numérique)
-UID:67f1c3da-43ea-4b14-8738-542be8c2bf1f@67f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nAMPHI I - FERMAT (58 / 29)\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260223T101000Z
-LOCATION:AMPHI I - FERMAT (58 / 29)
-DTSTART:20260223T070000Z
-SUMMARY:: Analyse complexe (TD)
-UID:32e4d320-2550-437b-8f98-a2ef50c9f418@32e4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nAMPHI I - FERMAT (58 / 29)\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260316T101000Z
-LOCATION:AMPHI I - FERMAT (58 / 29)
-DTSTART:20260316T070000Z
-SUMMARY:: Analyse complexe (TD)
-UID:faa1ba7d-c141-47e7-a411-de13fb3eeb09@faa1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG001 - GERMAIN [Salle de TD]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260219T160000Z
-LOCATION:G001 - GERMAIN [Salle de TD]
-DTSTART:20260219T125000Z
-SUMMARY:Mécanique quantique II (TD)
-UID:ac4be069-a9f0-4c97-8449-93ae2d83866f@ac4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2202 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260327T160000Z
-LOCATION:2202 - FERMAT [Salle de TD]
-DTSTART:20260327T143000Z
-SUMMARY:Probabilités avancées (TD)
-UID:b5dc1718-54cb-4edd-9fee-4f633624239b@b5dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2206 - FERMAT\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260224T160000Z
-LOCATION:2206 - FERMAT
-DTSTART:20260224T125000Z
-SUMMARY:Optimisation et Applications (TD)
-UID:995a05e3-19a7-4e38-9216-c60e3bcdd208@995a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nAMPHI I - FERMAT (58 / 29)\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260413T091000Z
-LOCATION:AMPHI I - FERMAT (58 / 29)
-DTSTART:20260413T060000Z
-SUMMARY:: Analyse complexe (TD)
-UID:0daf1e8b-a3af-4b64-8489-3b160d06b711@0daf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2104 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260128T115000Z
-LOCATION:2104 - FERMAT [Salle de TD]
-DTSTART:20260128T102000Z
-SUMMARY:Probabilités avancées (TD)
-UID:1f8ff71e-bfcb-4b4b-85e5-e75bc7081e9c@1f8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG105 - GERMAIN [Salle de TD]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260227T101000Z
-LOCATION:G105 - GERMAIN [Salle de TD]
-DTSTART:20260227T070000Z
-SUMMARY:Groupes et Géométrie (TD)
-UID:d201ede6-ae41-4ed0-892a-c2997b763d12@d201.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2205 - FERMAT [Salle de TD]\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260203T160000Z
-LOCATION:2205 - FERMAT [Salle de TD]
-DTSTART:20260203T125000Z
-SUMMARY:Optimisation et Applications (TD)
-UID:b9e120e6-4e27-4902-a161-56a4583451f8@b9e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2206 - FERMAT\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260210T160000Z
-LOCATION:2206 - FERMAT
-DTSTART:20260210T125000Z
-SUMMARY:Optimisation et Applications (TD)
-UID:0e7e89a8-da01-44f1-bc72-88dec720e1a9@0e7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM/TD\n\n\n\n\n\n\n\n\n\nLSPH617-LSPH617 - Physique statistique [LSPH617]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260504T164000Z
-DTSTART:20260504T133000Z
-SUMMARY:Physique statistique (CM/TD)
-UID:4ea35b32-4eaa-4bc7-b99b-0dffb42dff68@4ea3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2202 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260213T160000Z
-LOCATION:2202 - FERMAT [Salle de TD]
-DTSTART:20260213T143000Z
-SUMMARY:Probabilités avancées (TD)
-UID:86774675-0459-47e4-b951-c25efd80134e@8677.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG105 - GERMAIN [Salle de TD]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260320T101000Z
-LOCATION:G105 - GERMAIN [Salle de TD]
-DTSTART:20260320T070000Z
-SUMMARY:Groupes et Géométrie (TD)
-UID:577fa5f9-9da4-4078-ae98-cdb7789dd196@577f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nAMPHI I - FERMAT (58 / 29)\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260330T091000Z
-LOCATION:AMPHI I - FERMAT (58 / 29)
-DTSTART:20260330T060000Z
-SUMMARY:: Analyse complexe (TD)
-UID:33140d55-61a8-411c-9317-364c1de7fa7d@3314.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2206 - FERMAT\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260407T150000Z
-LOCATION:2206 - FERMAT
-DTSTART:20260407T115000Z
-SUMMARY:Optimisation et Applications (TD)
-UID:ef235079-eb48-484a-b6ad-4a03ce6bb0e6@ef23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG001 - GERMAIN [Salle de TD]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260226T160000Z
-LOCATION:G001 - GERMAIN [Salle de TD]
-DTSTART:20260226T125000Z
-SUMMARY:Mécanique quantique II (TD)
-UID:d21b75e6-b177-4db0-b613-3599987b3e0d@d21b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG105 - GERMAIN [Salle de TD]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260220T101000Z
-LOCATION:G105 - GERMAIN [Salle de TD]
-DTSTART:20260220T070000Z
-SUMMARY:Groupes et Géométrie (TD)
-UID:0f78f523-83d3-4572-81d7-b6f0f5742616@0f78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG001 - GERMAIN [Salle de TD]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260409T150000Z
-LOCATION:G001 - GERMAIN [Salle de TD]
-DTSTART:20260409T115000Z
-SUMMARY:Mécanique quantique II (TD)
-UID:85de2dac-a66a-46fa-9210-d863fea577f7@85de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD Cartable Numérique\n\n\n\n\nG104 - GERMAIN (MASTER)\nPas de salles CN\n\n\n\n\nLSEN690-Astrophysique [LSEN690]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260421T105000Z
-LOCATION:Pas de salles CN
-DTSTART:20260421T074000Z
-SUMMARY:Astrophysique (TD Cartable Numérique)
-UID:14b51d1b-22d0-4a5b-9d56-a0081e1cbc9c@14b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2202 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260130T160000Z
-LOCATION:2202 - FERMAT [Salle de TD]
-DTSTART:20260130T143000Z
-SUMMARY:Probabilités avancées (TD)
-UID:dc52e38f-aba5-40de-b158-a3930b60afc1@dc52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG105 - GERMAIN [Salle de TD]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260313T101000Z
-LOCATION:G105 - GERMAIN [Salle de TD]
-DTSTART:20260313T070000Z
-SUMMARY:Groupes et Géométrie (TD)
-UID:e01ddfe9-4313-48ae-82f8-aceefaaee4f7@e01d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2206 - FERMAT\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260324T160000Z
-LOCATION:2206 - FERMAT
-DTSTART:20260324T125000Z
-SUMMARY:Optimisation et Applications (TD)
-UID:d79b19f0-a760-4383-89b4-96d2d85022bf@d79b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2104 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260311T115000Z
-LOCATION:2104 - FERMAT [Salle de TD]
-DTSTART:20260311T102000Z
-SUMMARY:Probabilités avancées (TD)
-UID:0c0e5bff-a6cb-41c3-b772-5566f0d5313e@0c0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2202 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260410T150000Z
-LOCATION:2202 - FERMAT [Salle de TD]
-DTSTART:20260410T133000Z
-SUMMARY:Probabilités avancées (TD)
-UID:42b60b79-d775-4a2e-b231-f68355408363@42b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2206 - FERMAT\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260414T150000Z
-LOCATION:2206 - FERMAT
-DTSTART:20260414T115000Z
-SUMMARY:Optimisation et Applications (TD)
-UID:42abf5f8-055c-4bf8-9099-3d1d15329563@42ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD Cartable Numérique\n\n\n\n\nG104 - GERMAIN (MASTER)\nPas de salles CN\n\n\n\n\nLSEN690-Astrophysique [LSEN690]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260414T105000Z
-LOCATION:Pas de salles CN
-DTSTART:20260414T074000Z
-SUMMARY:Astrophysique (TD Cartable Numérique)
-UID:8f7c5cb0-982c-4adb-9bc2-ad5132c63c3f@8f7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM/TD\n\n\n\n\n501/503 - BUFFON  [Salle de cours]\n\n\n\n\nLSPH617-LSPH617 - Physique statistique [LSPH617]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260316T174000Z
-LOCATION:501/503 - BUFFON  [Salle de cours]
-DTSTART:20260316T143000Z
-SUMMARY:Physique statistique (CM/TD)
-UID:2bc0195c-d48d-4a28-b086-c580e0d82ad8@2bc0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2206 - FERMAT\n\n\n\n\nLSMA651-Optimisation et Applications [LSMA651]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260127T160000Z
-LOCATION:2206 - FERMAT
-DTSTART:20260127T125000Z
-SUMMARY:Optimisation et Applications (TD)
-UID:6726e87d-8f9c-4f97-9e3a-e56fa48fc18b@6726.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG105 - GERMAIN [Salle de TD]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260403T091000Z
-LOCATION:G105 - GERMAIN [Salle de TD]
-DTSTART:20260403T060000Z
-SUMMARY:Groupes et Géométrie (TD)
-UID:a4d8f3d5-f13a-48ad-877e-353d1c1a06b3@a4d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2104 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260401T105000Z
-LOCATION:2104 - FERMAT [Salle de TD]
-DTSTART:20260401T092000Z
-SUMMARY:Probabilités avancées (TD)
-UID:98aee440-c22f-422a-98d2-4569bbcbf66e@98ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM/TD\n\n\n\n\n501/503 - BUFFON  [Salle de cours]\n\n\n\n\nLSPH617-LSPH617 - Physique statistique [LSPH617]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260330T164000Z
-LOCATION:501/503 - BUFFON  [Salle de cours]
-DTSTART:20260330T133000Z
-SUMMARY:Physique statistique (CM/TD)
-UID:fd517334-efbb-492d-9fbf-fd1d024feb4d@fd51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nAMPHI I - FERMAT (58 / 29)\n\n\n\n\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260216T101000Z
-LOCATION:AMPHI I - FERMAT (58 / 29)
-DTSTART:20260216T070000Z
-SUMMARY:: Analyse complexe (TD)
-UID:0764f7c3-d713-4a7c-9259-243283b1324b@0764.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG105 - GERMAIN [Salle de TD]\n\n\n\n\nLSMA610-Groupes et Géométrie [LSMA610]\n\n\n\n\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
+DESCRIPTION:TD\nG105 - GERMAIN [Salle de TD]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
 DTEND:20260424T091000Z
 LOCATION:G105 - GERMAIN [Salle de TD]
 DTSTART:20260424T060000Z
 SUMMARY:Groupes et Géométrie (TD)
-UID:9642aee5-7016-4eb3-88a5-263ebbae0661@9642.org
+UID:f68a4f6b-c68c-4bbc-9df6-353da8bd7169@f68a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:CM/TD\n\n\n\n\n501/503 - BUFFON  [Salle de cours]\n\n\n\n\nLSPH617-LSPH617 - Physique statistique [LSPH617]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
+DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260309T174000Z
+LOCATION:501/503 - BUFFON  [Salle de cours]
+DTSTART:20260309T143000Z
+SUMMARY:Physique statistique (CM/TD)
+UID:580a10d0-1cc7-4f24-996f-10fa8584f4c6@580a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
 DTEND:20260223T174000Z
 LOCATION:501/503 - BUFFON  [Salle de cours]
 DTSTART:20260223T143000Z
 SUMMARY:Physique statistique (CM/TD)
-UID:0fc0be1e-5bec-45f6-8e96-2bd134cc39ee@0fc0.org
+UID:3b39c80b-1628-4f11-bf5d-081b7b28908f@3b39.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:TD Cartable Numérique\n\n\n\n\nG104 - GERMAIN (MASTER)\nPas de salles CN\n\n\n\n\nLSEN690-Astrophysique [LSEN690]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260331T105000Z
-LOCATION:Pas de salles CN
-DTSTART:20260331T074000Z
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260205T160000Z
+LOCATION:G001 - GERMAIN [Salle de TD]
+DTSTART:20260205T125000Z
+SUMMARY:Mécanique quantique II (TD)
+UID:512313bd-7196-45e3-8cbd-f037c1b59969@5123.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nAMPHI I - FERMAT (58 / 29)\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260330T091000Z
+LOCATION:AMPHI I - FERMAT (58 / 29)
+DTSTART:20260330T060000Z
+SUMMARY:: Analyse complexe (TD)
+UID:9d00bd58-2d94-43ea-b440-ec918c29d924@9d00.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG105 - GERMAIN [Salle de TD]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260313T101000Z
+LOCATION:G105 - GERMAIN [Salle de TD]
+DTSTART:20260313T070000Z
+SUMMARY:Groupes et Géométrie (TD)
+UID:a1972b5c-1b50-4c6e-aa6c-8faf1582c124@a197.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2206 - FERMAT\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260414T150000Z
+LOCATION:2206 - FERMAT
+DTSTART:20260414T115000Z
+SUMMARY:Optimisation et Applications (TD)
+UID:f897f1fb-2964-4bee-8439-391d1e763716@f897.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nAMPHI I - FERMAT (58 / 29)\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260216T101000Z
+LOCATION:AMPHI I - FERMAT (58 / 29)
+DTSTART:20260216T070000Z
+SUMMARY:: Analyse complexe (TD)
+UID:b5c71d91-f223-4eb3-a928-e281fbab967c@b5c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD Cartable Numérique\nALSACE - DESCARTES  [CARTABLE NUMERIQUE ]\nPas de salles CN\nLSEN690-Astrophysique [LSEN690]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260127T115000Z
+LOCATION:ALSACE - DESCARTES  [CARTABLE NUMERIQUE ]
+DTSTART:20260127T084000Z
 SUMMARY:Astrophysique (TD Cartable Numérique)
-UID:deb9a778-fc21-4f2d-85b2-300b2477d58d@deb9.org
+UID:27e32956-600e-47ff-b94c-e28c665cb7cb@27e3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2104 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631N-Probabilités avancées [LSMA631N]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
-DTEND:20260204T115000Z
-LOCATION:2104 - FERMAT [Salle de TD]
-DTSTART:20260204T102000Z
-SUMMARY:Probabilités avancées (TD)
-UID:7abbc798-bd23-43db-aa76-63060464e3db@7abb.org
+DESCRIPTION:TD\n2206 - FERMAT\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260310T160000Z
+LOCATION:2206 - FERMAT
+DTSTART:20260310T125000Z
+SUMMARY:Optimisation et Applications (TD)
+UID:e96e908a-e5f3-4758-952d-4e70cf27447a@e96e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\nG001 - GERMAIN [Salle de TD]\n\n\n\n\nLSPH616-Mécanique quantique II [LSPH616]\n\n\n\n\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\n\n\n\n\n\n\n\n\n\n\n
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
 DTEND:20260312T160000Z
 LOCATION:G001 - GERMAIN [Salle de TD]
 DTSTART:20260312T125000Z
 SUMMARY:Mécanique quantique II (TD)
-UID:0411ae4b-991f-49ff-b04a-2d1dbede9d45@0411.org
+UID:3276efd0-0c99-4488-8b75-6b57a35f6861@3276.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:TD\n\n\n\n\n2202 - FERMAT [Salle de TD]\n\n\n\n\nLSMA631D-Probabilités avancées [LSMA631D]\n\n\n\n\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\n\n\n\n\n\n\n\n\n\n\n
+DESCRIPTION:TD\nG105 - GERMAIN [Salle de TD]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260227T101000Z
+LOCATION:G105 - GERMAIN [Salle de TD]
+DTSTART:20260227T070000Z
+SUMMARY:Groupes et Géométrie (TD)
+UID:a3e6ff60-88ec-4a42-b691-2d09baf44ad6@a3e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2202 - FERMAT [Salle de TD]\nLSMA631D-Probabilités avancées [LSMA631D]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260220T160000Z
+LOCATION:2202 - FERMAT [Salle de TD]
+DTSTART:20260220T143000Z
+SUMMARY:Probabilités avancées (TD)
+UID:ee81214c-07f8-4998-b489-8c31729011bd@ee81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nAMPHI I - FERMAT (58 / 29)\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260420T091000Z
+LOCATION:AMPHI I - FERMAT (58 / 29)
+DTSTART:20260420T060000Z
+SUMMARY:: Analyse complexe (TD)
+UID:1b0e4e89-aced-4525-a590-04a550c19679@1b0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2104 - FERMAT [Salle de TD]\nLSMA631N-Probabilités avancées [LSMA631N]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260311T115000Z
+LOCATION:2104 - FERMAT [Salle de TD]
+DTSTART:20260311T102000Z
+SUMMARY:Probabilités avancées (TD)
+UID:bbc1454f-84c2-4c85-a359-64c071eb8dbc@bbc1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2202 - FERMAT [Salle de TD]\nLSMA631D-Probabilités avancées [LSMA631D]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260424T150000Z
+LOCATION:2202 - FERMAT [Salle de TD]
+DTSTART:20260424T133000Z
+SUMMARY:Probabilités avancées (TD)
+UID:4954fc04-726b-402c-915a-55e101b38295@4954.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2104 - FERMAT [Salle de TD]\nLSMA631N-Probabilités avancées [LSMA631N]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260325T115000Z
+LOCATION:2104 - FERMAT [Salle de TD]
+DTSTART:20260325T102000Z
+SUMMARY:Probabilités avancées (TD)
+UID:f8a0c0ae-4413-4a95-832b-c5fec1d68af3@f8a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260330T164000Z
+LOCATION:501/503 - BUFFON  [Salle de cours]
+DTSTART:20260330T133000Z
+SUMMARY:Physique statistique (CM/TD)
+UID:322da2c9-31f0-4377-8544-7fd582b3bd22@322d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2202 - FERMAT [Salle de TD]\nLSMA631D-Probabilités avancées [LSMA631D]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
 DTEND:20260417T150000Z
 LOCATION:2202 - FERMAT [Salle de TD]
 DTSTART:20260417T133000Z
 SUMMARY:Probabilités avancées (TD)
-UID:592e6e76-90ce-4d8f-a7fc-8c99c067c467@592e.org
+UID:ade284a0-686a-44be-9dfd-5666eb1af960@ade2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2202 - FERMAT [Salle de TD]\nLSMA631D-Probabilités avancées [LSMA631D]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260327T160000Z
+LOCATION:2202 - FERMAT [Salle de TD]
+DTSTART:20260327T143000Z
+SUMMARY:Probabilités avancées (TD)
+UID:1cddf286-d039-405e-8572-4e68c376e178@1cdd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG105 - GERMAIN [Salle de TD]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260220T101000Z
+LOCATION:G105 - GERMAIN [Salle de TD]
+DTSTART:20260220T070000Z
+SUMMARY:Groupes et Géométrie (TD)
+UID:03d58b33-67fb-4166-b5ee-bca9ca597a03@03d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2205 - FERMAT [Salle de TD]\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260203T160000Z
+LOCATION:2205 - FERMAT [Salle de TD]
+DTSTART:20260203T125000Z
+SUMMARY:Optimisation et Applications (TD)
+UID:55ed5db2-2066-47f3-b128-76ca537024d9@55ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260423T150000Z
+LOCATION:G001 - GERMAIN [Salle de TD]
+DTSTART:20260423T115000Z
+SUMMARY:Mécanique quantique II (TD)
+UID:79e4c0fa-d428-4727-84ac-a8aa57990cad@79e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2202 - FERMAT [Salle de TD]\nLSMA631D-Probabilités avancées [LSMA631D]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260227T160000Z
+LOCATION:2202 - FERMAT [Salle de TD]
+DTSTART:20260227T143000Z
+SUMMARY:Probabilités avancées (TD)
+UID:efd78c26-637f-444d-a131-f5bd163c6e20@efd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nAMPHI I - FERMAT (58 / 29)\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260209T101000Z
+LOCATION:AMPHI I - FERMAT (58 / 29)
+DTSTART:20260209T070000Z
+SUMMARY:: Analyse complexe (TD)
+UID:b563d662-59fe-4be1-9eaf-c09f6ad6129e@b563.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD Cartable Numérique\nG104 - GERMAIN (MASTER)\nPas de salles CN\nLSEN690-Astrophysique [LSEN690]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260317T115000Z
+LOCATION:Pas de salles CN
+DTSTART:20260317T084000Z
+SUMMARY:Astrophysique (TD Cartable Numérique)
+UID:cc3a8c54-68cc-4f40-b463-a226093890ef@cc3a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD Cartable Numérique\nG104 - GERMAIN (MASTER)\nPas de salles CN\nLSEN690-Astrophysique [LSEN690]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260414T105000Z
+LOCATION:Pas de salles CN
+DTSTART:20260414T074000Z
+SUMMARY:Astrophysique (TD Cartable Numérique)
+UID:23747beb-3a9f-41f8-8b0c-bbba08c0a4a5@2374.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nAMPHI I - FERMAT (58 / 29)\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260316T101000Z
+LOCATION:AMPHI I - FERMAT (58 / 29)
+DTSTART:20260316T070000Z
+SUMMARY:: Analyse complexe (TD)
+UID:d688750d-4169-41b0-b2f1-52f9d188254c@d688.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260202T174000Z
+LOCATION:501/503 - BUFFON  [Salle de cours]
+DTSTART:20260202T143000Z
+SUMMARY:Physique statistique (CM/TD)
+UID:8cc723b5-a3e5-45ee-a12b-845a60ff7acf@8cc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2202 - FERMAT [Salle de TD]\nLSMA631D-Probabilités avancées [LSMA631D]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260213T160000Z
+LOCATION:2202 - FERMAT [Salle de TD]
+DTSTART:20260213T143000Z
+SUMMARY:Probabilités avancées (TD)
+UID:01b7d055-b233-4d53-b780-3d7a11678866@01b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nAMPHI I - FERMAT (58 / 29)\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260126T101000Z
+LOCATION:AMPHI I - FERMAT (58 / 29)
+DTSTART:20260126T070000Z
+SUMMARY:: Analyse complexe (TD)
+UID:81b61578-9a4f-417b-a419-a05eadc8e5f5@81b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM/TD\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260504T164000Z
+DTSTART:20260504T133000Z
+SUMMARY:Physique statistique (CM/TD)
+UID:c72bec0b-07aa-45b6-9412-9e01377271de@c72b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2202 - FERMAT [Salle de TD]\nLSMA631D-Probabilités avancées [LSMA631D]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260410T150000Z
+LOCATION:2202 - FERMAT [Salle de TD]
+DTSTART:20260410T133000Z
+SUMMARY:Probabilités avancées (TD)
+UID:9d9cd829-9869-4c7c-8d02-bb8817bb18ca@9d9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260119T174000Z
+LOCATION:501/503 - BUFFON  [Salle de cours]
+DTSTART:20260119T143000Z
+SUMMARY:Physique statistique (CM/TD)
+UID:7801c5cc-ccc7-4207-8979-93bc190f2b22@7801.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2104 - FERMAT [Salle de TD]\nLSMA631N-Probabilités avancées [LSMA631N]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260218T115000Z
+LOCATION:2104 - FERMAT [Salle de TD]
+DTSTART:20260218T102000Z
+SUMMARY:Probabilités avancées (TD)
+UID:bea7723f-cd4c-4c32-8cd7-1dc339abe3c5@bea7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD Cartable Numérique\nG104 - GERMAIN (MASTER)\nPas de salles CN\nLSEN690-Astrophysique [LSEN690]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260324T115000Z
+LOCATION:Pas de salles CN
+DTSTART:20260324T084000Z
+SUMMARY:Astrophysique (TD Cartable Numérique)
+UID:18af857b-7dcd-45cd-8e1d-fcd3bd2616a5@18af.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG105 - GERMAIN [Salle de TD]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260417T091000Z
+LOCATION:G105 - GERMAIN [Salle de TD]
+DTSTART:20260417T060000Z
+SUMMARY:Groupes et Géométrie (TD)
+UID:e5674ee8-3670-4931-a203-ca166302a516@e567.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG105 - GERMAIN [Salle de TD]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260206T101000Z
+LOCATION:G105 - GERMAIN [Salle de TD]
+DTSTART:20260206T070000Z
+SUMMARY:Groupes et Géométrie (TD)
+UID:390d1401-4dc9-4530-a9ee-75667ae5bc3b@390d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nAMPHI I - FERMAT (58 / 29)\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260119T101000Z
+LOCATION:AMPHI I - FERMAT (58 / 29)
+DTSTART:20260119T070000Z
+SUMMARY:: Analyse complexe (TD)
+UID:2db4df66-63ce-4efe-ba37-801fc40cb020@2db4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG105 - GERMAIN [Salle de TD]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260130T101000Z
+LOCATION:G105 - GERMAIN [Salle de TD]
+DTSTART:20260130T070000Z
+SUMMARY:Groupes et Géométrie (TD)
+UID:e51e7ae5-67a9-4cfa-b5a6-d7ed3ba4b313@e51e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD Cartable Numérique\nG104 - GERMAIN (MASTER)\nPas de salles CN\nLSEN690-Astrophysique [LSEN690]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260210T115000Z
+LOCATION:Pas de salles CN
+DTSTART:20260210T084000Z
+SUMMARY:Astrophysique (TD Cartable Numérique)
+UID:b94ae285-9a7a-4643-9109-81740355fcf2@b94a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260326T160000Z
+LOCATION:G001 - GERMAIN [Salle de TD]
+DTSTART:20260326T125000Z
+SUMMARY:Mécanique quantique II (TD)
+UID:9e06eff3-b9cb-40b1-b5cb-f963f989793e@9e06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2206 - FERMAT\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260210T160000Z
+LOCATION:2206 - FERMAT
+DTSTART:20260210T125000Z
+SUMMARY:Optimisation et Applications (TD)
+UID:df51fe6d-0935-40c1-a0a2-51f42eca9761@df51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260212T160000Z
+LOCATION:G001 - GERMAIN [Salle de TD]
+DTSTART:20260212T125000Z
+SUMMARY:Mécanique quantique II (TD)
+UID:6b717fa5-7fff-4148-a13a-7f6adefdfef3@6b71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nAMPHI I - FERMAT (58 / 29)\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260413T091000Z
+LOCATION:AMPHI I - FERMAT (58 / 29)
+DTSTART:20260413T060000Z
+SUMMARY:: Analyse complexe (TD)
+UID:62187ee9-9556-4fb9-987f-5a894419089a@6218.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260420T164000Z
+LOCATION:501/503 - BUFFON  [Salle de cours]
+DTSTART:20260420T133000Z
+SUMMARY:Physique statistique (CM/TD)
+UID:c9e8dc1c-c525-4139-acb1-61a7724c25c2@c9e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2202 - FERMAT [Salle de TD]\nLSMA631D-Probabilités avancées [LSMA631D]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260320T160000Z
+LOCATION:2202 - FERMAT [Salle de TD]
+DTSTART:20260320T143000Z
+SUMMARY:Probabilités avancées (TD)
+UID:602e5e29-5130-43cc-9096-8ffef0073c14@602e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD Cartable Numérique\n326/328 - BUFFON [CARTABLE NUMERIQUE ]\nPas de salles CN\nLSEN690-Astrophysique [LSEN690]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260407T105000Z
+LOCATION:326/328 - BUFFON [CARTABLE NUMERIQUE ]
+DTSTART:20260407T074000Z
+SUMMARY:Astrophysique (TD Cartable Numérique)
+UID:d941f1cb-2d8c-4d4e-8cc2-d89fb474090b@d941.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD Cartable Numérique\nG104 - GERMAIN (MASTER)\nPas de salles CN\nLSEN690-Astrophysique [LSEN690]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260331T105000Z
+LOCATION:Pas de salles CN
+DTSTART:20260331T074000Z
+SUMMARY:Astrophysique (TD Cartable Numérique)
+UID:dc014d74-57a9-4793-a5ed-4d69d971ed58@dc01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260219T160000Z
+LOCATION:G001 - GERMAIN [Salle de TD]
+DTSTART:20260219T125000Z
+SUMMARY:Mécanique quantique II (TD)
+UID:0dc92704-b95a-43d0-841d-8e1051ba211b@0dc9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2104 - FERMAT [Salle de TD]\nLSMA631N-Probabilités avancées [LSMA631N]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260204T115000Z
+LOCATION:2104 - FERMAT [Salle de TD]
+DTSTART:20260204T102000Z
+SUMMARY:Probabilités avancées (TD)
+UID:32c3ccd1-2ec6-49d0-af1a-a3063462ddcf@32c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260323T174000Z
+LOCATION:501/503 - BUFFON  [Salle de cours]
+DTSTART:20260323T143000Z
+SUMMARY:Physique statistique (CM/TD)
+UID:d2fa3da1-3eba-43b7-9f9b-d4232aa38bb3@d2fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260216T174000Z
+LOCATION:501/503 - BUFFON  [Salle de cours]
+DTSTART:20260216T143000Z
+SUMMARY:Physique statistique (CM/TD)
+UID:504ea475-0c85-4b12-ab9a-9005517380ea@504e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2206 - FERMAT\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260421T150000Z
+LOCATION:2206 - FERMAT
+DTSTART:20260421T115000Z
+SUMMARY:Optimisation et Applications (TD)
+UID:747a0915-1bd2-4f93-8bb9-8b279e638769@747a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260319T160000Z
+LOCATION:G001 - GERMAIN [Salle de TD]
+DTSTART:20260319T125000Z
+SUMMARY:Mécanique quantique II (TD)
+UID:3a622b20-d132-4f5e-8ecd-58e1998e1db9@3a62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2206 - FERMAT\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260224T160000Z
+LOCATION:2206 - FERMAT
+DTSTART:20260224T125000Z
+SUMMARY:Optimisation et Applications (TD)
+UID:bcad9670-50d6-4452-9a27-946348ef334b@bcad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2104 - FERMAT [Salle de TD]\nLSMA631N-Probabilités avancées [LSMA631N]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260128T115000Z
+LOCATION:2104 - FERMAT [Salle de TD]
+DTSTART:20260128T102000Z
+SUMMARY:Probabilités avancées (TD)
+UID:cf3c4776-55a1-4f53-a26f-efef49309362@cf3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260413T164000Z
+LOCATION:501/503 - BUFFON  [Salle de cours]
+DTSTART:20260413T133000Z
+SUMMARY:Physique statistique (CM/TD)
+UID:5a54a269-595c-4833-94f0-4e1da750b818@5a54.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nAMPHI I - FERMAT (58 / 29)\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260323T101000Z
+LOCATION:AMPHI I - FERMAT (58 / 29)
+DTSTART:20260323T070000Z
+SUMMARY:: Analyse complexe (TD)
+UID:e0912ce8-f461-41a8-b335-d955d5428d8e@e091.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260402T150000Z
+LOCATION:G001 - GERMAIN [Salle de TD]
+DTSTART:20260402T115000Z
+SUMMARY:Mécanique quantique II (TD)
+UID:9c3f7f48-24af-4552-bc55-df7b64621868@9c3f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2206 - FERMAT\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260127T160000Z
+LOCATION:2206 - FERMAT
+DTSTART:20260127T125000Z
+SUMMARY:Optimisation et Applications (TD)
+UID:56a715fa-1b13-48c5-b789-e1fa13018ccc@56a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG105 - GERMAIN [Salle de TD]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260410T091000Z
+LOCATION:G105 - GERMAIN [Salle de TD]
+DTSTART:20260410T060000Z
+SUMMARY:Groupes et Géométrie (TD)
+UID:02d14cdc-6c78-45a8-a80d-c21db85a7d5a@02d1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG105 - GERMAIN [Salle de TD]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260213T101000Z
+LOCATION:G105 - GERMAIN [Salle de TD]
+DTSTART:20260213T070000Z
+SUMMARY:Groupes et Géométrie (TD)
+UID:e9735a67-fe6e-4ef1-80fd-c3f565e838ff@e973.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2104 - FERMAT [Salle de TD]\nLSMA631N-Probabilités avancées [LSMA631N]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260401T105000Z
+LOCATION:2104 - FERMAT [Salle de TD]
+DTSTART:20260401T092000Z
+SUMMARY:Probabilités avancées (TD)
+UID:fb0ee5e0-aa12-4c40-96a6-12b4210c3b0c@fb0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG105 - GERMAIN [Salle de TD]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260320T101000Z
+LOCATION:G105 - GERMAIN [Salle de TD]
+DTSTART:20260320T070000Z
+SUMMARY:Groupes et Géométrie (TD)
+UID:0a92edde-dcc6-40e0-a6c9-9efe45a3e1bd@0a92.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260126T174000Z
+LOCATION:501/503 - BUFFON  [Salle de cours]
+DTSTART:20260126T143000Z
+SUMMARY:Physique statistique (CM/TD)
+UID:927b28ec-03e3-4db6-92cc-3324e5b045e0@927b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD Cartable Numérique\nG104 - GERMAIN (MASTER)\nPas de salles CN\nLSEN690-Astrophysique [LSEN690]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260217T115000Z
+LOCATION:Pas de salles CN
+DTSTART:20260217T084000Z
+SUMMARY:Astrophysique (TD Cartable Numérique)
+UID:7c2af0f5-c73e-4eea-9bc5-df62008d4189@7c2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2104 - FERMAT [Salle de TD]\nLSMA631N-Probabilités avancées [LSMA631N]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260211T115000Z
+LOCATION:2104 - FERMAT [Salle de TD]
+DTSTART:20260211T102000Z
+SUMMARY:Probabilités avancées (TD)
+UID:d307495f-cdd4-4f94-9f98-0560e8ce3aa3@d307.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD Cartable Numérique\nG104 - GERMAIN (MASTER)\nPas de salles CN\nLSEN690-Astrophysique [LSEN690]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260421T105000Z
+LOCATION:Pas de salles CN
+DTSTART:20260421T074000Z
+SUMMARY:Astrophysique (TD Cartable Numérique)
+UID:922f268a-3d00-4085-a788-8c8e559fdef3@922f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2206 - FERMAT\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260324T160000Z
+LOCATION:2206 - FERMAT
+DTSTART:20260324T125000Z
+SUMMARY:Optimisation et Applications (TD)
+UID:daa77935-58c7-4bef-9d18-6439a0904c89@daa7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2202 - FERMAT [Salle de TD]\nLSMA631D-Probabilités avancées [LSMA631D]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260313T160000Z
+LOCATION:2202 - FERMAT [Salle de TD]
+DTSTART:20260313T143000Z
+SUMMARY:Probabilités avancées (TD)
+UID:2897fdac-59f9-4a50-bf75-d708eda9ad79@2897.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD Cartable Numérique\nG104 - GERMAIN (MASTER)\nPas de salles CN\nLSEN690-Astrophysique [LSEN690]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260203T115000Z
+LOCATION:Pas de salles CN
+DTSTART:20260203T084000Z
+SUMMARY:Astrophysique (TD Cartable Numérique)
+UID:187c4b78-5399-4b7a-bdcc-46d9470cd975@187c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2104 - FERMAT [Salle de TD]\nLSMA631N-Probabilités avancées [LSMA631N]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260225T115000Z
+LOCATION:2104 - FERMAT [Salle de TD]
+DTSTART:20260225T102000Z
+SUMMARY:Probabilités avancées (TD)
+UID:d6f52e23-9ab1-4ef0-b8a0-d66c7fd364c4@d6f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260409T150000Z
+LOCATION:G001 - GERMAIN [Salle de TD]
+DTSTART:20260409T115000Z
+SUMMARY:Mécanique quantique II (TD)
+UID:95a7e3c6-1ed8-413e-b8ea-b5481026dbbe@95a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG105 - GERMAIN [Salle de TD]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260327T101000Z
+LOCATION:G105 - GERMAIN [Salle de TD]
+DTSTART:20260327T070000Z
+SUMMARY:Groupes et Géométrie (TD)
+UID:bd30e109-d09c-40fd-adb8-2d7eb50fc816@bd30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nAMPHI I - FERMAT (58 / 29)\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260309T101000Z
+LOCATION:AMPHI I - FERMAT (58 / 29)
+DTSTART:20260309T070000Z
+SUMMARY:: Analyse complexe (TD)
+UID:80387528-e6b7-495d-886a-4de7edfa2670@8038.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2104 - FERMAT [Salle de TD]\nLSMA631N-Probabilités avancées [LSMA631N]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260318T115000Z
+LOCATION:2104 - FERMAT [Salle de TD]
+DTSTART:20260318T102000Z
+SUMMARY:Probabilités avancées (TD)
+UID:ddda5268-ee36-4e14-84af-b5e3a468e3d6@ddda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG105 - GERMAIN [Salle de TD]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260403T091000Z
+LOCATION:G105 - GERMAIN [Salle de TD]
+DTSTART:20260403T060000Z
+SUMMARY:Groupes et Géométrie (TD)
+UID:ebad9acf-bd79-4f59-afcd-cea1b236157d@ebad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2206 - FERMAT\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260217T160000Z
+LOCATION:2206 - FERMAT
+DTSTART:20260217T125000Z
+SUMMARY:Optimisation et Applications (TD)
+UID:ed1d67f2-a57b-4033-b6d3-a2568635890c@ed1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2206 - FERMAT\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260317T160000Z
+LOCATION:2206 - FERMAT
+DTSTART:20260317T125000Z
+SUMMARY:Optimisation et Applications (TD)
+UID:6a1d7a23-ccd6-4958-b231-07ba8f8218aa@6a1d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260129T160000Z
+LOCATION:G001 - GERMAIN [Salle de TD]
+DTSTART:20260129T125000Z
+SUMMARY:Mécanique quantique II (TD)
+UID:a24ab112-962a-4c82-b256-c62566f29a2b@a24a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2202 - FERMAT [Salle de TD]\nLSMA631D-Probabilités avancées [LSMA631D]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260130T160000Z
+LOCATION:2202 - FERMAT [Salle de TD]
+DTSTART:20260130T143000Z
+SUMMARY:Probabilités avancées (TD)
+UID:c1e3c0de-09f4-45a5-8f11-c2a50ead0533@c1e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260226T160000Z
+LOCATION:G001 - GERMAIN [Salle de TD]
+DTSTART:20260226T125000Z
+SUMMARY:Mécanique quantique II (TD)
+UID:d108a0d6-dfc2-4ab5-8d22-059788a2c965@d108.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2202 - FERMAT [Salle de TD]\nLSMA631D-Probabilités avancées [LSMA631D]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260403T150000Z
+LOCATION:2202 - FERMAT [Salle de TD]
+DTSTART:20260403T133000Z
+SUMMARY:Probabilités avancées (TD)
+UID:4c26cd54-2555-44a8-8a34-2ee2a340d7ea@4c26.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2206 - FERMAT\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260407T150000Z
+LOCATION:2206 - FERMAT
+DTSTART:20260407T115000Z
+SUMMARY:Optimisation et Applications (TD)
+UID:c383950f-11a6-4d50-8c3d-f5707b13d635@c383.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD Cartable Numérique\nG104 - GERMAIN (MASTER)\nPas de salles CN\nLSEN690-Astrophysique [LSEN690]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260224T115000Z
+LOCATION:Pas de salles CN
+DTSTART:20260224T084000Z
+SUMMARY:Astrophysique (TD Cartable Numérique)
+UID:6bf8b367-832b-40a4-90f5-307b9aa6a185@6bf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2104 - FERMAT [Salle de TD]\nLSMA631N-Probabilités avancées [LSMA631N]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260408T105000Z
+LOCATION:2104 - FERMAT [Salle de TD]
+DTSTART:20260408T092000Z
+SUMMARY:Probabilités avancées (TD)
+UID:402cba1b-faf2-4c05-83c0-fa6295408e3c@402c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260416T150000Z
+LOCATION:G001 - GERMAIN [Salle de TD]
+DTSTART:20260416T115000Z
+SUMMARY:Mécanique quantique II (TD)
+UID:75591bca-adcd-4946-a2a3-c7dd7823efe5@7559.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nAMPHI I - FERMAT (58 / 29)\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260202T101000Z
+LOCATION:AMPHI I - FERMAT (58 / 29)
+DTSTART:20260202T070000Z
+SUMMARY:: Analyse complexe (TD)
+UID:81354721-a49d-4f22-a583-c6c6fd96ca6a@8135.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260316T174000Z
+LOCATION:501/503 - BUFFON  [Salle de cours]
+DTSTART:20260316T143000Z
+SUMMARY:Physique statistique (CM/TD)
+UID:72e2eb76-6fa1-45a8-8a86-4e6eb334a8b9@72e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2202 - FERMAT [Salle de TD]\nLSMA631D-Probabilités avancées [LSMA631D]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260206T160000Z
+LOCATION:2202 - FERMAT [Salle de TD]
+DTSTART:20260206T143000Z
+SUMMARY:Probabilités avancées (TD)
+UID:db42b0f9-538d-419d-bd2d-7396ad812636@db42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2206 - FERMAT\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260331T150000Z
+LOCATION:2206 - FERMAT
+DTSTART:20260331T115000Z
+SUMMARY:Optimisation et Applications (TD)
+UID:abd60094-d88c-40e3-bd55-22af5e9fd22e@abd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD Cartable Numérique\nG104 - GERMAIN (MASTER)\nPas de salles CN\nLSEN690-Astrophysique [LSEN690]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260310T115000Z
+LOCATION:Pas de salles CN
+DTSTART:20260310T084000Z
+SUMMARY:Astrophysique (TD Cartable Numérique)
+UID:e3282daa-f758-4c56-bbd8-6f50eb71075d@e328.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n2104 - FERMAT [Salle de TD]\nLSMA631N-Probabilités avancées [LSMA631N]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260422T105000Z
+LOCATION:2104 - FERMAT [Salle de TD]
+DTSTART:20260422T092000Z
+SUMMARY:Probabilités avancées (TD)
+UID:b01340ab-a435-444a-b4c7-b499cd4f9b72@b013.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nAMPHI I - FERMAT (58 / 29)\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260223T101000Z
+LOCATION:AMPHI I - FERMAT (58 / 29)
+DTSTART:20260223T070000Z
+SUMMARY:: Analyse complexe (TD)
+UID:48214148-3724-4c07-8021-2df8ee9c7444@4821.org
 END:VEVENT
 END:VCALENDAR

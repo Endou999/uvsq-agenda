@@ -1,12 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:Réunion\n\n\n\n\nAMPHI J - FERMAT (176 / 92) [Amphithéâtre]\n\n\n\n\n\n\n\n\n\nL1 Double Diplôme Mathématiques Physique - S1LDDMPTD-01 [S1LDDMP]\nL2 Double Diplôme Mathématiques Physique S3 ( S3 LDDMP ) [S3LDDMP]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\n\n\n\n\nRéunion d'information sur la passerelle LDD MPDS/IOGS\n\n\n\n\n\n
-DTEND:20251216T173000Z
-LOCATION:AMPHI J - FERMAT (176 / 92) [Amphithéâtre]
-DTSTART:20251216T161000Z
-SUMMARY:Réunion d'information sur la passerelle LDD MPDS/IOGS (Réunion)
-UID:28151407-f0da-4d73-bef7-05eac1eeeb22@2815.org
-END:VEVENT
 END:VCALENDAR
