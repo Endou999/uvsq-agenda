@@ -44,10 +44,18 @@ def extract_name_from_line(line):
 def get_event_type(category, full_text):
     """ Trie les événements dans les bonnes cases """
     cat_up = category.upper()
+    
+    # --- REGLE SPECIALE POUR CM/TD ---
+    # On le met explicitement dans AUTRE (avant qu'il ne soit capté par la règle "TD" ou "CM")
+    if "CM/TD" in cat_up:
+        return "AUTRE"
+
+    # --- REGLES CLASSIQUES ---
     if "EXAMEN" in cat_up or "CONTRÔLE" in cat_up or "PARTIEL" in cat_up: return "EXAM"
     if "TD" in cat_up or "TRAVAUX DIRIGÉS" in cat_up: return "TD"
     if "TP" in cat_up or "TRAVAUX PRATIQUES" in cat_up: return "TP"
     if "CM" in cat_up or "COURS MAGISTRAUX" in cat_up or "AMPHI" in cat_up: return "CM"
+    
     return "AUTRE"
 
 def get_edt():
