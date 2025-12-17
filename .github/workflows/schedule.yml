@@ -2,8 +2,8 @@ name: Update UVSQ Calendars
 
 on:
   schedule:
-    # Se lance tous les jours à 06:00 UTC (7h ou 8h Paris)
-    - cron: '0 6 * * *'
+    # Se lance toutes les 2 heures
+    - cron: '0 */2 * * *'
   # Permet de lancer manuellement pour tester
   workflow_dispatch:
 
