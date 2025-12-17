@@ -16,7 +16,7 @@ MY_GROUPS = [
 BASE_URL = "https://edt.uvsq.fr/Home/GetCalendarData"
 
 def extract_name_from_line(line):
-    """ Nettoie le nom de la matière (Technique du Hachoir V8) """
+    """ Nettoie le nom de la matière (Version Corrigée : Anti-deux-points) """
     bracket_match = re.search(r'\[(.*?)\]', line)
     if bracket_match:
         content = bracket_match.group(1)
@@ -30,7 +30,10 @@ def extract_name_from_line(line):
     for part in parts:
         p = part.strip()
         p = re.sub(r'\b[A-Z]{3,4}\d{3}[A-Z0-9]*\b', '', p)
-        p = p.replace("(", "").replace(")", "").strip()
+        
+        # --- MODIFICATION ICI ---
+        # On enlève les parenthèses ET la ponctuation parasite (: . -) au début/fin
+        p = p.replace("(", "").replace(")", "").strip(" :.-")
         
         # Filtres de qualité
         if len(p) > 3 and not re.search(r'\d{1,2}[hH:]\d{0,2}', p) and "TEMPS" not in p.upper():
