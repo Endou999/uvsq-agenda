@@ -2,60 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Contrôle Continu de Rattrapage pour les ABJ\n2202 - FERMAT [Salle de TD]\nLSPH513N-LSPH513 - Optique Physique [LSPH513N]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]
-DTEND:20251218T160000Z
-LOCATION:2202 - FERMAT [Salle de TD]
-DTSTART:20251218T143000Z
-SUMMARY:Optique Physique (CC)
-UID:b4b599ca-a328-4d10-8be8-b68a172b6597@b4b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Examen Session 1\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Mathématiques S5 ( S5 MATHEMATIQUES ) [S5 MATHEMATIQUES]\n1/3 temps
-DTEND:20260114T111000Z
-LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
-DTSTART:20260114T083000Z
-SUMMARY:Analyse Numérique (Exam)
-UID:5d913583-be01-4760-a4fa-a41598f563ee@5d91.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Examen Session 1\nAMPHI A - DESCARTES (180 / 100)\nEXAMEN L3 SESSION 1 [EXAMEN L3 SESSION 1]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Mathématiques S5 ( S5 MATHEMATIQUES ) [S5 MATHEMATIQUES]\nL3 MATHEMATIQUES S5 HEC ( S5 HEC ) [S5 HEC]\n1/3 temps
 DTEND:20260108T154000Z
 LOCATION:AMPHI A - DESCARTES (180 / 100)
 DTSTART:20260108T130000Z
 SUMMARY:Calcul intégral et théorie de la mesure (Exam)
-UID:e8455bec-9b76-46c4-a216-8ab9f7e5ad0e@e845.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Examen Session 1\nAMPHI F - FERMAT (120 / 65) [Amphithéâtre]\nEXAMEN L3 SESSION 1 [EXAMEN L3 SESSION 1]\nLSPH513N-LSPH513 - Optique Physique [LSPH513N]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\navec 1/3 temps
-DTEND:20260107T111000Z
-LOCATION:AMPHI F - FERMAT (120 / 65) [Amphithéâtre]
-DTSTART:20260107T083000Z
-SUMMARY:Optique Physique (Exam)
-UID:56855d96-0fa2-4624-968d-6247fa6cf955@5685.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Examen Session 1\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\nEXAMEN L3 SESSION 1 [EXAMEN L3 SESSION 1]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]\nL3 Physique Parcours PSC  S5 ( S5 PHYSIQUE PSC ) [S5 PHYSIQUE PSC]\n1/3 temps
-DTEND:20260113T103000Z
-LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
-DTSTART:20260113T083000Z
-SUMMARY:Mécanique quantique 1 (Exam)
-UID:5b8eef8c-c4f2-4b71-b726-40644368ce55@5b8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Contrôle Continu de substitution\n2206 - FERMAT [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Mathématiques S5 ( S5 MATHEMATIQUES ) [S5 MATHEMATIQUES]\nL3 MATHEMATIQUES S5 HEC ( S5 HEC ) [S5 HEC]
-DTEND:20251217T104000Z
-LOCATION:2206 - FERMAT [Salle de TD]
-DTSTART:20251217T084000Z
-SUMMARY:Calcul intégral et théorie de la mesure (CC)
-UID:98929dcd-da11-4c73-9924-7b6fb9c29fc7@9892.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Examen Session 1\nAMPHI J - FERMAT (176 / 92) [Amphithéâtre]\nEXAMEN L3 SESSION 1 [EXAMEN L3 SESSION 1]\nLSMA525D-Topologie et bases de Calcul différentiel [LSMA525D]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Mathématiques S5 ( S5 MATHEMATIQUES ) [S5 MATHEMATIQUES]\nL3 MATHEMATIQUES S5 HEC ( S5 HEC ) [S5 HEC]\nLSMA525D : avec 1/3 temps - 9h30-12h10\nLSMA525N - 9h30-13h30
-DTEND:20260106T123000Z
-LOCATION:AMPHI J - FERMAT (176 / 92) [Amphithéâtre]
-DTSTART:20260106T083000Z
-SUMMARY:Topologie et bases de Calcul différentiel (Exam)
-UID:e6ca2e7f-ba59-4046-a005-68ebb4f8757a@e6ca.org
+UID:56e12bb0-b90a-43d0-adfb-5006c20da0f8@56e1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Contrôle Continu de substitution\nRC14 - BUFFON [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Mathématiques S5 ( S5 MATHEMATIQUES ) [S5 MATHEMATIQUES]\nL3 MATHEMATIQUES S5 HEC ( S5 HEC ) [S5 HEC]
@@ -63,6 +15,54 @@ DTEND:20251219T101000Z
 LOCATION:RC14 - BUFFON [Salle de TD]
 DTSTART:20251219T084000Z
 SUMMARY:Topologie et bases de calcul différentiel (CC)
-UID:7eded8cf-64da-40e5-a659-7ff254499509@7ede.org
+UID:412e0649-c8ff-4fba-89ff-da15205883bb@412e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Examen Session 1\nAMPHI F - FERMAT (120 / 65) [Amphithéâtre]\nEXAMEN L3 SESSION 1 [EXAMEN L3 SESSION 1]\nLSPH513N-LSPH513 - Optique Physique [LSPH513N]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\navec 1/3 temps
+DTEND:20260107T111000Z
+LOCATION:AMPHI F - FERMAT (120 / 65) [Amphithéâtre]
+DTSTART:20260107T083000Z
+SUMMARY:Optique Physique (Exam)
+UID:0e4267cd-6308-4ae5-96b3-acda51304444@0e42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Examen Session 1\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Mathématiques S5 ( S5 MATHEMATIQUES ) [S5 MATHEMATIQUES]\n1/3 temps
+DTEND:20260114T111000Z
+LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
+DTSTART:20260114T083000Z
+SUMMARY:Analyse Numérique (Exam)
+UID:cf6e2c8f-c95a-415a-aa1f-af7e161d416e@cf6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Contrôle Continu de Rattrapage pour les ABJ\n2202 - FERMAT [Salle de TD]\nLSPH513N-LSPH513 - Optique Physique [LSPH513N]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]
+DTEND:20251218T160000Z
+LOCATION:2202 - FERMAT [Salle de TD]
+DTSTART:20251218T143000Z
+SUMMARY:Optique Physique (CC)
+UID:4ff9a082-3796-4ab9-88a0-f7c37b6d171c@4ff9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Contrôle Continu de substitution\n2206 - FERMAT [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Mathématiques S5 ( S5 MATHEMATIQUES ) [S5 MATHEMATIQUES]\nL3 MATHEMATIQUES S5 HEC ( S5 HEC ) [S5 HEC]
+DTEND:20251217T104000Z
+LOCATION:2206 - FERMAT [Salle de TD]
+DTSTART:20251217T084000Z
+SUMMARY:Calcul intégral et théorie de la mesure (CC)
+UID:9795f7ff-7b61-4d6d-afd1-65cacc4eafd8@9795.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Examen Session 1\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\nEXAMEN L3 SESSION 1 [EXAMEN L3 SESSION 1]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]\nL3 Physique Parcours PSC  S5 ( S5 PHYSIQUE PSC ) [S5 PHYSIQUE PSC]\n1/3 temps
+DTEND:20260113T103000Z
+LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
+DTSTART:20260113T083000Z
+SUMMARY:Mécanique quantique 1 (Exam)
+UID:5d77f3f2-56cb-4a68-9c25-abda0dd35874@5d77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Examen Session 1\nAMPHI J - FERMAT (176 / 92) [Amphithéâtre]\nEXAMEN L3 SESSION 1 [EXAMEN L3 SESSION 1]\nLSMA525D-Topologie et bases de Calcul différentiel [LSMA525D]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Mathématiques S5 ( S5 MATHEMATIQUES ) [S5 MATHEMATIQUES]\nL3 MATHEMATIQUES S5 HEC ( S5 HEC ) [S5 HEC]\nLSMA525D : avec 1/3 temps - 9h30-12h10\nLSMA525N - 9h30-13h30
+DTEND:20260106T123000Z
+LOCATION:AMPHI J - FERMAT (176 / 92) [Amphithéâtre]
+DTSTART:20260106T083000Z
+SUMMARY:Topologie et bases de Calcul différentiel (Exam)
+UID:92c22087-e278-42ad-89bf-914e1ed78371@92c2.org
 END:VEVENT
 END:VCALENDAR
