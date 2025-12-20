@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Examen Session 1\nAMPHI F - FERMAT (120 / 65) [Amphithéâtre]\nEXAMEN L3 SESSION 1 [EXAMEN L3 SESSION 1]\nLSPH513N-LSPH513 - Optique Physique [LSPH513N]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\navec 1/3 temps
-DTEND:20260107T111000Z
-LOCATION:AMPHI F - FERMAT (120 / 65) [Amphithéâtre]
-DTSTART:20260107T083000Z
-SUMMARY:Optique Physique (Exam)
-UID:9cb8ea23-ab2b-4b0c-88de-8a170ff54156@9cb8.org
+DESCRIPTION:Examen Session 1\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\nEXAMEN L3 SESSION 1 [EXAMEN L3 SESSION 1]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]\nL3 Physique Parcours PSC  S5 ( S5 PHYSIQUE PSC ) [S5 PHYSIQUE PSC]\n1/3 temps
+DTEND:20260113T103000Z
+LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
+DTSTART:20260113T083000Z
+SUMMARY:Mécanique quantique 1 (Exam)
+UID:83cb4739-cc89-479b-8e06-26a2249eae86@83cb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Examen Session 1\nAMPHI J - FERMAT (176 / 92) [Amphithéâtre]\nEXAMEN L3 SESSION 1 [EXAMEN L3 SESSION 1]\nLSMA525D-Topologie et bases de Calcul différentiel [LSMA525D]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Mathématiques S5 ( S5 MATHEMATIQUES ) [S5 MATHEMATIQUES]\nL3 MATHEMATIQUES S5 HEC ( S5 HEC ) [S5 HEC]\nLSMA525D : avec 1/3 temps - 9h30-12h10\nLSMA525N - 9h30-13h30
@@ -15,23 +15,15 @@ DTEND:20260106T123000Z
 LOCATION:AMPHI J - FERMAT (176 / 92) [Amphithéâtre]
 DTSTART:20260106T083000Z
 SUMMARY:Topologie et bases de Calcul différentiel (Exam)
-UID:f7b81fba-a724-4de5-8eeb-cc36a00de421@f7b8.org
+UID:3eef4bd6-5261-41d6-abfa-ed8b3b4ab659@3eef.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Examen Session 1\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\nEXAMEN L3 SESSION 1 [EXAMEN L3 SESSION 1]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]\nL3 Physique Parcours PSC  S5 ( S5 PHYSIQUE PSC ) [S5 PHYSIQUE PSC]\n1/3 temps
-DTEND:20260113T103000Z
-LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
-DTSTART:20260113T083000Z
-SUMMARY:Mécanique quantique 1 (Exam)
-UID:c8b1c696-a3ee-46d3-acc4-f51df0e64e53@c8b1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Examen Session 1\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Mathématiques S5 ( S5 MATHEMATIQUES ) [S5 MATHEMATIQUES]\n1/3 temps
-DTEND:20260114T111000Z
-LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
-DTSTART:20260114T083000Z
-SUMMARY:Analyse Numérique (Exam)
-UID:670e810e-fc52-429c-82f3-7a2888b5185f@670e.org
+DESCRIPTION:Examen Session 1\nAMPHI F - FERMAT (120 / 65) [Amphithéâtre]\nEXAMEN L3 SESSION 1 [EXAMEN L3 SESSION 1]\nLSPH513N-LSPH513 - Optique Physique [LSPH513N]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\navec 1/3 temps
+DTEND:20260107T111000Z
+LOCATION:AMPHI F - FERMAT (120 / 65) [Amphithéâtre]
+DTSTART:20260107T083000Z
+SUMMARY:Optique Physique (Exam)
+UID:490a3242-2170-4158-8a61-196deb3ddf15@490a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Examen Session 1\nAMPHI A - DESCARTES (180 / 100)\nEXAMEN L3 SESSION 1 [EXAMEN L3 SESSION 1]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Mathématiques S5 ( S5 MATHEMATIQUES ) [S5 MATHEMATIQUES]\nL3 MATHEMATIQUES S5 HEC ( S5 HEC ) [S5 HEC]\n1/3 temps
@@ -39,6 +31,14 @@ DTEND:20260108T154000Z
 LOCATION:AMPHI A - DESCARTES (180 / 100)
 DTSTART:20260108T130000Z
 SUMMARY:Calcul intégral et théorie de la mesure (Exam)
-UID:f4a09744-30eb-4580-a9c3-c7583e4c85cd@f4a0.org
+UID:e255b113-584a-44c5-841f-c1232de5521e@e255.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Examen Session 1\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Mathématiques S5 ( S5 MATHEMATIQUES ) [S5 MATHEMATIQUES]\n1/3 temps
+DTEND:20260114T111000Z
+LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
+DTSTART:20260114T083000Z
+SUMMARY:Analyse Numérique (Exam)
+UID:5050b2e1-7ce0-4228-9d63-5a17f27eebd9@5050.org
 END:VEVENT
 END:VCALENDAR
