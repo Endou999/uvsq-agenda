@@ -3,106 +3,39 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
-DTEND:20260119T174000Z
-LOCATION:501/503 - BUFFON  [Salle de cours]
-DTSTART:20260119T143000Z
-SUMMARY:Physique statistique (CM/TD)
-UID:71a0006d-5286-4469-9871-9bf2098fe471@71a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Annulation\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
-DTEND:20260310T160000Z
-DTSTART:20260310T125000Z
-SUMMARY:Optimisation et Applications (Annulation)
-UID:d3a67897-72a3-4284-a5cf-3ba443a5afa1@d3a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Annulation\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
-DTEND:20260407T150000Z
-DTSTART:20260407T115000Z
-SUMMARY:Optimisation et Applications (Annulation)
-UID:81131e68-f2bb-45f1-b568-ea3183fe647e@8113.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Annulation\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
-DTEND:20260421T150000Z
-DTSTART:20260421T115000Z
-SUMMARY:Optimisation et Applications (Annulation)
-UID:2a870b12-1869-48d0-9543-05ebe36d4b84@2a87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Annulation\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
-DTEND:20260210T160000Z
-DTSTART:20260210T125000Z
-SUMMARY:Optimisation et Applications (Annulation)
-UID:07ad1c2c-ccda-44fb-890d-d06de3ba2143@07ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Annulation\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
-DTEND:20260317T160000Z
-DTSTART:20260317T125000Z
-SUMMARY:Optimisation et Applications (Annulation)
-UID:f6ead327-84f4-478b-91ed-ce3d5c59db34@f6ea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
-DTEND:20260126T174000Z
-LOCATION:501/503 - BUFFON  [Salle de cours]
-DTSTART:20260126T143000Z
-SUMMARY:Physique statistique (CM/TD)
-UID:80b5fda2-b7c3-4095-bbe4-3a8bc637a6f4@80b5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
 DTEND:20260323T174000Z
 LOCATION:501/503 - BUFFON  [Salle de cours]
 DTSTART:20260323T143000Z
 SUMMARY:Physique statistique (CM/TD)
-UID:8b9f4aef-744a-4df1-808d-f92fa536a9f8@8b9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
-DTEND:20260202T174000Z
-LOCATION:501/503 - BUFFON  [Salle de cours]
-DTSTART:20260202T143000Z
-SUMMARY:Physique statistique (CM/TD)
-UID:32373359-a718-493e-8e81-8b6689f6f85f@3237.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Annulation\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
-DTEND:20260127T160000Z
-DTSTART:20260127T125000Z
-SUMMARY:Optimisation et Applications (Annulation)
-UID:be607a3f-3930-4598-a08d-604f1f7429aa@be60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Annulation\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
-DTEND:20260217T160000Z
-DTSTART:20260217T125000Z
-SUMMARY:Optimisation et Applications (Annulation)
-UID:1db49f84-62c6-45d1-acae-e75f85abcb59@1db4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
-DTEND:20260223T174000Z
-LOCATION:501/503 - BUFFON  [Salle de cours]
-DTSTART:20260223T143000Z
-SUMMARY:Physique statistique (CM/TD)
-UID:069e4b96-8d4f-4fde-94de-02cd7265ed98@069e.org
+UID:92947d03-f6c9-4a28-9eab-718d68700099@9294.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Annulation\nLSMA631D-Probabilités avancées [LSMA631D]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
 DTEND:20260128T115000Z
 DTSTART:20260128T102000Z
 SUMMARY:Probabilités avancées (Annulation)
-UID:b4936f8d-235a-43c9-9613-996e534e1fbf@b493.org
+UID:b1e5683f-7c2e-46d8-b156-d88ae765bb07@b1e5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Annulation\nLSMA631D-Probabilités avancées [LSMA631D]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
-DTEND:20260130T160000Z
-DTSTART:20260130T143000Z
-SUMMARY:Probabilités avancées (Annulation)
-UID:ce36d182-3ca6-46f7-bdab-947e866cef5e@ce36.org
+DESCRIPTION:Annulation\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260203T160000Z
+DTSTART:20260203T125000Z
+SUMMARY:Optimisation et Applications (Annulation)
+UID:47b2f536-ca85-445d-86b1-2a9c5d7fa884@47b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Annulation\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260210T160000Z
+DTSTART:20260210T125000Z
+SUMMARY:Optimisation et Applications (Annulation)
+UID:578bca9d-be8a-4265-9e96-10370e56090a@578b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Annulation\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260407T150000Z
+DTSTART:20260407T115000Z
+SUMMARY:Optimisation et Applications (Annulation)
+UID:c4d66f40-05ed-465d-a576-12fb8e407c77@c4d6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Réunion\nG104 - GERMAIN (MASTER) [Salle de cours]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nréunion informations sur les Masters et écoles d'ingénieurs
@@ -110,29 +43,43 @@ DTEND:20260209T142000Z
 LOCATION:G104 - GERMAIN (MASTER) [Salle de cours]
 DTSTART:20260209T125000Z
 SUMMARY:réunion informations sur les Masters et écoles d'ingénieurs (Réunion)
-UID:2dbd874f-e055-47d8-ac08-1846ac4d5381@2dbd.org
+UID:a43da76a-ee85-45a6-8971-3a6061c89a10@a43d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Annulation\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260324T160000Z
+DTSTART:20260324T125000Z
+SUMMARY:Optimisation et Applications (Annulation)
+UID:a31a513e-cbc3-4eaf-a84b-86b9a3d5e777@a31a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Annulation\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
 DTEND:20260414T150000Z
 DTSTART:20260414T115000Z
 SUMMARY:Optimisation et Applications (Annulation)
-UID:75106e8e-1971-4589-98cb-c19918bd1214@7510.org
+UID:6cb3705a-6ff6-4de4-aecb-722e7c1db2fb@6cb3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
-DTEND:20260309T174000Z
+DTEND:20260119T174000Z
 LOCATION:501/503 - BUFFON  [Salle de cours]
-DTSTART:20260309T143000Z
+DTSTART:20260119T143000Z
 SUMMARY:Physique statistique (CM/TD)
-UID:738a1d88-a1f3-4922-9321-c980e72da4c1@738a.org
+UID:fa6bbf1a-da07-4397-91b8-021d13ef28f3@fa6b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Annulation\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
-DTEND:20260224T160000Z
-DTSTART:20260224T125000Z
+DTEND:20260310T160000Z
+DTSTART:20260310T125000Z
 SUMMARY:Optimisation et Applications (Annulation)
-UID:f345f955-d9b4-4dfe-9e55-5953159e0623@f345.org
+UID:6ac70641-1022-4b88-8a50-1fd720f2d055@6ac7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Annulation\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260217T160000Z
+DTSTART:20260217T125000Z
+SUMMARY:Optimisation et Applications (Annulation)
+UID:235ba678-1a0d-40e1-93ff-047a23523c24@235b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
@@ -140,44 +87,14 @@ DTEND:20260330T164000Z
 LOCATION:501/503 - BUFFON  [Salle de cours]
 DTSTART:20260330T133000Z
 SUMMARY:Physique statistique (CM/TD)
-UID:88c4aa80-d1d3-4ebf-bff2-fbad733ea9e6@88c4.org
+UID:8cde4c42-2b0b-4b64-b890-01ad13919c7f@8cde.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Annulation\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
-DTEND:20260324T160000Z
-DTSTART:20260324T125000Z
-SUMMARY:Optimisation et Applications (Annulation)
-UID:ff433428-7858-4710-826c-d2b4132f3ee6@ff43.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
-DTEND:20260316T174000Z
-LOCATION:501/503 - BUFFON  [Salle de cours]
-DTSTART:20260316T143000Z
-SUMMARY:Physique statistique (CM/TD)
-UID:e0be02fd-fedb-416e-9817-24d89eb9c6fe@e0be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Annulation\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
-DTEND:20260331T150000Z
-DTSTART:20260331T115000Z
-SUMMARY:Optimisation et Applications (Annulation)
-UID:6feb14fb-a9cb-479e-bf77-fd7ed9816147@6feb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Annulation\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
-DTEND:20260203T160000Z
-DTSTART:20260203T125000Z
-SUMMARY:Optimisation et Applications (Annulation)
-UID:7f1d753c-448f-4ee9-b592-e36316965f03@7f1d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
-DTEND:20260216T174000Z
-LOCATION:501/503 - BUFFON  [Salle de cours]
-DTSTART:20260216T143000Z
-SUMMARY:Physique statistique (CM/TD)
-UID:efe3775d-48b5-4a1f-80d4-22ad28564b2a@efe3.org
+DESCRIPTION:Annulation\nLSMA631D-Probabilités avancées [LSMA631D]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260130T160000Z
+DTSTART:20260130T143000Z
+SUMMARY:Probabilités avancées (Annulation)
+UID:d51310f9-e516-43eb-a624-bcb2929b6d75@d513.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
@@ -185,14 +102,66 @@ DTEND:20260420T164000Z
 LOCATION:501/503 - BUFFON  [Salle de cours]
 DTSTART:20260420T133000Z
 SUMMARY:Physique statistique (CM/TD)
-UID:06ca7e19-288f-4611-b7c9-0f4e3f6a45d8@06ca.org
+UID:c84ac9f5-ac1d-4775-9c1b-751b3cb24d1d@c84a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260126T174000Z
+LOCATION:501/503 - BUFFON  [Salle de cours]
+DTSTART:20260126T143000Z
+SUMMARY:Physique statistique (CM/TD)
+UID:574ec88c-36b2-4d2a-bbfb-dbf1a63a8231@574e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260316T174000Z
+LOCATION:501/503 - BUFFON  [Salle de cours]
+DTSTART:20260316T143000Z
+SUMMARY:Physique statistique (CM/TD)
+UID:3208a066-6a80-4cbe-bbbc-0d4fd32b5b2b@3208.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:CM/TD\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
 DTEND:20260504T164000Z
 DTSTART:20260504T133000Z
 SUMMARY:Physique statistique (CM/TD)
-UID:e2261d2f-debe-404b-8337-e3b45aa58350@e226.org
+UID:4acc7c32-12d9-4c7c-82e8-28d5ba2fea02@4acc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260309T174000Z
+LOCATION:501/503 - BUFFON  [Salle de cours]
+DTSTART:20260309T143000Z
+SUMMARY:Physique statistique (CM/TD)
+UID:4739963d-87cc-4012-bb7b-2fbfb0beda93@4739.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Annulation\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260224T160000Z
+DTSTART:20260224T125000Z
+SUMMARY:Optimisation et Applications (Annulation)
+UID:0c6c3eb8-5e6a-4ba6-a8a4-e79e058abe8a@0c6c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Annulation\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260331T150000Z
+DTSTART:20260331T115000Z
+SUMMARY:Optimisation et Applications (Annulation)
+UID:0f40ae84-2d00-4448-b5f0-eb2081514f1d@0f40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Annulation\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260421T150000Z
+DTSTART:20260421T115000Z
+SUMMARY:Optimisation et Applications (Annulation)
+UID:8e97d465-9302-498a-bd7f-2c27a7cf1bcf@8e97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Annulation\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260317T160000Z
+DTSTART:20260317T125000Z
+SUMMARY:Optimisation et Applications (Annulation)
+UID:054092c5-3809-4125-968a-9f550409724f@0540.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
@@ -200,6 +169,37 @@ DTEND:20260413T164000Z
 LOCATION:501/503 - BUFFON  [Salle de cours]
 DTSTART:20260413T133000Z
 SUMMARY:Physique statistique (CM/TD)
-UID:ea38b3ca-b4e8-4dde-b34f-56456505f24e@ea38.org
+UID:097cb77d-313a-4170-a453-2a1ab0a14a70@097c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260216T174000Z
+LOCATION:501/503 - BUFFON  [Salle de cours]
+DTSTART:20260216T143000Z
+SUMMARY:Physique statistique (CM/TD)
+UID:b9c85ee5-7f86-489b-be17-db4a50b31551@b9c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260223T174000Z
+LOCATION:501/503 - BUFFON  [Salle de cours]
+DTSTART:20260223T143000Z
+SUMMARY:Physique statistique (CM/TD)
+UID:5e39bc57-916d-4c6c-b8a6-f4b6c95d9328@5e39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Annulation\nLSMA651-Optimisation et Applications [LSMA651]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260127T160000Z
+DTSTART:20260127T125000Z
+SUMMARY:Optimisation et Applications (Annulation)
+UID:a734a73c-63d8-4b53-84d9-a4c87c408d50@a734.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260202T174000Z
+LOCATION:501/503 - BUFFON  [Salle de cours]
+DTSTART:20260202T143000Z
+SUMMARY:Physique statistique (CM/TD)
+UID:83b52379-8d88-4156-bc96-b34926330453@83b5.org
 END:VEVENT
 END:VCALENDAR
