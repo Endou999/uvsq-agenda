@@ -9,8 +9,14 @@ from zoneinfo import ZoneInfo
 # On met ici la liste de TOUS les groupes qu'on veut surveiller en même temps.
 # Le script va fusionner les événements de S5 (Examens) et S6 (Futur semestre).
 MY_GROUPS = [
-    "S5 LDD MP PSC",  # Pour finir le semestre actuel
-    "S6 LDDMP PSC"   # Pour le semestre qui commence le 19 janvier
+    "S5 LDD MP PSC",
+    "S6 LDDMP PSC"
+]
+
+# --- CONFIGURATION FILTRES ---
+# Liste des mots-clés à exclure. Si un titre contient un de ces mots, il saute.
+BLACKLIST = [
+    "OPTIMISATION"
 ]
 
 BASE_URL = "https://edt.uvsq.fr/Home/GetCalendarData"
@@ -119,7 +125,18 @@ def get_edt():
                         if len(line) > 5 and "AMPHI" not in line and "SALLE" not in line and "S5" not in line and "S6" not in line and not re.search(r'\d', line):
                             final_subject = line
                             break
-
+                            
+                # --- FILTRE ANTI-MATIERE ---
+                # Si le sujet contient un mot interdit, on ignore cet événement
+                if final_subject:
+                    skip_event = False
+                    for banned_word in BLACKLIST:
+                        if banned_word in final_subject.upper():
+                            skip_event = True
+                            break
+                    if skip_event:
+                        continue # On passe directement à l'événement suivant
+                        
                 # Typage
                 evt_type = get_event_type(category, full_text)
                 short_type = category
