@@ -2,64 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:CM/TD\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
-DTEND:20260504T164000Z
-DTSTART:20260504T133000Z
-SUMMARY:Physique statistique (CM/TD)
-UID:63329c3f-4715-4d84-8f49-916cc33038e8@6332.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
-DTEND:20260323T174000Z
-LOCATION:501/503 - BUFFON  [Salle de cours]
-DTSTART:20260323T143000Z
-SUMMARY:Physique statistique (CM/TD)
-UID:df614a0b-233c-4a9d-b32a-1e253bd2f794@df61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Annulation\nLSMA631D-Probabilités avancées [LSMA631D]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
-DTEND:20260128T115000Z
-DTSTART:20260128T102000Z
-SUMMARY:Probabilités avancées (Annulation)
-UID:2c8f5c46-13ca-413e-9214-359eba18e87f@2c8f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Réunion\nG104 - GERMAIN (MASTER) [Salle de cours]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nréunion informations sur les Masters et écoles d'ingénieurs
-DTEND:20260209T142000Z
-LOCATION:G104 - GERMAIN (MASTER) [Salle de cours]
-DTSTART:20260209T125000Z
-SUMMARY:réunion informations sur les Masters et écoles d'ingénieurs (Réunion)
-UID:d0baff0a-2aed-4df5-a4b0-5685b418ff4c@d0ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Annulation\nLSMA631D-Probabilités avancées [LSMA631D]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
-DTEND:20260130T160000Z
-DTSTART:20260130T143000Z
-SUMMARY:Probabilités avancées (Annulation)
-UID:6a51f6d4-4996-432d-a863-4f834d1b1945@6a51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
-DTEND:20260202T174000Z
-LOCATION:501/503 - BUFFON  [Salle de cours]
-DTSTART:20260202T143000Z
-SUMMARY:Physique statistique (CM/TD)
-UID:011a0986-76e0-42d5-a671-3803c0129f09@011a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
 DTEND:20260316T174000Z
 LOCATION:501/503 - BUFFON  [Salle de cours]
 DTSTART:20260316T143000Z
 SUMMARY:Physique statistique (CM/TD)
-UID:bb953793-f03f-43fc-b4ca-bffe6e5dd7f5@bb95.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Annulation\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
-DTEND:20260206T101000Z
-DTSTART:20260206T070000Z
-SUMMARY:Groupes et Géométrie (Annulation)
-UID:7a297bd2-4d6c-424c-b039-6b95d160299e@7a29.org
+UID:1bf63b8e-985f-4ce8-ac7d-e5a19bafbc5e@1bf6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
@@ -67,23 +15,14 @@ DTEND:20260216T174000Z
 LOCATION:501/503 - BUFFON  [Salle de cours]
 DTSTART:20260216T143000Z
 SUMMARY:Physique statistique (CM/TD)
-UID:d132e87a-e5fb-4e80-a971-6d2d946f354e@d132.org
+UID:dc00cec4-32b8-48ce-887f-891259a0bb0b@dc00.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
-DTEND:20260420T164000Z
-LOCATION:501/503 - BUFFON  [Salle de cours]
-DTSTART:20260420T133000Z
-SUMMARY:Physique statistique (CM/TD)
-UID:5967eb25-051c-4707-88c0-d068f91b67d9@5967.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
-DTEND:20260330T164000Z
-LOCATION:501/503 - BUFFON  [Salle de cours]
-DTSTART:20260330T133000Z
-SUMMARY:Physique statistique (CM/TD)
-UID:7c59bd19-1a0a-4890-8cc4-49d1e2e28fe2@7c59.org
+DESCRIPTION:Annulation\nLSMA631D-Probabilités avancées [LSMA631D]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260128T115000Z
+DTSTART:20260128T102000Z
+SUMMARY:Probabilités avancées (Annulation)
+UID:acdbbc07-dac1-4bdd-8a58-c4633a1cb709@acdb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
@@ -91,7 +30,30 @@ DTEND:20260309T174000Z
 LOCATION:501/503 - BUFFON  [Salle de cours]
 DTSTART:20260309T143000Z
 SUMMARY:Physique statistique (CM/TD)
-UID:b667265c-0f54-43ae-af22-69f38a4dbb83@b667.org
+UID:3e6f6f21-6572-4f5a-acd9-4bb6ed1a1f9f@3e6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260323T174000Z
+LOCATION:501/503 - BUFFON  [Salle de cours]
+DTSTART:20260323T143000Z
+SUMMARY:Physique statistique (CM/TD)
+UID:67efb450-3813-4045-b8f6-28c6f4e3387b@67ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Réunion\nG104 - GERMAIN (MASTER) [Salle de cours]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nréunion informations sur les Masters et écoles d'ingénieurs
+DTEND:20260209T142000Z
+LOCATION:G104 - GERMAIN (MASTER) [Salle de cours]
+DTSTART:20260209T125000Z
+SUMMARY:réunion informations sur les Masters et écoles d'ingénieurs (Réunion)
+UID:4ddf23e4-cbce-4e01-afad-8a206b19e0e0@4ddf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Annulation\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260206T101000Z
+DTSTART:20260206T070000Z
+SUMMARY:Groupes et Géométrie (Annulation)
+UID:7fbb55a2-23bc-4edc-a245-3468f34e8bec@7fbb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
@@ -99,7 +61,15 @@ DTEND:20260413T164000Z
 LOCATION:501/503 - BUFFON  [Salle de cours]
 DTSTART:20260413T133000Z
 SUMMARY:Physique statistique (CM/TD)
-UID:630581bd-0728-4634-b5ef-f793ea7bf310@6305.org
+UID:517ca50d-c25e-4303-afa8-bef9f69dcf52@517c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260202T174000Z
+LOCATION:501/503 - BUFFON  [Salle de cours]
+DTSTART:20260202T143000Z
+SUMMARY:Physique statistique (CM/TD)
+UID:475d8dba-d201-4f7a-b2fb-8d25b79509e9@475d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
@@ -107,6 +77,36 @@ DTEND:20260223T174000Z
 LOCATION:501/503 - BUFFON  [Salle de cours]
 DTSTART:20260223T143000Z
 SUMMARY:Physique statistique (CM/TD)
-UID:af30850f-2a24-461e-b57c-ade3d96ba8be@af30.org
+UID:2c7e575e-2d3f-4248-9950-707fbb19eb3c@2c7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260330T164000Z
+LOCATION:501/503 - BUFFON  [Salle de cours]
+DTSTART:20260330T133000Z
+SUMMARY:Physique statistique (CM/TD)
+UID:0b5f3660-fa5b-4256-9731-5a4cc8b60a1a@0b5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM/TD\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260504T164000Z
+DTSTART:20260504T133000Z
+SUMMARY:Physique statistique (CM/TD)
+UID:d467b18e-7b86-4e92-a482-f37d32135e24@d467.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Annulation\nLSMA631D-Probabilités avancées [LSMA631D]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260130T160000Z
+DTSTART:20260130T143000Z
+SUMMARY:Probabilités avancées (Annulation)
+UID:5be0e759-7a8e-4c43-a94b-2d40608ff77c@5be0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CM/TD\n501/503 - BUFFON  [Salle de cours]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260420T164000Z
+LOCATION:501/503 - BUFFON  [Salle de cours]
+DTSTART:20260420T133000Z
+SUMMARY:Physique statistique (CM/TD)
+UID:318a1b5b-faf4-45c2-847e-735aa0484228@318a.org
 END:VEVENT
 END:VCALENDAR
