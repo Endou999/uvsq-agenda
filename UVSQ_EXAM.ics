@@ -2,12 +2,28 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DESCRIPTION:Contrôle Continu de substitution\nG105 - GERMAIN [Salle de TD]\névaluation de substitution TP
+DTEND:20260507T073000Z
+LOCATION:G105 - GERMAIN [Salle de TD]
+DTSTART:20260507T063000Z
+SUMMARY:évaluation de substitution TP (CC)
+UID:f09031a7-a2ab-41ed-8220-c0b1b95d8249@f090.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:Contrôle Continu de substitution\n2201 - FERMAT [Salle de TD]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
 DTEND:20260507T105000Z
 LOCATION:2201 - FERMAT [Salle de TD]
 DTSTART:20260507T092000Z
 SUMMARY:Groupes et Géométrie (CC)
-UID:56b03c4f-8b6d-425e-84e9-376780b2c40e@56b0.org
+UID:444b9628-50dd-40f1-9453-3b458ebcc753@444b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Contrôle Continu de substitution\nG105 - GERMAIN [Salle de TD]\névaluation de substitution CC
+DTEND:20260507T091500Z
+LOCATION:G105 - GERMAIN [Salle de TD]
+DTSTART:20260507T074500Z
+SUMMARY:évaluation de substitution CC (CC)
+UID:45d92928-7382-4f19-8658-12299c104187@45d9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Contrôle Continu de substitution\n2202 - FERMAT [Salle de TD]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
@@ -15,6 +31,6 @@ DTEND:20260504T105000Z
 LOCATION:2202 - FERMAT [Salle de TD]
 DTSTART:20260504T092000Z
 SUMMARY:Analyse complexe (CC)
-UID:13c6e450-a9bf-4ad9-b0db-da56f13871f1@13c6.org
+UID:fa25bdb6-eb92-4eff-a7b2-1e4e8ff6e8c9@fa25.org
 END:VEVENT
 END:VCALENDAR
