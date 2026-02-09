@@ -7,7 +7,7 @@ DTEND:20260504T105000Z
 LOCATION:2202 - FERMAT [Salle de TD]
 DTSTART:20260504T092000Z
 SUMMARY:Analyse complexe (CC)
-UID:00fad8f8-7a0a-46c1-972f-ef7a9d930c62@00fa.org
+UID:cfb2c816-dd73-4c97-baee-b9f853e577de@cfb2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Contrôle Continu de substitution\n2201 - FERMAT [Salle de TD]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
@@ -15,6 +15,6 @@ DTEND:20260507T105000Z
 LOCATION:2201 - FERMAT [Salle de TD]
 DTSTART:20260507T092000Z
 SUMMARY:Groupes et Géométrie (CC)
-UID:a8e3cdfb-1eef-42e6-9140-d4fd9aad9883@a8e3.org
+UID:dcdfaeb9-ea91-4e25-ae67-1f718c4d4d38@dcdf.org
 END:VEVENT
 END:VCALENDAR
