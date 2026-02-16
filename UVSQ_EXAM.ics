@@ -2,19 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Contrôle Continu de substitution\n2201 - FERMAT [Salle de TD]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
-DTEND:20260507T105000Z
-LOCATION:2201 - FERMAT [Salle de TD]
-DTSTART:20260507T092000Z
-SUMMARY:Groupes et Géométrie (CC)
-UID:5f8f9a34-b5aa-4ac6-b993-2a2cd8e30ea9@5f8f.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Contrôle Continu de substitution\n2202 - FERMAT [Salle de TD]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
 DTEND:20260504T105000Z
 LOCATION:2202 - FERMAT [Salle de TD]
 DTSTART:20260504T092000Z
 SUMMARY:Analyse complexe (CC)
-UID:6841635b-0e9b-4e1f-8059-314f3469ea4c@6841.org
+UID:0060e964-5ad3-4429-bd96-14d6ead39c71@0060.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Contrôle Continu de substitution\n2201 - FERMAT [Salle de TD]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260507T105000Z
+LOCATION:2201 - FERMAT [Salle de TD]
+DTSTART:20260507T092000Z
+SUMMARY:Groupes et Géométrie (CC)
+UID:44e678c8-3dba-450e-aef1-09526145e0e8@44e6.org
 END:VEVENT
 END:VCALENDAR
