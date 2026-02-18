@@ -2,12 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Contrôle continu\nAMPHI J - FERMAT (176 / 92) [Amphithéâtre]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
-DTEND:20260226T160000Z
-LOCATION:AMPHI J - FERMAT (176 / 92) [Amphithéâtre]
-DTSTART:20260226T125000Z
-SUMMARY:Mécanique quantique II (Contrôle continu)
-UID:1a04cfb1-3467-4de1-b3c3-fc79a4bef442@1a04.org
+DESCRIPTION:Contrôle continu\nAMPHI F - FERMAT (120 / 65) [Amphithéâtre]\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\navec 1/3 temps
+DTEND:20260313T163000Z
+LOCATION:AMPHI F - FERMAT (120 / 65) [Amphithéâtre]
+DTSTART:20260313T143000Z
+SUMMARY:Probabilités avancées (Contrôle continu)
+UID:1bb7786c-754e-4604-8ae1-abe65b362d48@1bb7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Contrôle Continu de substitution\n2202 - FERMAT [Salle de TD]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
@@ -15,7 +15,7 @@ DTEND:20260504T105000Z
 LOCATION:2202 - FERMAT [Salle de TD]
 DTSTART:20260504T092000Z
 SUMMARY:Analyse complexe (CC)
-UID:0fd1bc34-3861-48d5-9ebe-40936040b71a@0fd1.org
+UID:c737a485-c516-440a-bacf-c97441a0c486@c737.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Contrôle Continu de substitution\n2102 - FERMAT\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
@@ -23,14 +23,14 @@ DTEND:20260507T105000Z
 LOCATION:2102 - FERMAT
 DTSTART:20260507T092000Z
 SUMMARY:Groupes et Géométrie (CC)
-UID:3869cb4f-ab87-4b6f-9213-61b9cd3f7cff@3869.org
+UID:05edaa55-460e-458e-b29a-2e7e10760765@05ed.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Contrôle continu\nAMPHI F - FERMAT (120 / 65) [Amphithéâtre]\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\navec 1/3 temps
-DTEND:20260313T163000Z
-LOCATION:AMPHI F - FERMAT (120 / 65) [Amphithéâtre]
-DTSTART:20260313T143000Z
-SUMMARY:Probabilités avancées (Contrôle continu)
-UID:5637613d-2d3b-414e-8ac0-72af2dd4c7a7@5637.org
+DESCRIPTION:Contrôle continu\nAMPHI J - FERMAT (176 / 92) [Amphithéâtre]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260226T160000Z
+LOCATION:AMPHI J - FERMAT (176 / 92) [Amphithéâtre]
+DTSTART:20260226T125000Z
+SUMMARY:Mécanique quantique II (Contrôle continu)
+UID:2a33bd54-86c8-48d4-b365-94164377c0a0@2a33.org
 END:VEVENT
 END:VCALENDAR
