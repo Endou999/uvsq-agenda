@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Contrôle Continu de substitution\n2202 - FERMAT [Salle de TD]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
-DTEND:20260504T105000Z
-LOCATION:2202 - FERMAT [Salle de TD]
-DTSTART:20260504T092000Z
-SUMMARY:Analyse complexe (CC)
-UID:492569bd-55b2-4861-a799-453a79478880@4925.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Contrôle continu\nAMPHI F - FERMAT (120 / 65) [Amphithéâtre]\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\navec 1/3 temps
 DTEND:20260313T163000Z
 LOCATION:AMPHI F - FERMAT (120 / 65) [Amphithéâtre]
 DTSTART:20260313T143000Z
 SUMMARY:Probabilités avancées (Contrôle continu)
-UID:3e5d67ee-b882-4291-9a03-39b29f037f05@3e5d.org
+UID:22beedb9-c24a-47d8-b458-8f2daeec0f2f@22be.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Contrôle Continu de substitution\n2102 - FERMAT\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
@@ -23,6 +15,22 @@ DTEND:20260507T105000Z
 LOCATION:2102 - FERMAT
 DTSTART:20260507T092000Z
 SUMMARY:Groupes et Géométrie (CC)
-UID:e7428c21-ed8e-45eb-9765-0f005808a8a7@e742.org
+UID:6a31eb13-9df2-471a-9409-d3b243c2f536@6a31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Contrôle continu\nAMPHI J - FERMAT (176 / 92) [Amphithéâtre]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260226T160000Z
+LOCATION:AMPHI J - FERMAT (176 / 92) [Amphithéâtre]
+DTSTART:20260226T125000Z
+SUMMARY:Mécanique quantique II (Contrôle continu)
+UID:4d7b7748-0a92-4294-97be-6836c261a46e@4d7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Contrôle Continu de substitution\n2202 - FERMAT [Salle de TD]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260504T105000Z
+LOCATION:2202 - FERMAT [Salle de TD]
+DTSTART:20260504T092000Z
+SUMMARY:Analyse complexe (CC)
+UID:7962283a-abfa-4716-97c6-cdecbaea6a8d@7962.org
 END:VEVENT
 END:VCALENDAR
