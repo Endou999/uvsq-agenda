@@ -7,15 +7,7 @@ DTEND:20260313T163000Z
 LOCATION:AMPHI F - FERMAT (120 / 65) [Amphithéâtre]
 DTSTART:20260313T143000Z
 SUMMARY:Probabilités avancées (Contrôle continu)
-UID:4cb0845c-2987-47aa-96b9-274509007227@4cb0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Contrôle continu\nAMPHI J - FERMAT (176 / 92) [Amphithéâtre]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
-DTEND:20260226T160000Z
-LOCATION:AMPHI J - FERMAT (176 / 92) [Amphithéâtre]
-DTSTART:20260226T125000Z
-SUMMARY:Mécanique quantique II (Contrôle continu)
-UID:61b4dfec-987e-4884-827a-81a4bb69c08a@61b4.org
+UID:aa55ebb1-c42a-421a-9991-a89e000112c5@aa55.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Contrôle Continu de substitution\n2202 - FERMAT [Salle de TD]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
@@ -23,7 +15,7 @@ DTEND:20260504T105000Z
 LOCATION:2202 - FERMAT [Salle de TD]
 DTSTART:20260504T092000Z
 SUMMARY:Analyse complexe (CC)
-UID:6d3dea31-9227-4142-8625-3765864ca008@6d3d.org
+UID:d1d45ae5-5157-4c17-8225-4ff0ebcb1ba7@d1d4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Contrôle Continu de substitution\n2102 - FERMAT\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
@@ -31,6 +23,14 @@ DTEND:20260507T105000Z
 LOCATION:2102 - FERMAT
 DTSTART:20260507T092000Z
 SUMMARY:Groupes et Géométrie (CC)
-UID:d8050f83-7404-44c6-8359-1e1a5c2e2624@d805.org
+UID:fe99e7ea-dbfc-4f75-ba07-d47e16392c40@fe99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Contrôle continu\nAMPHI J - FERMAT (176 / 92) [Amphithéâtre]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]
+DTEND:20260226T160000Z
+LOCATION:AMPHI J - FERMAT (176 / 92) [Amphithéâtre]
+DTSTART:20260226T125000Z
+SUMMARY:Mécanique quantique II (Contrôle continu)
+UID:d9de2415-d83f-450a-b668-8e981fa39f2d@d9de.org
 END:VEVENT
 END:VCALENDAR
