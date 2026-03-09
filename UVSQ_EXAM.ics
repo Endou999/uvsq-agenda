@@ -7,15 +7,7 @@ DTEND:20260313T163000Z
 LOCATION:AMPHI F - FERMAT (120 / 65) [Amphithéâtre]
 DTSTART:20260313T143000Z
 SUMMARY:Probabilités avancées (Contrôle continu)
-UID:d945e9b8-1a7b-44ba-a5e6-ea89a8cc61ae@d945.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Contrôle Continu de substitution\n2202 - FERMAT [Salle de TD]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
-DTEND:20260504T105000Z
-LOCATION:2202 - FERMAT [Salle de TD]
-DTSTART:20260504T092000Z
-SUMMARY:Analyse complexe (CC)
-UID:e622c9c1-413e-4024-b498-8ad421bece26@e622.org
+UID:bcc8d624-cb69-486a-ae2f-ab4a628a57e2@bcc8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Contrôle Continu de substitution\n2102 - FERMAT\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
@@ -23,6 +15,14 @@ DTEND:20260507T105000Z
 LOCATION:2102 - FERMAT
 DTSTART:20260507T092000Z
 SUMMARY:Groupes et Géométrie (CC)
-UID:fe44abf4-8612-4e65-8c6a-0e579833eae5@fe44.org
+UID:acfd4c47-fa7e-43f8-9187-82cee460d36e@acfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Contrôle Continu de substitution\n2202 - FERMAT [Salle de TD]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260504T105000Z
+LOCATION:2202 - FERMAT [Salle de TD]
+DTSTART:20260504T092000Z
+SUMMARY:Analyse complexe (CC)
+UID:0cc18401-bc02-4ca1-8594-bc508aa2273b@0cc1.org
 END:VEVENT
 END:VCALENDAR
