@@ -71,4 +71,3 @@ Le script met à jour plusieurs fichiers à la racine (`UVSQ_CM.ics`, `UVSQ_TD.i
 4. Dans Google Calendar, allez dans **Autres agendas** > **+** > **À partir de l'URL**.
 5. Collez l'URL et validez.
 6. Changez la couleur du calendrier nouvellement ajouté dans Google Calendar.
-```
