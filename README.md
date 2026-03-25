@@ -52,4 +52,26 @@ Pour cet exemple, la chaîne de caractères à utiliser est `S6 LDDMP PSC`. Vous
 ```python
 MY_GROUPS = [
     "S6 LDDMP PSC",  # Groupe extrait de Celcat pour le Semestre 6
-]
+]```
+
+3. Activer l'automatisation
+Allez dans l'onglet Actions de votre dépôt GitHub.
+
+Autorisez l'exécution des workflows.
+
+Le workflow Update UVSQ Calendars s'exécutera automatiquement toutes les 2 heures.
+
+4. Importer dans Google Calendar
+Le script met à jour plusieurs fichiers à la racine (UVSQ_CM.ics, UVSQ_TD.ics, etc.). Répétez cette procédure pour chaque fichier afin de configurer vos couleurs :
+
+Ouvrez un fichier .ics dans GitHub.
+
+Cliquez sur le bouton Raw en haut à droite.
+
+Copiez l'URL de la page.
+
+Dans Google Calendar, allez dans Autres agendas > + > À partir de l'URL.
+
+Collez l'URL et validez.
+
+Changez la couleur du calendrier nouvellement ajouté dans Google Calendar.
