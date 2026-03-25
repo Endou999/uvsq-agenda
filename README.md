@@ -43,7 +43,7 @@ Lorsque vous affichez votre emploi du temps sur Celcat, vous voyez un intitulé 
 Dans l'exemple ci-dessous, l'intitulé complet affiché est :
 `L3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) (S6 LDDMP PSC)`
 
-<img width="1678" height="1024" alt="image" src="https://github.com/user-attachments/assets/8b7f2eb9-0815-416f-a9df-233f510ae04f" />
+<img width="1653" height="476" alt="image" src="https://github.com/user-attachments/assets/f725fe1a-fe5d-4a2c-b416-3fcff657f649" />
 
 La **seule** partie que vous devez copier est l'identifiant court situé **entre les premières parenthèses**, sans les parenthèses elles-mêmes. 
 
