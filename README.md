@@ -52,7 +52,8 @@ Pour cet exemple, la chaîne de caractères à utiliser est `S6 LDDMP PSC`. Vous
 ```python
 MY_GROUPS = [
     "S6 LDDMP PSC",  # Groupe extrait de Celcat pour le Semestre 6
-]```
+]
+```
 
 3. Activer l'automatisation
 Allez dans l'onglet Actions de votre dépôt GitHub.
