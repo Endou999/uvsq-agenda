@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Contrôle Continu de substitution\n2102 - FERMAT\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
-DTEND:20260507T105000Z
-LOCATION:2102 - FERMAT
-DTSTART:20260507T092000Z
-SUMMARY:Groupes et Géométrie (CC)
-UID:003e52af-9525-4905-9985-f2255af881ce@003e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Contrôle Continu de substitution\n2202 - FERMAT [Salle de TD]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
-DTEND:20260504T105000Z
-LOCATION:2202 - FERMAT [Salle de TD]
-DTSTART:20260504T092000Z
-SUMMARY:Analyse complexe (CC)
-UID:6c2bd34a-9b47-4a1a-a103-7854f35de7ef@6c2b.org
+DESCRIPTION:Contrôle Continu de substitution\nG210 - GERMAIN [Salle de TD]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\navec 1/3 temps
+DTEND:20260506T082000Z
+LOCATION:G210 - GERMAIN [Salle de TD]
+DTSTART:20260506T070000Z
+SUMMARY:Mécanique quantique II (CC)
+UID:0867d5ec-324f-4802-8801-79c11b496757@0867.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Examen Session 1\nAMPHI B - DESCARTES (160 / 85)\nEXAMEN L3 SESSION 1 [EXAMEN L3 SESSION 1]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\navec 1/3 temps
@@ -23,23 +15,7 @@ DTEND:20260511T144000Z
 LOCATION:AMPHI B - DESCARTES (160 / 85)
 DTSTART:20260511T120000Z
 SUMMARY:Mécanique quantique II (Exam)
-UID:4050ee0f-026e-4fc9-9d8b-594c46eefbfd@4050.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Examen Session 1\nAMPHI D - DESCARTES (200 / 100) [Amphithéâtre]\nEXAMEN L3 SESSION 1 [EXAMEN L3 SESSION 1]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\navec 1/3 temps
-DTEND:20260519T101000Z
-LOCATION:AMPHI D - DESCARTES (200 / 100) [Amphithéâtre]
-DTSTART:20260519T073000Z
-SUMMARY:Analyse complexe (Exam)
-UID:efdc78a8-2a2d-4d48-b8cb-cadb4fbc378d@efdc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Examen Session 1\nAMPHI F - FERMAT (120 / 65) [Amphithéâtre]\nEXAMEN L3 SESSION 1 [EXAMEN L3 SESSION 1]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\navec 1/3 temps
-DTEND:20260519T144000Z
-LOCATION:AMPHI F - FERMAT (120 / 65) [Amphithéâtre]
-DTSTART:20260519T120000Z
-SUMMARY:Physique statistique (Exam)
-UID:e09659ca-0217-4f60-816c-674ecbe8e132@e096.org
+UID:b4bed634-b3bc-445d-b3f3-6c17a9ee5ae7@b4be.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Contrôle continu\nG105 - GERMAIN [Salle de TD]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
@@ -47,15 +23,31 @@ DTEND:20260417T091000Z
 LOCATION:G105 - GERMAIN [Salle de TD]
 DTSTART:20260417T060000Z
 SUMMARY:Groupes et Géométrie (Contrôle continu)
-UID:c59974f0-928a-4e2b-9d6f-db07808304c8@c599.org
+UID:ad8bd953-042b-4059-9e6c-8502a49b2efd@ad8b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Contrôle Continu de substitution\nG210 - GERMAIN [Salle de TD]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\navec 1/3 temps
-DTEND:20260506T082000Z
-LOCATION:G210 - GERMAIN [Salle de TD]
-DTSTART:20260506T070000Z
-SUMMARY:Mécanique quantique II (CC)
-UID:cdb13399-6f7d-4df4-b3c5-46eb6613cef0@cdb1.org
+DESCRIPTION:Examen Session 1\nAMPHI D - DESCARTES (200 / 100) [Amphithéâtre]\nEXAMEN L3 SESSION 1 [EXAMEN L3 SESSION 1]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\navec 1/3 temps
+DTEND:20260519T101000Z
+LOCATION:AMPHI D - DESCARTES (200 / 100) [Amphithéâtre]
+DTSTART:20260519T073000Z
+SUMMARY:Analyse complexe (Exam)
+UID:b37e841c-ecad-4ef5-80e4-cb730502d588@b37e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Contrôle Continu de substitution\n2102 - FERMAT\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260507T105000Z
+LOCATION:2102 - FERMAT
+DTSTART:20260507T092000Z
+SUMMARY:Groupes et Géométrie (CC)
+UID:01a5a1cd-0b35-4fb4-a606-331443046d7c@01a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Examen Session 1\nAMPHI F - FERMAT (120 / 65) [Amphithéâtre]\nEXAMEN L3 SESSION 1 [EXAMEN L3 SESSION 1]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\navec 1/3 temps
+DTEND:20260519T144000Z
+LOCATION:AMPHI F - FERMAT (120 / 65) [Amphithéâtre]
+DTSTART:20260519T120000Z
+SUMMARY:Physique statistique (Exam)
+UID:f8803572-7379-4657-a66f-e259fa34c8ca@f880.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Examen Session 1\nAMPHI G - FERMAT (117 / 57) [Amphithéâtre]\nEXAMEN L3 SESSION 1 [EXAMEN L3 SESSION 1]\nLSEN690-Astrophysique [LSEN690]\nLSEN690N-LSEN690N - Astrophysique et planètologie [LSEN690N]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\navec 1/3 temps
@@ -63,15 +55,7 @@ DTEND:20260512T140000Z
 LOCATION:AMPHI G - FERMAT (117 / 57) [Amphithéâtre]
 DTSTART:20260512T120000Z
 SUMMARY:Astrophysique (Exam)
-UID:9da2288b-ce50-46ee-b12e-b73860d7ee66@9da2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Contrôle continu\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\navec 1/3 temps
-DTEND:20260415T103000Z
-LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
-DTSTART:20260415T073000Z
-SUMMARY:Probabilités avancées (Contrôle continu)
-UID:8ac7c2d7-0168-43bf-bd9c-eae1da310c71@8ac7.org
+UID:8fa1faf1-1b75-483b-8e54-a253c73dbd24@8fa1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Examen Session 1\nAMPHI A - DESCARTES (180 / 100) [Amphithéâtre]\nEXAMEN L3 SESSION 1 [EXAMEN L3 SESSION 1]\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\nLSMA631D : 9h30-12h10 avec 1/3 temps\nLSMA631N : 9h30-12h30
@@ -79,7 +63,7 @@ DTEND:20260511T103000Z
 LOCATION:AMPHI A - DESCARTES (180 / 100) [Amphithéâtre]
 DTSTART:20260511T073000Z
 SUMMARY:Probabilités avancées (Exam)
-UID:e2b47663-273c-4ae7-b223-74b5999e23fa@e2b4.org
+UID:6a713003-5d61-4461-b760-a45c2bbe7c4b@6a71.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Examen Session 1\nAMPHI BERTIN - BUFFON (255 / 126) [Amphithéâtre]\nEXAMEN L3 SESSION 1 [EXAMEN L3 SESSION 1]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
@@ -87,6 +71,22 @@ DTEND:20260520T093000Z
 LOCATION:AMPHI BERTIN - BUFFON (255 / 126) [Amphithéâtre]
 DTSTART:20260520T073000Z
 SUMMARY:Groupes et Géométrie (Exam)
-UID:e41fee9b-f8c5-43f4-916a-1e776ce04c9c@e41f.org
+UID:6f6314b9-5d6b-4e72-aa0b-d9b9151240d0@6f63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Contrôle continu\nAMPHI C - DESCARTES (150 / 78) [Amphithéâtre]\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\navec 1/3 temps
+DTEND:20260415T103000Z
+LOCATION:AMPHI C - DESCARTES (150 / 78) [Amphithéâtre]
+DTSTART:20260415T073000Z
+SUMMARY:Probabilités avancées (Contrôle continu)
+UID:70454bb1-d307-4913-8ad0-a3d7ffb5a67b@7045.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Contrôle Continu de substitution\n2202 - FERMAT [Salle de TD]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260504T105000Z
+LOCATION:2202 - FERMAT [Salle de TD]
+DTSTART:20260504T092000Z
+SUMMARY:Analyse complexe (CC)
+UID:1aba80d2-4014-4ce0-bf79-41860bb9b875@1aba.org
 END:VEVENT
 END:VCALENDAR
