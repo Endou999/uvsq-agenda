@@ -1,4 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Consultation de copies\n2104 - FERMAT [Salle de TD]\nLSMA203N-Mathématiques Approfondies [LSMA203N]\nLSMA450-Mathématiques assistées par Ordinateur [LSMA450]\nLSMA651-Optimisation et Applications [LSMA651]\nL1 MIASHS S2 - S2MIASCM-01 [S2MIASCM-01]\nL2 MIASHS S4 [S4MIASHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260519T120000Z
+LOCATION:2104 - FERMAT [Salle de TD]
+DTSTART:20260519T110000Z
+SUMMARY:Mathématiques Approfondies (Consultation de copies)
+UID:0ae9f7d5-00b9-435a-9eb5-b8cf7374b6a3@0ae9.org
+END:VEVENT
 END:VCALENDAR
