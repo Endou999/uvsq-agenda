@@ -7,7 +7,7 @@ DTEND:20260610T100000Z
 LOCATION:2204 - FERMAT [Salle de TD]
 DTSTART:20260610T090000Z
 SUMMARY:Analyse complexe (Consultation de copies)
-UID:ed5b5f25-52af-41eb-b70e-b31891c323bb@ed5b.org
+UID:a96cb425-48a5-43d5-9264-1b5d3c1a15ab@a96c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Consultation de copies\n2204 - FERMAT [Salle de TD]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
@@ -15,6 +15,6 @@ DTEND:20260610T090000Z
 LOCATION:2204 - FERMAT [Salle de TD]
 DTSTART:20260610T080000Z
 SUMMARY:Groupes et Géométrie (Consultation de copies)
-UID:cb401126-7bf2-4267-8293-47e4b1d5869f@cb40.org
+UID:9fb16f5a-1414-4152-a1b5-dc0b5453ca16@9fb1.org
 END:VEVENT
 END:VCALENDAR
