@@ -2,19 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Consultation de copies\n2204 - FERMAT [Salle de TD]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
-DTEND:20260610T090000Z
-LOCATION:2204 - FERMAT [Salle de TD]
-DTSTART:20260610T080000Z
-SUMMARY:Groupes et Géométrie (Consultation de copies)
-UID:b763c91b-6b63-4d2d-8019-59541f1f989e@b763.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Consultation de copies\n2204 - FERMAT [Salle de TD]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
 DTEND:20260610T100000Z
 LOCATION:2204 - FERMAT [Salle de TD]
 DTSTART:20260610T090000Z
 SUMMARY:Analyse complexe (Consultation de copies)
-UID:9585cc3d-9947-4778-940b-74b47b97f14a@9585.org
+UID:b0c91971-ce84-498a-bd0d-9493c93b72d4@b0c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Consultation de copies\n2204 - FERMAT [Salle de TD]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260610T090000Z
+LOCATION:2204 - FERMAT [Salle de TD]
+DTSTART:20260610T080000Z
+SUMMARY:Groupes et Géométrie (Consultation de copies)
+UID:67966ae2-0c6c-46e6-ac68-da33f24b08f8@6796.org
 END:VEVENT
 END:VCALENDAR
