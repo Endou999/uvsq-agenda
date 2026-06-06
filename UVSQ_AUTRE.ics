@@ -2,19 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Consultation de copies\n2204 - FERMAT [Salle de TD]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
-DTEND:20260610T100000Z
-LOCATION:2204 - FERMAT [Salle de TD]
-DTSTART:20260610T090000Z
-SUMMARY:Analyse complexe (Consultation de copies)
-UID:9b516b3a-2a91-4e34-81fb-f598293376a0@9b51.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:Consultation de copies\n2204 - FERMAT [Salle de TD]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
 DTEND:20260610T090000Z
 LOCATION:2204 - FERMAT [Salle de TD]
 DTSTART:20260610T080000Z
 SUMMARY:Groupes et Géométrie (Consultation de copies)
-UID:3aa2e0d3-c3c0-4e51-9bcb-5ca8a8e3a53c@3aa2.org
+UID:5d63e218-0738-4836-94e1-3d9d3d994dd6@5d63.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Consultation de copies\n2204 - FERMAT [Salle de TD]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260610T100000Z
+LOCATION:2204 - FERMAT [Salle de TD]
+DTSTART:20260610T090000Z
+SUMMARY:Analyse complexe (Consultation de copies)
+UID:ea7e3239-66d1-4614-bdcc-1262fee38c9c@ea7e.org
 END:VEVENT
 END:VCALENDAR
