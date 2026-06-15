@@ -1,4 +1,12 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Consultation de copies\n2205 - FERMAT [Salle de TD]\nLSMA631D-Probabilités avancées [LSMA631D]\nLSMA631N-Probabilités avancées [LSMA631N]\nLSMA631-Probabilités avancées [LSMA631]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260617T150000Z
+LOCATION:2205 - FERMAT [Salle de TD]
+DTSTART:20260617T133000Z
+SUMMARY:Probabilités avancées (Consultation de copies)
+UID:02de6df6-e1be-4cbe-b74b-66858c4a1009@02de.org
+END:VEVENT
 END:VCALENDAR
