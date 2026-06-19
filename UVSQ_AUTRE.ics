@@ -6,7 +6,7 @@ DESCRIPTION:Annulation\nEXAMEN L3 SESSION 2 [EXAMEN L3 SESSION 2]\nLSPH516-LSPH5
 DTEND:20260622T140000Z
 DTSTART:20260622T120000Z
 SUMMARY:Mécanique quantique 1 (Annulation)
-UID:6876fbcf-3e20-47b2-a5a6-1287515daf5a@6876.org
+UID:a57ff89f-f894-4bed-ae5c-60f18a96b95a@a57f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Option de Réservation\n2203 - FERMAT [Salle de TD]\nEXAMEN L3 SESSION 2 [EXAMEN L3 SESSION 2]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]\nL3 Physique Parcours PSC  S5 ( S5 PHYSIQUE PSC ) [S5 PHYSIQUE PSC]\nproposition en attente de confirmation\nAvec 1/3 temps
@@ -14,6 +14,6 @@ DTEND:20260626T093000Z
 LOCATION:2203 - FERMAT [Salle de TD]
 DTSTART:20260626T073000Z
 SUMMARY:Mécanique quantique 1 (Option de Réservation)
-UID:acf13886-fbf8-4a3d-91f3-f79674617b84@acf1.org
+UID:87ab165b-3464-4f79-a4b1-95cb497f4046@87ab.org
 END:VEVENT
 END:VCALENDAR
