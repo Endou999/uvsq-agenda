@@ -2,20 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Contrôle continu\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\nEXAMEN L3 SESSION 2 [EXAMEN L3 SESSION 2]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
-DTEND:20260630T140000Z
+DESCRIPTION:Examen Session 2\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\nEXAMEN L3 SESSION 2 [EXAMEN L3 SESSION 2]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Mathématiques S5 ( S5 MATHEMATIQUES ) [S5 MATHEMATIQUES]\navec 1/3 temps
+DTEND:20260623T101000Z
 LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
-DTSTART:20260630T120000Z
-SUMMARY:Groupes et Géométrie (Contrôle continu)
-UID:01f5ef8a-7095-4f9e-8014-c5b74d8c6529@01f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Examen Session 2\nAMPHI BERTIN - BUFFON (255 / 126) [Amphithéâtre]\nEXAMEN L2 SESSION 2 [EXAMEN L2 SESSION 2]\nEXAMEN L3 SESSION 2 [EXAMEN L3 SESSION 2]\nLSANGS3-Anglais UE2 [LSANGS3]\nLSANGS4-Anglais UE2 [LSANGS4]\nLSANGS4N-LSANGS4N - Anglais UE2 - L2 LDD MP [LSANGS4N]\nLSANGS5-Anglais UE3 [LSANGS5]\nLSANGS6-LSANGS6 - Anglais UE3 [LSANGS6]\nL2  Licence Chimie S3 ( S3 CHIMIE ) [S3CHIMIE]\nL2 Chimie S4 ( S4CHIMIE ) [S4CHIMIE]\nL2 Double Diplôme Chimie Sciences de la Vie S3 ( S3 LDDCB ) [S3LDDCB]\nL2 Double Diplôme Mathématiques Physique S4 ( S4LDDMP ) [S4LDDMP]\nL2 Double Diplôme Sciences de la Vie Informatique S3 ( S3 LDDBI ) [S3LDDBI]\nL2 Informatique S3 ( S3 INFORMATIQUE ) [S3INFO]\nL2 Mathématiques S4 [S4MATHS]\nL2 MIASHS S3 ( S3MIASHS ) [S3MIASHS]\nL2 Physique S4 [S4PHYSIQUE]\nL2 Sciences de la Vie et de la Terre S3 ( S3 SVT ) [S3SVT]\nL2 Sciences de la Vie S3  [S3SDV]\nL3 CHIMIE S6 ( S6 CHIMIE ) [S6 CHIMIE]\nL3 Double Diplôme Chimie Sciences de la Vie S5 ( S5 LDDCB ) [S5 LDD CB]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Double Diplôme Sciences de la Vie Informatique S6 ( S6 LDDBI ) [S6 LDDBI]\nL3 INFORMATIQUE S6 ( S6 INFO ) [S6 INFO]\nL3 Mathématiques S5 ( S5 MATHEMATIQUES ) [S5 MATHEMATIQUES]\nL3 MIASHS S5 ( S5 MIASHS ) [S5 MIASHS]\nL3 Physique S6 ( S6 PHYSIQUE ) [S6 PHYSIQUE]\nL3 Sciences de la Vie et de la Terre S5 ( S5 SVT )  [S5 SVT]\n(1 more...)\navec 1/3 temps
-DTEND:20260624T144000Z
-LOCATION:AMPHI BERTIN - BUFFON (255 / 126) [Amphithéâtre]
-DTSTART:20260624T120000Z
-SUMMARY:Exam
-UID:c905bce3-b211-496f-9350-f04d60d997d5@c905.org
+DTSTART:20260623T073000Z
+SUMMARY:Analyse Numérique (Exam)
+UID:d72660e6-9413-459c-ac37-c69f5cb7c227@d726.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Examen Session 2\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\nEXAMEN L3 SESSION 2 [EXAMEN L3 SESSION 2]\nLSMA631N-Probabilités avancées [LSMA631N]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\nLSMA631N : 14h-17h
@@ -23,47 +15,23 @@ DTEND:20260626T150000Z
 LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
 DTSTART:20260626T120000Z
 SUMMARY:Probabilités avancées (Exam)
-UID:b6afde6f-3184-460c-959f-ff1b8fdb2e01@b6af.org
+UID:b822bc4b-d1ec-44fd-84d6-960f5af2d605@b822.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Examen Session 2\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\nEXAMEN L3 SESSION 2 [EXAMEN L3 SESSION 2]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Mathématiques S5 ( S5 MATHEMATIQUES ) [S5 MATHEMATIQUES]\navec 1/3 temps
-DTEND:20260623T101000Z
+DESCRIPTION:Contrôle continu\nAMPHI H - FERMAT (114 / 61) [Amphithéâtre]\nEXAMEN L3 SESSION 2 [EXAMEN L3 SESSION 2]\nLSMA610-Groupes et Géométrie [LSMA610]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nL3 MATHEMATIQUES S6 HEC ( S6  HEC ) [S6  HEC]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]
+DTEND:20260630T140000Z
 LOCATION:AMPHI H - FERMAT (114 / 61) [Amphithéâtre]
-DTSTART:20260623T073000Z
-SUMMARY:Analyse Numérique (Exam)
-UID:ae81842b-adac-4817-84f9-86fee979bee6@ae81.org
+DTSTART:20260630T120000Z
+SUMMARY:Groupes et Géométrie (Contrôle continu)
+UID:2af1b3aa-a10b-497a-a849-42beaaf78897@2af1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Examen Session 2\nG105 - GERMAIN [Salle de TD]\nEXAMEN L3 SESSION 2 [EXAMEN L3 SESSION 2]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\navec 1/3 temps
-DTEND:20260630T101000Z
-LOCATION:G105 - GERMAIN [Salle de TD]
-DTSTART:20260630T073000Z
-SUMMARY:Mécanique quantique II (Exam)
-UID:bc87f3f9-3e8c-4ef8-90aa-8b86f74d46fb@bc87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Examen Session 2\nG105 - GERMAIN [Salle de TD]\nEXAMEN L3 SESSION 2 [EXAMEN L3 SESSION 2]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\navec 1/3 temps
-DTEND:20260625T101000Z
-LOCATION:G105 - GERMAIN [Salle de TD]
-DTSTART:20260625T073000Z
-SUMMARY:Physique statistique (Exam)
-UID:170da75d-5573-4961-91a2-d88b5c5dca58@170d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Examen Session 2\nAMPHI G - FERMAT (117 / 57)\nEXAMEN L3 SESSION 2 [EXAMEN L3 SESSION 2]\nLSSI532-Théorie et Traitement du signal 1 [LSSI532]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\navec 1/3 temps
-DTEND:20260623T093000Z
-LOCATION:AMPHI G - FERMAT (117 / 57)
-DTSTART:20260623T073000Z
-SUMMARY:Théorie et Traitement du signal 1 (Exam)
-UID:27aea9e0-e5f3-414b-ac02-fee5eaf0a465@27ae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Contrôle continu\nAMPHI F - FERMAT (120 / 65) [Amphithéâtre]\nEXAMEN L3 SESSION 2 [EXAMEN L3 SESSION 2]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\navec 1/3 temps
-DTEND:20260701T101000Z
-LOCATION:AMPHI F - FERMAT (120 / 65) [Amphithéâtre]
-DTSTART:20260701T073000Z
-SUMMARY:Analyse complexe (Contrôle continu)
-UID:d589d5e0-5238-4a4d-82e4-31305ccd9a64@d589.org
+DESCRIPTION:Examen Session 2\nAMPHI BERTIN - BUFFON (255 / 126) [Amphithéâtre]\nEXAMEN L2 SESSION 2 [EXAMEN L2 SESSION 2]\nEXAMEN L3 SESSION 2 [EXAMEN L3 SESSION 2]\nLSANGS3-Anglais UE2 [LSANGS3]\nLSANGS4-Anglais UE2 [LSANGS4]\nLSANGS4N-LSANGS4N - Anglais UE2 - L2 LDD MP [LSANGS4N]\nLSANGS5-Anglais UE3 [LSANGS5]\nLSANGS6-LSANGS6 - Anglais UE3 [LSANGS6]\nL2  Licence Chimie S3 ( S3 CHIMIE ) [S3CHIMIE]\nL2 Chimie S4 ( S4CHIMIE ) [S4CHIMIE]\nL2 Double Diplôme Chimie Sciences de la Vie S3 ( S3 LDDCB ) [S3LDDCB]\nL2 Double Diplôme Mathématiques Physique S4 ( S4LDDMP ) [S4LDDMP]\nL2 Double Diplôme Sciences de la Vie Informatique S3 ( S3 LDDBI ) [S3LDDBI]\nL2 Informatique S3 ( S3 INFORMATIQUE ) [S3INFO]\nL2 Mathématiques S4 [S4MATHS]\nL2 MIASHS S3 ( S3MIASHS ) [S3MIASHS]\nL2 Physique S4 [S4PHYSIQUE]\nL2 Sciences de la Vie et de la Terre S3 ( S3 SVT ) [S3SVT]\nL2 Sciences de la Vie S3  [S3SDV]\nL3 CHIMIE S6 ( S6 CHIMIE ) [S6 CHIMIE]\nL3 Double Diplôme Chimie Sciences de la Vie S5 ( S5 LDDCB ) [S5 LDD CB]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Double Diplôme Sciences de la Vie Informatique S6 ( S6 LDDBI ) [S6 LDDBI]\nL3 INFORMATIQUE S6 ( S6 INFO ) [S6 INFO]\nL3 Mathématiques S5 ( S5 MATHEMATIQUES ) [S5 MATHEMATIQUES]\nL3 MIASHS S5 ( S5 MIASHS ) [S5 MIASHS]\nL3 Physique S6 ( S6 PHYSIQUE ) [S6 PHYSIQUE]\nL3 Sciences de la Vie et de la Terre S5 ( S5 SVT )  [S5 SVT]\n(1 more...)\navec 1/3 temps
+DTEND:20260624T144000Z
+LOCATION:AMPHI BERTIN - BUFFON (255 / 126) [Amphithéâtre]
+DTSTART:20260624T120000Z
+SUMMARY:Exam
+UID:b40b238c-4600-4d2b-ba1e-8190900c4862@b40b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Examen Session 2\n2203 - FERMAT [Salle de TD]\nEXAMEN L3 SESSION 2 [EXAMEN L3 SESSION 2]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]\nL3 Physique Parcours PSC  S5 ( S5 PHYSIQUE PSC ) [S5 PHYSIQUE PSC]\nAvec 1/3 temps
@@ -71,7 +39,7 @@ DTEND:20260626T093000Z
 LOCATION:2203 - FERMAT [Salle de TD]
 DTSTART:20260626T073000Z
 SUMMARY:Mécanique quantique 1 (Exam)
-UID:97f66ac1-1cd1-407a-a7a0-0e076d991e76@97f6.org
+UID:5131da50-3223-451e-848b-06bde877f24d@5131.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Examen Session 2\n2204 - FERMAT [Salle de TD]\nEXAMEN L3 SESSION 2 [EXAMEN L3 SESSION 2]\nLSEN690-Astrophysique [LSEN690]\nLSEN690N-LSEN690N - Astrophysique et planètologie [LSEN690N]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\navec 1/3 temps
@@ -79,6 +47,38 @@ DTEND:20260629T093000Z
 LOCATION:2204 - FERMAT [Salle de TD]
 DTSTART:20260629T073000Z
 SUMMARY:Astrophysique (Exam)
-UID:08dd31bf-3f1f-49d6-95a1-a58eeddaa249@08dd.org
+UID:38764e0b-4abe-42ef-a23b-face706b5481@3876.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Contrôle continu\nAMPHI F - FERMAT (120 / 65) [Amphithéâtre]\nEXAMEN L3 SESSION 2 [EXAMEN L3 SESSION 2]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\navec 1/3 temps
+DTEND:20260701T101000Z
+LOCATION:AMPHI F - FERMAT (120 / 65) [Amphithéâtre]
+DTSTART:20260701T073000Z
+SUMMARY:Analyse complexe (Contrôle continu)
+UID:d97e9db2-4a08-4890-9ae7-ede0a15f61e7@d97e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Examen Session 2\nG105 - GERMAIN [Salle de TD]\nEXAMEN L3 SESSION 2 [EXAMEN L3 SESSION 2]\nLSPH616-Mécanique quantique II [LSPH616]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\navec 1/3 temps
+DTEND:20260630T101000Z
+LOCATION:G105 - GERMAIN [Salle de TD]
+DTSTART:20260630T073000Z
+SUMMARY:Mécanique quantique II (Exam)
+UID:6f8507c1-61ac-413b-b149-52f8d1672a87@6f85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Examen Session 2\nG105 - GERMAIN [Salle de TD]\nEXAMEN L3 SESSION 2 [EXAMEN L3 SESSION 2]\nLSPH617-LSPH617 - Physique statistique [LSPH617]\nL3 Double Diplôme Mathématiques Physique parcours PSC S6 ( S6 LDDMP PSC ) [S6 LDDMP PSC]\nL3 Physique S6 PSC ( S6 PHYSIQUE PSC ) [S6 PHYSIQUE PSC ]\navec 1/3 temps
+DTEND:20260625T101000Z
+LOCATION:G105 - GERMAIN [Salle de TD]
+DTSTART:20260625T073000Z
+SUMMARY:Physique statistique (Exam)
+UID:d7a9274d-5507-4b28-9d9b-cde26a48c004@d7a9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Examen Session 2\nAMPHI G - FERMAT (117 / 57)\nEXAMEN L3 SESSION 2 [EXAMEN L3 SESSION 2]\nLSSI532-Théorie et Traitement du signal 1 [LSSI532]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\navec 1/3 temps
+DTEND:20260623T093000Z
+LOCATION:AMPHI G - FERMAT (117 / 57)
+DTSTART:20260623T073000Z
+SUMMARY:Théorie et Traitement du signal 1 (Exam)
+UID:9186c894-baf1-4949-8085-28296f3b97a1@9186.org
 END:VEVENT
 END:VCALENDAR
