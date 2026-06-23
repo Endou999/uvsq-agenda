@@ -1,11 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:Annulation\nEXAMEN L3 SESSION 2 [EXAMEN L3 SESSION 2]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]\nL3 Physique Parcours PSC  S5 ( S5 PHYSIQUE PSC ) [S5 PHYSIQUE PSC]\nAnnulation et report suite canicule\nAvec 1/3 temps
-DTEND:20260622T140000Z
-DTSTART:20260622T120000Z
-SUMMARY:Mécanique quantique 1 (Annulation)
-UID:a08bfe68-c057-4445-8207-fc292ea05e79@a08b.org
-END:VEVENT
 END:VCALENDAR
