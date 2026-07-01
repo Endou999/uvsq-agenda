@@ -2,35 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Contrôle continu\nG210 - GERMAIN\nPas d'amphi disponible\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC2
-DTEND:20261109T101000Z
-LOCATION:Pas d'amphi disponible
-DTSTART:20261109T084000Z
-SUMMARY:Mécanique des fluides 1 (Contrôle continu)
-UID:a51ac231-c79c-41b8-b1d8-e7c493a10167@a51a.org
+DESCRIPTION:Contrôle continu\nAMPHI F - FERMAT (120 / 65) [Amphithéâtre]\nEXAMEN L3 SESSION 2 [EXAMEN L3 SESSION 2]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\navec 1/3 temps
+DTEND:20260701T101000Z
+LOCATION:AMPHI F - FERMAT (120 / 65) [Amphithéâtre]
+DTSTART:20260701T073000Z
+SUMMARY:Analyse complexe (Contrôle continu)
+UID:955ec7b0-15d9-45c0-bd87-ab12c3ad8103@955e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Contrôle Continu de Rattrapage pour les ABJ\nG104 M- GERMAIN\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC3
 DTEND:20261214T115000Z
 DTSTART:20261214T084000Z
 SUMMARY:Mécanique des fluides 1 (CC)
-UID:0af7cfb0-678c-4f6e-9b1d-19bffa083a82@0af7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Contrôle continu\nAMPHI F - FERMAT (120 / 65) [Amphithéâtre]\nEXAMEN L3 SESSION 2 [EXAMEN L3 SESSION 2]\nLSMA621-LSMA621 : Analyse complexe [LSMA621]\nL3 Mathématiques S6 ( S6 MATHS ) [S6 MATHS]\nS6 Double Diplôme Mathématiques Physique ( S6 LDDMP ) [S6 LDDMP]\navec 1/3 temps
-DTEND:20260701T101000Z
-LOCATION:AMPHI F - FERMAT (120 / 65) [Amphithéâtre]
-DTSTART:20260701T073000Z
-SUMMARY:Analyse complexe (Contrôle continu)
-UID:6e99b31e-b2c6-4d9f-bd64-e60519e5d3b6@6e99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Contrôle continu\nG210 - GERMAIN\nPas d'amphi disponible\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC1
-DTEND:20261005T091000Z
-LOCATION:Pas d'amphi disponible
-DTSTART:20261005T074000Z
-SUMMARY:Mécanique des fluides 1 (Contrôle continu)
-UID:2e581217-b9e4-4aa0-9631-3ee47745171c@2e58.org
+UID:9b5f171b-81be-4ae1-bed7-24952ed3b4f7@9b5f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Contrôle continu\nAMPHI C - DESCARTES (150 / 78)\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC3
@@ -38,7 +22,7 @@ DTEND:20261207T115000Z
 LOCATION:AMPHI C - DESCARTES (150 / 78)
 DTSTART:20261207T084000Z
 SUMMARY:Mécanique des fluides 1 (Contrôle continu)
-UID:571afc18-5c1e-45d4-9089-50b58aa255c0@571a.org
+UID:e483658b-bc5d-4193-afb7-6d18110a8a02@e483.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Contrôle continu\nAMPHI G - FERMAT (117 / 57)\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC2
@@ -46,7 +30,7 @@ DTEND:20261109T115000Z
 LOCATION:AMPHI G - FERMAT (117 / 57)
 DTSTART:20261109T102000Z
 SUMMARY:Mécanique des fluides 1 (Contrôle continu)
-UID:8c34dbd6-25d3-49f9-8017-1f7134d3d109@8c34.org
+UID:70d12171-4224-471a-9dd6-2f5604c5d931@70d1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Contrôle continu\nAMPHI G - FERMAT (117 / 57)\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC1
@@ -54,6 +38,22 @@ DTEND:20261005T105000Z
 LOCATION:AMPHI G - FERMAT (117 / 57)
 DTSTART:20261005T092000Z
 SUMMARY:Mécanique des fluides 1 (Contrôle continu)
-UID:ce0844fc-6800-4c91-b003-eed7f8d1c91f@ce08.org
+UID:143fef98-6f42-469b-b619-81da61de632c@143f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Contrôle continu\nG210 - GERMAIN\nPas d'amphi disponible\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC1
+DTEND:20261005T091000Z
+LOCATION:Pas d'amphi disponible
+DTSTART:20261005T074000Z
+SUMMARY:Mécanique des fluides 1 (Contrôle continu)
+UID:23c65e1f-4d14-4780-b9a2-c808ec577333@23c6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Contrôle continu\nG210 - GERMAIN\nPas d'amphi disponible\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC2
+DTEND:20261109T101000Z
+LOCATION:Pas d'amphi disponible
+DTSTART:20261109T084000Z
+SUMMARY:Mécanique des fluides 1 (Contrôle continu)
+UID:51696d32-3cc6-498e-bd32-e2960265e7be@5169.org
 END:VEVENT
 END:VCALENDAR
