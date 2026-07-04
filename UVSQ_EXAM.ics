@@ -2,35 +2,19 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Contrôle continu\nG210 - GERMAIN\nPas d'amphi disponible\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC1
-DTEND:20261005T091000Z
+DESCRIPTION:Contrôle continu\nG210 - GERMAIN\nPas d'amphi disponible\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC2
+DTEND:20261109T101000Z
 LOCATION:Pas d'amphi disponible
-DTSTART:20261005T074000Z
+DTSTART:20261109T084000Z
 SUMMARY:Mécanique des fluides 1 (Contrôle continu)
-UID:0e7a960d-efa0-450e-b49d-f019c379d647@0e7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Contrôle continu\nAMPHI G - FERMAT (117 / 57)\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC2
-DTEND:20261109T115000Z
-LOCATION:AMPHI G - FERMAT (117 / 57)
-DTSTART:20261109T102000Z
-SUMMARY:Mécanique des fluides 1 (Contrôle continu)
-UID:57b770d0-46e1-4fcb-b82f-70c943da67b0@57b7.org
+UID:79079e2a-5694-4801-a535-ed5f56fb273d@7907.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Contrôle Continu de Rattrapage pour les ABJ\nG104 M- GERMAIN\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC3
 DTEND:20261214T115000Z
 DTSTART:20261214T084000Z
 SUMMARY:Mécanique des fluides 1 (CC)
-UID:b11b7b12-5f32-4cb2-9a5a-0d89e26cc700@b11b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Contrôle continu\nG210 - GERMAIN\nPas d'amphi disponible\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC2
-DTEND:20261109T101000Z
-LOCATION:Pas d'amphi disponible
-DTSTART:20261109T084000Z
-SUMMARY:Mécanique des fluides 1 (Contrôle continu)
-UID:27ff9267-fdf6-43f7-b706-2d5c8e39b95f@27ff.org
+UID:5ba4a3f0-c598-416b-b1da-166fbefcfbde@5ba4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Contrôle continu\nAMPHI G - FERMAT (117 / 57)\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC1
@@ -38,7 +22,7 @@ DTEND:20261005T105000Z
 LOCATION:AMPHI G - FERMAT (117 / 57)
 DTSTART:20261005T092000Z
 SUMMARY:Mécanique des fluides 1 (Contrôle continu)
-UID:b4ee0349-468a-48db-91df-55a5b71c5cc9@b4ee.org
+UID:f1eb4a8a-dfe7-4eda-a9f2-3776124a4562@f1eb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Contrôle continu\nAMPHI C - DESCARTES (150 / 78)\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC3
@@ -46,6 +30,22 @@ DTEND:20261207T115000Z
 LOCATION:AMPHI C - DESCARTES (150 / 78)
 DTSTART:20261207T084000Z
 SUMMARY:Mécanique des fluides 1 (Contrôle continu)
-UID:dd4796b0-8031-4256-809d-4a125ead756d@dd47.org
+UID:3b44698e-9ffe-45db-a0e4-9dbf211662e4@3b44.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Contrôle continu\nG210 - GERMAIN\nPas d'amphi disponible\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC1
+DTEND:20261005T091000Z
+LOCATION:Pas d'amphi disponible
+DTSTART:20261005T074000Z
+SUMMARY:Mécanique des fluides 1 (Contrôle continu)
+UID:a9ee7f69-b19c-44cc-9207-72e012dd1cac@a9ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Contrôle continu\nAMPHI G - FERMAT (117 / 57)\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC2
+DTEND:20261109T115000Z
+LOCATION:AMPHI G - FERMAT (117 / 57)
+DTSTART:20261109T102000Z
+SUMMARY:Mécanique des fluides 1 (Contrôle continu)
+UID:44e6b0d9-8f73-4a91-a6d0-5b2bff4a345a@44e6.org
 END:VEVENT
 END:VCALENDAR
