@@ -2,28 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:Contrôle continu\nAMPHI G - FERMAT (117 / 57)\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC2
-DTEND:20261109T115000Z
-LOCATION:AMPHI G - FERMAT (117 / 57)
-DTSTART:20261109T102000Z
-SUMMARY:Mécanique des fluides 1 (Contrôle continu)
-UID:38e36f70-ac9b-4a51-92e1-28b7d02e5625@38e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Contrôle continu\nAMPHI G - FERMAT (117 / 57)\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC1
-DTEND:20261005T105000Z
-LOCATION:AMPHI G - FERMAT (117 / 57)
-DTSTART:20261005T092000Z
-SUMMARY:Mécanique des fluides 1 (Contrôle continu)
-UID:366aa75a-7e27-41ae-b96f-c0d346778bc6@366a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Contrôle continu\nG210 - GERMAIN\nPas d'amphi disponible\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC1
-DTEND:20261005T091000Z
-LOCATION:Pas d'amphi disponible
-DTSTART:20261005T074000Z
-SUMMARY:Mécanique des fluides 1 (Contrôle continu)
-UID:f460de81-acbe-4958-b170-92779fb332ba@f460.org
+DESCRIPTION:Contrôle Continu de Rattrapage pour les ABJ\nG104 M- GERMAIN\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC3
+DTEND:20261214T115000Z
+DTSTART:20261214T084000Z
+SUMMARY:Mécanique des fluides 1 (CC)
+UID:314a34fa-78da-49c1-99d7-7c77b12bec8d@314a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Contrôle continu\nG210 - GERMAIN\nPas d'amphi disponible\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC2
@@ -31,13 +14,30 @@ DTEND:20261109T101000Z
 LOCATION:Pas d'amphi disponible
 DTSTART:20261109T084000Z
 SUMMARY:Mécanique des fluides 1 (Contrôle continu)
-UID:b0380767-4a70-440b-b81c-89d86a634036@b038.org
+UID:2bfeba13-b739-45e3-ad24-0c7bb8b1cded@2bfe.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Contrôle Continu de Rattrapage pour les ABJ\nG104 M- GERMAIN\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC3
-DTEND:20261214T115000Z
-DTSTART:20261214T084000Z
-SUMMARY:Mécanique des fluides 1 (CC)
-UID:e71ee9cb-6f08-45a6-8628-e972d74a2ce4@e71e.org
+DESCRIPTION:Contrôle continu\nAMPHI G - FERMAT (117 / 57)\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC1
+DTEND:20261005T105000Z
+LOCATION:AMPHI G - FERMAT (117 / 57)
+DTSTART:20261005T092000Z
+SUMMARY:Mécanique des fluides 1 (Contrôle continu)
+UID:2078b826-aa76-490b-b6ec-ad52cae1c29d@2078.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Contrôle continu\nAMPHI G - FERMAT (117 / 57)\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC2
+DTEND:20261109T115000Z
+LOCATION:AMPHI G - FERMAT (117 / 57)
+DTSTART:20261109T102000Z
+SUMMARY:Mécanique des fluides 1 (Contrôle continu)
+UID:c12cad21-184d-4079-a3f9-1a9b0e3bc0e0@c12c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Contrôle continu\nG210 - GERMAIN\nPas d'amphi disponible\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC1
+DTEND:20261005T091000Z
+LOCATION:Pas d'amphi disponible
+DTSTART:20261005T074000Z
+SUMMARY:Mécanique des fluides 1 (Contrôle continu)
+UID:db7ad319-54a0-41e4-bca1-203f1dd0829a@db7a.org
 END:VEVENT
 END:VCALENDAR
