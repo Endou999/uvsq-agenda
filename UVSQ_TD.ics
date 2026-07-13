@@ -2,428 +2,12 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:TD\nG210 - GERMAIN [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261124T115000Z
-LOCATION:G210 - GERMAIN [Salle de TD]
-DTSTART:20261124T084000Z
-SUMMARY:Calcul intégral et théorie de la mesure (TD)
-UID:2cecd4d6-b18e-478a-9f0a-c4adb48b104f@2cec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nE103- Bât Joliot-Curie [Salle de TD]\nLSANGS5-Anglais UE3 [LSANGS5]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20260922T164000Z
-LOCATION:E103- Bât Joliot-Curie [Salle de TD]
-DTSTART:20260922T133000Z
-SUMMARY:TD
-UID:c00973a7-74cc-4fc3-a581-7593bb870f15@c009.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261118T115000Z
-LOCATION:G001 - GERMAIN [Salle de TD]
-DTSTART:20261118T102000Z
-SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:94c3fcba-0bd0-4eeb-b2b9-8a217db274b3@94c3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n509 - BUFFON [Salle de TD]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261125T174000Z
-LOCATION:509 - BUFFON [Salle de TD]
-DTSTART:20261125T143000Z
-SUMMARY:Analyse Numérique (TD)
-UID:2438103d-741b-47a4-bb7e-c4140f219fc4@2438.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nE103- Bât Joliot-Curie [Salle de TD]\nLSANGS5-Anglais UE3 [LSANGS5]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261110T174000Z
-LOCATION:E103- Bât Joliot-Curie [Salle de TD]
-DTSTART:20261110T143000Z
-SUMMARY:TD
-UID:8f61e438-f3b7-4e18-a191-f4967f646004@8f61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n410/412 - BUFFON\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261127T115000Z
-LOCATION:410/412 - BUFFON
-DTSTART:20261127T084000Z
-SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:fceaafe8-4b63-4efa-a2e5-da042b9c3031@fcea.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n410/412 - BUFFON\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261211T115000Z
-LOCATION:410/412 - BUFFON
-DTSTART:20261211T084000Z
-SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:c908c795-b1c9-40eb-8d07-a577cffd241e@c908.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n410/412 - BUFFON\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261204T115000Z
-LOCATION:410/412 - BUFFON
-DTSTART:20261204T084000Z
-SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:19d494fd-9e71-451d-bdb9-bb67e98f5f1f@19d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]
-DTEND:20261008T150000Z
-LOCATION:E104- Bât Joliot-Curie [Salle de TD]
-DTSTART:20261008T133000Z
-SUMMARY:Mécanique quantique 1 (TD)
-UID:183c90e0-f2fc-45a2-b1d7-62704b68a071@183c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]
-DTEND:20261015T150000Z
-LOCATION:E104- Bât Joliot-Curie [Salle de TD]
-DTSTART:20261015T133000Z
-SUMMARY:Mécanique quantique 1 (TD)
-UID:e23e2dea-d960-40e7-9f1b-60f6187fcc67@e23e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n414/416 - BUFFON [Salle de TD]\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20260921T105000Z
-LOCATION:414/416 - BUFFON [Salle de TD]
-DTSTART:20260921T074000Z
-SUMMARY:Mécanique des fluides 1 (TD)
-UID:2fdcc013-16ce-4b7d-949a-32e5d25ff088@2fdc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nE103- Bât Joliot-Curie [Salle de TD]\nLSANGS5-Anglais UE3 [LSANGS5]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261124T174000Z
-LOCATION:E103- Bât Joliot-Curie [Salle de TD]
-DTSTART:20261124T143000Z
-SUMMARY:TD
-UID:dcc2ceb2-4bd0-48eb-a888-b77d187dd085@dcc2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n509 - BUFFON [Salle de TD]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261104T174000Z
-LOCATION:509 - BUFFON [Salle de TD]
-DTSTART:20261104T143000Z
-SUMMARY:Analyse Numérique (TD)
-UID:95713b63-c274-497c-b084-19b3eb3ba8de@9571.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]
-DTEND:20261001T150000Z
-LOCATION:E104- Bât Joliot-Curie [Salle de TD]
-DTSTART:20261001T133000Z
-SUMMARY:Mécanique quantique 1 (TD)
-UID:5326a13c-4bf2-4333-adbe-4105dd2c1a1a@5326.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n414/416 - BUFFON [Salle de TD]\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20260928T105000Z
-LOCATION:414/416 - BUFFON [Salle de TD]
-DTSTART:20260928T074000Z
-SUMMARY:Mécanique des fluides 1 (TD)
-UID:0e36ca50-da0b-4b98-9fd6-6ad887f8c442@0e36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n410/412 - BUFFON\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261009T105000Z
-LOCATION:410/412 - BUFFON
-DTSTART:20261009T074000Z
-SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:ea052c92-f186-4646-b851-215e1bf68417@ea05.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nG210 - GERMAIN [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261006T105000Z
-LOCATION:G210 - GERMAIN [Salle de TD]
-DTSTART:20261006T074000Z
-SUMMARY:Calcul intégral et théorie de la mesure (TD)
-UID:450133f6-9ade-44f2-8da1-8c56daf7f4f6@4501.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n509 - BUFFON [Salle de TD]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261209T174000Z
-LOCATION:509 - BUFFON [Salle de TD]
-DTSTART:20261209T143000Z
-SUMMARY:Analyse Numérique (TD)
-UID:c2d55c7a-0009-4878-ad08-940c6891ff44@c2d5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]
-DTEND:20261126T160000Z
-LOCATION:E104- Bât Joliot-Curie [Salle de TD]
-DTSTART:20261126T143000Z
-SUMMARY:Mécanique quantique 1 (TD)
-UID:23166c5f-b4ee-47a3-a02d-5fabff423ac4@2316.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nE103- Bât Joliot-Curie [Salle de TD]\nLSANGS5-Anglais UE3 [LSANGS5]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261006T164000Z
-LOCATION:E103- Bât Joliot-Curie [Salle de TD]
-DTSTART:20261006T133000Z
-SUMMARY:TD
-UID:fa1b0cb5-0989-40c6-9df3-798cdb94ee76@fa1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nG210 - GERMAIN [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261201T115000Z
-LOCATION:G210 - GERMAIN [Salle de TD]
-DTSTART:20261201T084000Z
-SUMMARY:Calcul intégral et théorie de la mesure (TD)
-UID:401ed290-c473-4a3a-9cfc-e0dbc362d68b@401e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n509 - BUFFON [Salle de TD]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261216T174000Z
-LOCATION:509 - BUFFON [Salle de TD]
-DTSTART:20261216T143000Z
-SUMMARY:Analyse Numérique (TD)
-UID:774669de-ce82-4421-8379-a6ea8379a905@7746.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261021T105000Z
-LOCATION:G001 - GERMAIN [Salle de TD]
-DTSTART:20261021T092000Z
-SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:d742ff60-44a1-4465-a374-be624f4b7d40@d742.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n410/412 - BUFFON\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20260918T105000Z
-LOCATION:410/412 - BUFFON
-DTSTART:20260918T074000Z
-SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:99e57723-9e2a-4fbc-a477-605cc84c87ab@99e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]
-DTEND:20261210T160000Z
-LOCATION:E104- Bât Joliot-Curie [Salle de TD]
-DTSTART:20261210T143000Z
-SUMMARY:Mécanique quantique 1 (TD)
-UID:cc17560d-a8e9-403f-b3aa-87dccf2fbde4@cc17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]
-DTEND:20261105T160000Z
-LOCATION:E104- Bât Joliot-Curie [Salle de TD]
-DTSTART:20261105T143000Z
-SUMMARY:Mécanique quantique 1 (TD)
-UID:92f1e92f-67d2-45b7-9a1c-a8f7dd0129e6@92f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261216T115000Z
-LOCATION:G001 - GERMAIN [Salle de TD]
-DTSTART:20261216T102000Z
-SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:2c464c04-ada3-4236-a2d2-129635dfa2a4@2c46.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261104T115000Z
-LOCATION:G001 - GERMAIN [Salle de TD]
-DTSTART:20261104T102000Z
-SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:a46600e9-bca5-480e-96ba-e8854da47642@a466.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nE103- Bât Joliot-Curie [Salle de TD]\nLSANGS5-Anglais UE3 [LSANGS5]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261020T164000Z
-LOCATION:E103- Bât Joliot-Curie [Salle de TD]
-DTSTART:20261020T133000Z
-SUMMARY:TD
-UID:f412becf-f813-4404-b1dd-75f65705b931@f412.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n509 - BUFFON [Salle de TD]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20260916T164000Z
-LOCATION:509 - BUFFON [Salle de TD]
-DTSTART:20260916T133000Z
-SUMMARY:Analyse Numérique (TD)
-UID:a93c37a8-0ea2-49f4-b213-fa36dd57e0d8@a93c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n509 - BUFFON [Salle de TD]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20260930T164000Z
-LOCATION:509 - BUFFON [Salle de TD]
-DTSTART:20260930T133000Z
-SUMMARY:Analyse Numérique (TD)
-UID:0fb7be56-34d1-4676-934a-d0463edae75f@0fb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nG210 - GERMAIN [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261110T115000Z
-LOCATION:G210 - GERMAIN [Salle de TD]
-DTSTART:20261110T084000Z
-SUMMARY:Calcul intégral et théorie de la mesure (TD)
-UID:f3868e33-d788-4fc8-a64e-5a661da968a4@f386.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]
-DTEND:20260924T150000Z
-LOCATION:E104- Bât Joliot-Curie [Salle de TD]
-DTSTART:20260924T133000Z
-SUMMARY:Mécanique quantique 1 (TD)
-UID:f1cd2aa8-e0bf-4ddb-a466-fab254859888@f1cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261202T115000Z
-LOCATION:G001 - GERMAIN [Salle de TD]
-DTSTART:20261202T102000Z
-SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:3010d6c0-7f17-4bf0-b403-774f1d9fa34b@3010.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nE103- Bât Joliot-Curie [Salle de TD]\nLSANGS5-Anglais UE3 [LSANGS5]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20260929T164000Z
-LOCATION:E103- Bât Joliot-Curie [Salle de TD]
-DTSTART:20260929T133000Z
-SUMMARY:TD
-UID:9e682d39-a713-4d7a-b679-077fe34706eb@9e68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n509 - BUFFON [Salle de TD]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261014T164000Z
-LOCATION:509 - BUFFON [Salle de TD]
-DTSTART:20261014T133000Z
-SUMMARY:Analyse Numérique (TD)
-UID:9a7d45e3-5670-4c0d-b23e-7e2371b6ab3f@9a7d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]
-DTEND:20261112T160000Z
-LOCATION:E104- Bât Joliot-Curie [Salle de TD]
-DTSTART:20261112T143000Z
-SUMMARY:Mécanique quantique 1 (TD)
-UID:3c66af34-ae44-46b8-a570-e0f45f3ccba7@3c66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]
-DTEND:20261119T160000Z
-LOCATION:E104- Bât Joliot-Curie [Salle de TD]
-DTSTART:20261119T143000Z
-SUMMARY:Mécanique quantique 1 (TD)
-UID:faedea02-5e2b-4403-b54d-a25abe3964f7@faed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n509 - BUFFON [Salle de TD]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261118T174000Z
-LOCATION:509 - BUFFON [Salle de TD]
-DTSTART:20261118T143000Z
-SUMMARY:Analyse Numérique (TD)
-UID:860877d8-aa63-4228-a343-9a8eb1a37157@8608.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]
-DTEND:20261203T160000Z
-LOCATION:E104- Bât Joliot-Curie [Salle de TD]
-DTSTART:20261203T143000Z
-SUMMARY:Mécanique quantique 1 (TD)
-UID:ee27fea3-8b46-4b63-9e9c-35d457171126@ee27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n410/412 - BUFFON\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261120T115000Z
-LOCATION:410/412 - BUFFON
-DTSTART:20261120T084000Z
-SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:77b9a402-98e4-4415-b72c-f81028f47ca5@77b9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261007T105000Z
-LOCATION:G001 - GERMAIN [Salle de TD]
-DTSTART:20261007T092000Z
-SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:c74d1f13-2574-4ef7-9ef7-e488a7286c5a@c74d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nG210 - GERMAIN [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261208T115000Z
-LOCATION:G210 - GERMAIN [Salle de TD]
-DTSTART:20261208T084000Z
-SUMMARY:Calcul intégral et théorie de la mesure (TD)
-UID:85c70180-41a8-44ac-bc41-1716e5941443@85c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nG210 - GERMAIN [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261117T115000Z
-LOCATION:G210 - GERMAIN [Salle de TD]
-DTSTART:20261117T084000Z
-SUMMARY:Calcul intégral et théorie de la mesure (TD)
-UID:92fba9da-6aab-4f00-b8e6-3f8c2aea64ff@92fb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n509 - BUFFON [Salle de TD]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20260923T164000Z
-LOCATION:509 - BUFFON [Salle de TD]
-DTSTART:20260923T133000Z
-SUMMARY:Analyse Numérique (TD)
-UID:69498de4-f734-433f-9e55-33a600a6c723@6949.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n410/412 - BUFFON\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261002T105000Z
-LOCATION:410/412 - BUFFON
-DTSTART:20261002T074000Z
-SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:1a62c605-ff40-4474-a43e-0ff35c35ca79@1a62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nG210 - GERMAIN [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20260922T105000Z
-LOCATION:G210 - GERMAIN [Salle de TD]
-DTSTART:20260922T074000Z
-SUMMARY:Calcul intégral et théorie de la mesure (TD)
-UID:fcce8c73-379f-4b89-bfbb-a0f277b23f1a@fcce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n410/412 - BUFFON\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261106T115000Z
-LOCATION:410/412 - BUFFON
-DTSTART:20261106T084000Z
-SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:1d86fcfa-99a5-4e92-978c-89e2b6209c94@1d86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261209T115000Z
-LOCATION:G001 - GERMAIN [Salle de TD]
-DTSTART:20261209T102000Z
-SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:2d433bf1-0eca-452b-8243-c692408a5643@2d43.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]
 DTEND:20261022T150000Z
 LOCATION:E104- Bât Joliot-Curie [Salle de TD]
 DTSTART:20261022T133000Z
 SUMMARY:Mécanique quantique 1 (TD)
-UID:9dc72119-082a-4ffe-8e08-1a38eacd0217@9dc7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20260916T105000Z
-LOCATION:G001 - GERMAIN [Salle de TD]
-DTSTART:20260916T092000Z
-SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:5a3e911f-04f6-413f-b9e4-d1c6089a948a@5a3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nG210 - GERMAIN [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261020T105000Z
-LOCATION:G210 - GERMAIN [Salle de TD]
-DTSTART:20261020T074000Z
-SUMMARY:Calcul intégral et théorie de la mesure (TD)
-UID:401a13c0-d78a-4758-8361-160d78d90963@401a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261019T105000Z
-LOCATION:E104- Bât Joliot-Curie [Salle de TD]
-DTSTART:20261019T074000Z
-SUMMARY:Mécanique des fluides 1 (TD)
-UID:b23b7877-1cff-4c6f-b4b5-d11907abd051@b23b.org
+UID:882dd8c6-1486-4626-a8fe-b24fd947050a@882d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:TD\nG210 - GERMAIN [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
@@ -431,151 +15,7 @@ DTEND:20261103T115000Z
 LOCATION:G210 - GERMAIN [Salle de TD]
 DTSTART:20261103T084000Z
 SUMMARY:Calcul intégral et théorie de la mesure (TD)
-UID:6bc2ef1a-d446-4706-9cc7-24bf081ac0c8@6bc2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261014T105000Z
-LOCATION:G001 - GERMAIN [Salle de TD]
-DTSTART:20261014T092000Z
-SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:0148c9b9-0ec7-4cc2-8c58-895c4c053abd@0148.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n410/412 - BUFFON\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261023T105000Z
-LOCATION:410/412 - BUFFON
-DTSTART:20261023T074000Z
-SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:2a38f4ac-0f2c-480a-b209-8afadb381674@2a38.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nG210 - GERMAIN [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20260915T105000Z
-LOCATION:G210 - GERMAIN [Salle de TD]
-DTSTART:20260915T074000Z
-SUMMARY:Calcul intégral et théorie de la mesure (TD)
-UID:1aff1a7b-0f7b-433d-85e9-7eb923037bd5@1aff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nE103- Bât Joliot-Curie [Salle de TD]\nLSANGS5-Anglais UE3 [LSANGS5]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261013T164000Z
-LOCATION:E103- Bât Joliot-Curie [Salle de TD]
-DTSTART:20261013T133000Z
-SUMMARY:TD
-UID:d302dc31-df82-4724-859b-8d04c166b78c@d302.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261125T115000Z
-LOCATION:G001 - GERMAIN [Salle de TD]
-DTSTART:20261125T102000Z
-SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:e0004d50-98f9-4501-bf0a-5875aa0cc8ae@e000.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n414/416 - BUFFON [Salle de TD]\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20260914T105000Z
-LOCATION:414/416 - BUFFON [Salle de TD]
-DTSTART:20260914T074000Z
-SUMMARY:Mécanique des fluides 1 (TD)
-UID:fe922bf2-59d7-42fe-9413-b4d36a4af887@fe92.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]
-DTEND:20260917T150000Z
-LOCATION:E104- Bât Joliot-Curie [Salle de TD]
-DTSTART:20260917T133000Z
-SUMMARY:Mécanique quantique 1 (TD)
-UID:5a3683eb-ee2c-4034-a130-5523a6ef373b@5a36.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nE103- Bât Joliot-Curie [Salle de TD]\nLSANGS5-Anglais UE3 [LSANGS5]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261117T174000Z
-LOCATION:E103- Bât Joliot-Curie [Salle de TD]
-DTSTART:20261117T143000Z
-SUMMARY:TD
-UID:72a9cf29-3e89-4af9-8067-99841d600446@72a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n509 - BUFFON [Salle de TD]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261021T164000Z
-LOCATION:509 - BUFFON [Salle de TD]
-DTSTART:20261021T133000Z
-SUMMARY:Analyse Numérique (TD)
-UID:66580a95-accd-4f68-9dbb-5059e4ab539a@6658.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n410/412 - BUFFON\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261113T115000Z
-LOCATION:410/412 - BUFFON
-DTSTART:20261113T084000Z
-SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:da6404fa-fd5c-4571-9f1c-46d7f2be5991@da64.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n509 - BUFFON [Salle de TD]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261007T164000Z
-LOCATION:509 - BUFFON [Salle de TD]
-DTSTART:20261007T133000Z
-SUMMARY:Analyse Numérique (TD)
-UID:f83073e7-708a-4007-81af-866a6ee371a2@f830.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261012T105000Z
-LOCATION:E104- Bât Joliot-Curie [Salle de TD]
-DTSTART:20261012T074000Z
-SUMMARY:Mécanique des fluides 1 (TD)
-UID:71a108b0-f0df-4073-884c-4aedcce96077@71a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nE103- Bât Joliot-Curie [Salle de TD]\nLSANGS5-Anglais UE3 [LSANGS5]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20260915T164000Z
-LOCATION:E103- Bât Joliot-Curie [Salle de TD]
-DTSTART:20260915T133000Z
-SUMMARY:TD
-UID:a1ceaaba-3cfc-4ea6-abef-161f2bf8afdc@a1ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nE103- Bât Joliot-Curie [Salle de TD]\nLSANGS5-Anglais UE3 [LSANGS5]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261103T174000Z
-LOCATION:E103- Bât Joliot-Curie [Salle de TD]
-DTSTART:20261103T143000Z
-SUMMARY:TD
-UID:c53e3316-6aa7-4d7e-a55e-6768911ce231@c53e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20260930T105000Z
-LOCATION:G001 - GERMAIN [Salle de TD]
-DTSTART:20260930T092000Z
-SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:44ba31d1-f237-45c5-9f14-a3d465104479@44ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20260923T105000Z
-LOCATION:G001 - GERMAIN [Salle de TD]
-DTSTART:20260923T092000Z
-SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:05fe7295-a6e2-4b9e-841e-7d1af190c526@05fe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\nG210 - GERMAIN [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20261013T105000Z
-LOCATION:G210 - GERMAIN [Salle de TD]
-DTSTART:20261013T074000Z
-SUMMARY:Calcul intégral et théorie de la mesure (TD)
-UID:d6d6a56e-fd6f-41de-85e0-341716e2ba98@d6d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:TD\n410/412 - BUFFON\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20260925T105000Z
-LOCATION:410/412 - BUFFON
-DTSTART:20260925T074000Z
-SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:a97d0757-a401-4ccf-8df6-f1da33bbacc3@a97d.org
+UID:900e03bb-759d-4995-b4e2-84869babbb93@900e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:TD\n509 - BUFFON [Salle de TD]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
@@ -583,15 +23,175 @@ DTEND:20261202T174000Z
 LOCATION:509 - BUFFON [Salle de TD]
 DTSTART:20261202T143000Z
 SUMMARY:Analyse Numérique (TD)
-UID:f96d326c-d45b-43fe-9ac8-f10dee2237e2@f96d.org
+UID:d7b4874c-c11f-46c2-935b-9268afe4942b@d7b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261104T115000Z
+LOCATION:G001 - GERMAIN [Salle de TD]
+DTSTART:20261104T102000Z
+SUMMARY:Topologie et bases de calcul différentiel (TD)
+UID:43749344-d0e6-461d-9901-452012055e5f@4374.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261209T115000Z
+LOCATION:G001 - GERMAIN [Salle de TD]
+DTSTART:20261209T102000Z
+SUMMARY:Topologie et bases de calcul différentiel (TD)
+UID:376c40bd-a024-4fd9-854f-7067df812a3f@376c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:TD\nG210 - GERMAIN [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
-DTEND:20260929T105000Z
+DTEND:20261201T115000Z
 LOCATION:G210 - GERMAIN [Salle de TD]
-DTSTART:20260929T074000Z
+DTSTART:20261201T084000Z
 SUMMARY:Calcul intégral et théorie de la mesure (TD)
-UID:f011bdf0-b01c-43bb-9c86-434331f1cee4@f011.org
+UID:a7e4c3b8-9d59-4f12-ad46-2a6eed3300ce@a7e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nE103- Bât Joliot-Curie [Salle de TD]\nLSANGS5-Anglais UE3 [LSANGS5]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261110T174000Z
+LOCATION:E103- Bât Joliot-Curie [Salle de TD]
+DTSTART:20261110T143000Z
+SUMMARY:TD
+UID:d82b225e-f4f7-4424-8201-8a9de1eef2ca@d82b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nE103- Bât Joliot-Curie [Salle de TD]\nLSANGS5-Anglais UE3 [LSANGS5]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261124T174000Z
+LOCATION:E103- Bât Joliot-Curie [Salle de TD]
+DTSTART:20261124T143000Z
+SUMMARY:TD
+UID:a5a0d9e7-a757-4edb-92ed-8b2ae2184281@a5a0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261118T115000Z
+LOCATION:G001 - GERMAIN [Salle de TD]
+DTSTART:20261118T102000Z
+SUMMARY:Topologie et bases de calcul différentiel (TD)
+UID:43f4bcaa-cf5a-4d32-b340-3b6345a28fa2@43f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG210 - GERMAIN [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261020T105000Z
+LOCATION:G210 - GERMAIN [Salle de TD]
+DTSTART:20261020T074000Z
+SUMMARY:Calcul intégral et théorie de la mesure (TD)
+UID:c499e275-7bea-4806-8d1e-720b7feb4325@c499.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n509 - BUFFON [Salle de TD]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261021T164000Z
+LOCATION:509 - BUFFON [Salle de TD]
+DTSTART:20261021T133000Z
+SUMMARY:Analyse Numérique (TD)
+UID:11596df2-62f2-4b13-8931-4793c199454a@1159.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]
+DTEND:20261008T150000Z
+LOCATION:E104- Bât Joliot-Curie [Salle de TD]
+DTSTART:20261008T133000Z
+SUMMARY:Mécanique quantique 1 (TD)
+UID:350e097a-c28d-4011-904a-1b3dd6f070f2@350e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG210 - GERMAIN [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261124T115000Z
+LOCATION:G210 - GERMAIN [Salle de TD]
+DTSTART:20261124T084000Z
+SUMMARY:Calcul intégral et théorie de la mesure (TD)
+UID:b623749a-feac-4f64-87da-5a5e1aa5dcb9@b623.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]
+DTEND:20260917T150000Z
+LOCATION:E104- Bât Joliot-Curie [Salle de TD]
+DTSTART:20260917T133000Z
+SUMMARY:Mécanique quantique 1 (TD)
+UID:653ef22b-90ea-48fd-9b25-39f7e6228904@653e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20260930T105000Z
+LOCATION:G001 - GERMAIN [Salle de TD]
+DTSTART:20260930T092000Z
+SUMMARY:Topologie et bases de calcul différentiel (TD)
+UID:e8c7b9a3-765a-495e-928b-781b2570f54b@e8c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]
+DTEND:20261126T160000Z
+LOCATION:E104- Bât Joliot-Curie [Salle de TD]
+DTSTART:20261126T143000Z
+SUMMARY:Mécanique quantique 1 (TD)
+UID:56660a4c-15eb-4aeb-a40e-40c490ba2dd0@5666.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261021T105000Z
+LOCATION:G001 - GERMAIN [Salle de TD]
+DTSTART:20261021T092000Z
+SUMMARY:Topologie et bases de calcul différentiel (TD)
+UID:804818bc-07fa-4acc-b454-7303195eec0f@8048.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n509 - BUFFON [Salle de TD]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261014T164000Z
+LOCATION:509 - BUFFON [Salle de TD]
+DTSTART:20261014T133000Z
+SUMMARY:Analyse Numérique (TD)
+UID:ab3e1169-e4c2-4fe6-b8e6-5d7c91b83554@ab3e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nE103- Bât Joliot-Curie [Salle de TD]\nLSANGS5-Anglais UE3 [LSANGS5]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261006T164000Z
+LOCATION:E103- Bât Joliot-Curie [Salle de TD]
+DTSTART:20261006T133000Z
+SUMMARY:TD
+UID:eb22fe11-87ee-4c1d-96a5-57c018e62a88@eb22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n509 - BUFFON [Salle de TD]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20260923T164000Z
+LOCATION:509 - BUFFON [Salle de TD]
+DTSTART:20260923T133000Z
+SUMMARY:Analyse Numérique (TD)
+UID:b6e10e86-cf56-4de1-b7e2-005197d8cc8d@b6e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nE103- Bât Joliot-Curie [Salle de TD]\nLSANGS5-Anglais UE3 [LSANGS5]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261117T174000Z
+LOCATION:E103- Bât Joliot-Curie [Salle de TD]
+DTSTART:20261117T143000Z
+SUMMARY:TD
+UID:a29c80e2-915b-4ca4-8684-ffc410ad49b1@a29c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261007T105000Z
+LOCATION:G001 - GERMAIN [Salle de TD]
+DTSTART:20261007T092000Z
+SUMMARY:Topologie et bases de calcul différentiel (TD)
+UID:38a8cd6d-f210-4d85-9d30-b3b141c062fa@38a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG210 - GERMAIN [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261117T115000Z
+LOCATION:G210 - GERMAIN [Salle de TD]
+DTSTART:20261117T084000Z
+SUMMARY:Calcul intégral et théorie de la mesure (TD)
+UID:67038e1d-3796-45a9-9f77-d9bd6ed763f8@6703.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n410/412 - BUFFON\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261002T105000Z
+LOCATION:410/412 - BUFFON
+DTSTART:20261002T074000Z
+SUMMARY:Topologie et bases de calcul différentiel (TD)
+UID:33f50c8d-19df-4e68-863f-4c0a47d3a122@33f5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:TD\n410/412 - BUFFON\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
@@ -599,6 +199,406 @@ DTEND:20261016T105000Z
 LOCATION:410/412 - BUFFON
 DTSTART:20261016T074000Z
 SUMMARY:Topologie et bases de calcul différentiel (TD)
-UID:80f8d1dd-54e2-4cf7-8fae-21b087c7386c@80f8.org
+UID:363c029a-1f32-49e4-a3a7-7ae57fba1ba7@363c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261019T105000Z
+LOCATION:E104- Bât Joliot-Curie [Salle de TD]
+DTSTART:20261019T074000Z
+SUMMARY:Mécanique des fluides 1 (TD)
+UID:cd8e6b90-a2ad-4fd9-b64a-c36e4803e1ed@cd8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]
+DTEND:20261112T160000Z
+LOCATION:E104- Bât Joliot-Curie [Salle de TD]
+DTSTART:20261112T143000Z
+SUMMARY:Mécanique quantique 1 (TD)
+UID:74a1ec15-23c0-41a8-8b86-f91701e11711@74a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]
+DTEND:20261105T160000Z
+LOCATION:E104- Bât Joliot-Curie [Salle de TD]
+DTSTART:20261105T143000Z
+SUMMARY:Mécanique quantique 1 (TD)
+UID:9354803e-9153-40cf-b75b-5614e4dcdb85@9354.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n509 - BUFFON [Salle de TD]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261007T164000Z
+LOCATION:509 - BUFFON [Salle de TD]
+DTSTART:20261007T133000Z
+SUMMARY:Analyse Numérique (TD)
+UID:a0c752fe-4ec9-4c47-aee9-793a6d56ad7e@a0c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261014T105000Z
+LOCATION:G001 - GERMAIN [Salle de TD]
+DTSTART:20261014T092000Z
+SUMMARY:Topologie et bases de calcul différentiel (TD)
+UID:66761d4a-741b-4023-b2d5-031de09eaf59@6676.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20260923T105000Z
+LOCATION:G001 - GERMAIN [Salle de TD]
+DTSTART:20260923T092000Z
+SUMMARY:Topologie et bases de calcul différentiel (TD)
+UID:655032af-bd33-46f1-b3ed-e039cfab4f2d@6550.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261216T115000Z
+LOCATION:G001 - GERMAIN [Salle de TD]
+DTSTART:20261216T102000Z
+SUMMARY:Topologie et bases de calcul différentiel (TD)
+UID:a32abcdf-d381-4465-b566-4edfb5de1346@a32a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n410/412 - BUFFON\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20260918T105000Z
+LOCATION:410/412 - BUFFON
+DTSTART:20260918T074000Z
+SUMMARY:Topologie et bases de calcul différentiel (TD)
+UID:3ee3ede9-985a-4583-b91a-7d7f3f64a8a4@3ee3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n410/412 - BUFFON\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261009T105000Z
+LOCATION:410/412 - BUFFON
+DTSTART:20261009T074000Z
+SUMMARY:Topologie et bases de calcul différentiel (TD)
+UID:706cba90-cf3e-4eac-b610-f4c0e08647de@706c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]
+DTEND:20261001T150000Z
+LOCATION:E104- Bât Joliot-Curie [Salle de TD]
+DTSTART:20261001T133000Z
+SUMMARY:Mécanique quantique 1 (TD)
+UID:98475165-cd78-487f-b0f9-94e9b42c0161@9847.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n414/416 - BUFFON [Salle de TD]\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20260928T105000Z
+LOCATION:414/416 - BUFFON [Salle de TD]
+DTSTART:20260928T074000Z
+SUMMARY:Mécanique des fluides 1 (TD)
+UID:7312c43f-eaa6-4986-9258-93ca3890d8c0@7312.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n414/416 - BUFFON [Salle de TD]\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20260921T105000Z
+LOCATION:414/416 - BUFFON [Salle de TD]
+DTSTART:20260921T074000Z
+SUMMARY:Mécanique des fluides 1 (TD)
+UID:9bb7aad0-749e-4611-8bbd-4310ddcf5657@9bb7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261125T115000Z
+LOCATION:G001 - GERMAIN [Salle de TD]
+DTSTART:20261125T102000Z
+SUMMARY:Topologie et bases de calcul différentiel (TD)
+UID:7e9f4e7b-8f9a-4b2b-920c-4ee2364ed6ca@7e9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n509 - BUFFON [Salle de TD]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261216T174000Z
+LOCATION:509 - BUFFON [Salle de TD]
+DTSTART:20261216T143000Z
+SUMMARY:Analyse Numérique (TD)
+UID:b44cff99-fb26-411e-9bef-272215520f21@b44c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n509 - BUFFON [Salle de TD]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261118T174000Z
+LOCATION:509 - BUFFON [Salle de TD]
+DTSTART:20261118T143000Z
+SUMMARY:Analyse Numérique (TD)
+UID:117523cc-7629-4b8e-947d-329f102c012e@1175.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n410/412 - BUFFON\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261204T115000Z
+LOCATION:410/412 - BUFFON
+DTSTART:20261204T084000Z
+SUMMARY:Topologie et bases de calcul différentiel (TD)
+UID:86602268-01ea-4a2a-b890-40e3ea64bcd7@8660.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nE103- Bât Joliot-Curie [Salle de TD]\nLSANGS5-Anglais UE3 [LSANGS5]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261020T164000Z
+LOCATION:E103- Bât Joliot-Curie [Salle de TD]
+DTSTART:20261020T133000Z
+SUMMARY:TD
+UID:6b7ec0e3-309b-4a8f-b108-0b79a6d0e2f8@6b7e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nE103- Bât Joliot-Curie [Salle de TD]\nLSANGS5-Anglais UE3 [LSANGS5]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20260929T164000Z
+LOCATION:E103- Bât Joliot-Curie [Salle de TD]
+DTSTART:20260929T133000Z
+SUMMARY:TD
+UID:9c618e7b-97e7-4c77-aaa0-1be41c84a0f8@9c61.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n509 - BUFFON [Salle de TD]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20260930T164000Z
+LOCATION:509 - BUFFON [Salle de TD]
+DTSTART:20260930T133000Z
+SUMMARY:Analyse Numérique (TD)
+UID:f1fbf61e-754b-43c5-880a-322894b28383@f1fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nE103- Bât Joliot-Curie [Salle de TD]\nLSANGS5-Anglais UE3 [LSANGS5]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20260922T164000Z
+LOCATION:E103- Bât Joliot-Curie [Salle de TD]
+DTSTART:20260922T133000Z
+SUMMARY:TD
+UID:355babd0-15f2-4f0b-b699-bd77422490d8@355b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n509 - BUFFON [Salle de TD]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261209T174000Z
+LOCATION:509 - BUFFON [Salle de TD]
+DTSTART:20261209T143000Z
+SUMMARY:Analyse Numérique (TD)
+UID:f422e87e-470c-4e8a-99fd-61c138de81fa@f422.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG210 - GERMAIN [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20260922T105000Z
+LOCATION:G210 - GERMAIN [Salle de TD]
+DTSTART:20260922T074000Z
+SUMMARY:Calcul intégral et théorie de la mesure (TD)
+UID:e3cc0584-58c9-4502-8afb-8b4b8d6a4866@e3cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n410/412 - BUFFON\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261023T105000Z
+LOCATION:410/412 - BUFFON
+DTSTART:20261023T074000Z
+SUMMARY:Topologie et bases de calcul différentiel (TD)
+UID:da52a574-8c73-4973-8bef-9c822440d044@da52.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nE103- Bât Joliot-Curie [Salle de TD]\nLSANGS5-Anglais UE3 [LSANGS5]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261103T174000Z
+LOCATION:E103- Bât Joliot-Curie [Salle de TD]
+DTSTART:20261103T143000Z
+SUMMARY:TD
+UID:44eeb6a2-11a3-43a6-a5f6-19b46d625151@44ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]
+DTEND:20260924T150000Z
+LOCATION:E104- Bât Joliot-Curie [Salle de TD]
+DTSTART:20260924T133000Z
+SUMMARY:Mécanique quantique 1 (TD)
+UID:668eeead-243c-4f42-9ca7-0c08b769f2a6@668e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n410/412 - BUFFON\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261211T115000Z
+LOCATION:410/412 - BUFFON
+DTSTART:20261211T084000Z
+SUMMARY:Topologie et bases de calcul différentiel (TD)
+UID:f731244b-2d1b-405c-aa58-5907db0c51b2@f731.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n509 - BUFFON [Salle de TD]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261125T174000Z
+LOCATION:509 - BUFFON [Salle de TD]
+DTSTART:20261125T143000Z
+SUMMARY:Analyse Numérique (TD)
+UID:d5ed127b-4b4e-471e-a6a1-ab04954fab30@d5ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20260916T105000Z
+LOCATION:G001 - GERMAIN [Salle de TD]
+DTSTART:20260916T092000Z
+SUMMARY:Topologie et bases de calcul différentiel (TD)
+UID:5a7fd74d-34d1-4535-b9e5-aa0ff13c7b25@5a7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]
+DTEND:20261210T160000Z
+LOCATION:E104- Bât Joliot-Curie [Salle de TD]
+DTSTART:20261210T143000Z
+SUMMARY:Mécanique quantique 1 (TD)
+UID:ad182711-b335-40a6-901a-bd30f1ae3be6@ad18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n410/412 - BUFFON\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261113T115000Z
+LOCATION:410/412 - BUFFON
+DTSTART:20261113T084000Z
+SUMMARY:Topologie et bases de calcul différentiel (TD)
+UID:743adc18-aed6-4d98-9106-e5cba47c9529@743a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n410/412 - BUFFON\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261120T115000Z
+LOCATION:410/412 - BUFFON
+DTSTART:20261120T084000Z
+SUMMARY:Topologie et bases de calcul différentiel (TD)
+UID:0c9be4ba-d39e-40c8-beb6-c281adc9b148@0c9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG210 - GERMAIN [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20260915T105000Z
+LOCATION:G210 - GERMAIN [Salle de TD]
+DTSTART:20260915T074000Z
+SUMMARY:Calcul intégral et théorie de la mesure (TD)
+UID:2284d336-62d3-4364-8283-e11adaae5223@2284.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]
+DTEND:20261119T160000Z
+LOCATION:E104- Bât Joliot-Curie [Salle de TD]
+DTSTART:20261119T143000Z
+SUMMARY:Mécanique quantique 1 (TD)
+UID:44e136a6-dbf7-46c9-94ef-843cdd9e8117@44e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]
+DTEND:20261015T150000Z
+LOCATION:E104- Bât Joliot-Curie [Salle de TD]
+DTSTART:20261015T133000Z
+SUMMARY:Mécanique quantique 1 (TD)
+UID:1146c11d-8256-4b42-9b4e-204ad1a5382d@1146.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n414/416 - BUFFON [Salle de TD]\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20260914T105000Z
+LOCATION:414/416 - BUFFON [Salle de TD]
+DTSTART:20260914T074000Z
+SUMMARY:Mécanique des fluides 1 (TD)
+UID:3272d2ec-45ba-44ca-b30d-8776a64cf57f@3272.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG210 - GERMAIN [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261013T105000Z
+LOCATION:G210 - GERMAIN [Salle de TD]
+DTSTART:20261013T074000Z
+SUMMARY:Calcul intégral et théorie de la mesure (TD)
+UID:82adfb42-a24a-4b48-bde4-8c27a7f330a7@82ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n410/412 - BUFFON\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261106T115000Z
+LOCATION:410/412 - BUFFON
+DTSTART:20261106T084000Z
+SUMMARY:Topologie et bases de calcul différentiel (TD)
+UID:9d2fceb6-f906-41ef-a580-edee4d5134fd@9d2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG210 - GERMAIN [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261110T115000Z
+LOCATION:G210 - GERMAIN [Salle de TD]
+DTSTART:20261110T084000Z
+SUMMARY:Calcul intégral et théorie de la mesure (TD)
+UID:02a7d8b7-2fd8-4bda-ab4e-0b3da69dcf60@02a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n509 - BUFFON [Salle de TD]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261104T174000Z
+LOCATION:509 - BUFFON [Salle de TD]
+DTSTART:20261104T143000Z
+SUMMARY:Analyse Numérique (TD)
+UID:1178acc3-5ab8-4b2f-ac35-005c4e017057@1178.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSPH516-LSPH516 - Mécanique quantique 1 [LSPH516]\nL3 Double Diplôme Mathématiques Physique parcours PSC S5 ( S5 LDDMP PSC ) [S5 LDD MP PSC]
+DTEND:20261203T160000Z
+LOCATION:E104- Bât Joliot-Curie [Salle de TD]
+DTSTART:20261203T143000Z
+SUMMARY:Mécanique quantique 1 (TD)
+UID:784ad3ef-2bb2-4aab-b9f5-7fd68f560ae3@784a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n410/412 - BUFFON\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20260925T105000Z
+LOCATION:410/412 - BUFFON
+DTSTART:20260925T074000Z
+SUMMARY:Topologie et bases de calcul différentiel (TD)
+UID:aed97c94-2e1b-441b-b8e1-13e7359127e8@aed9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n410/412 - BUFFON\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261127T115000Z
+LOCATION:410/412 - BUFFON
+DTSTART:20261127T084000Z
+SUMMARY:Topologie et bases de calcul différentiel (TD)
+UID:9215cbb3-0bf8-44fb-8be5-da1d2191a85d@9215.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nE103- Bât Joliot-Curie [Salle de TD]\nLSANGS5-Anglais UE3 [LSANGS5]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20260915T164000Z
+LOCATION:E103- Bât Joliot-Curie [Salle de TD]
+DTSTART:20260915T133000Z
+SUMMARY:TD
+UID:4042df61-c225-409d-8537-aa4cf2a2bf1e@4042.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG210 - GERMAIN [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20260929T105000Z
+LOCATION:G210 - GERMAIN [Salle de TD]
+DTSTART:20260929T074000Z
+SUMMARY:Calcul intégral et théorie de la mesure (TD)
+UID:92dd9bef-85a2-49e0-8e95-d006223eb36b@92dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG001 - GERMAIN [Salle de TD]\nLSMA525N-Topologie et bases de calcul différentiel [LSMA525N]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261202T115000Z
+LOCATION:G001 - GERMAIN [Salle de TD]
+DTSTART:20261202T102000Z
+SUMMARY:Topologie et bases de calcul différentiel (TD)
+UID:82e6f1c8-a0da-4ca0-a69b-9f08b313ec83@82e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG210 - GERMAIN [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261208T115000Z
+LOCATION:G210 - GERMAIN [Salle de TD]
+DTSTART:20261208T084000Z
+SUMMARY:Calcul intégral et théorie de la mesure (TD)
+UID:0f21e0d5-b2da-4f73-af6e-36614c0bd1d5@0f21.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nE104- Bât Joliot-Curie [Salle de TD]\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261012T105000Z
+LOCATION:E104- Bât Joliot-Curie [Salle de TD]
+DTSTART:20261012T074000Z
+SUMMARY:Mécanique des fluides 1 (TD)
+UID:4c910102-ef49-417a-abaa-05055d42187c@4c91.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\n509 - BUFFON [Salle de TD]\nLSMA550-Analyse Numérique [LSMA550]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20260916T164000Z
+LOCATION:509 - BUFFON [Salle de TD]
+DTSTART:20260916T133000Z
+SUMMARY:Analyse Numérique (TD)
+UID:bff3141c-562b-465e-a8e4-ee532af2149e@bff3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nE103- Bât Joliot-Curie [Salle de TD]\nLSANGS5-Anglais UE3 [LSANGS5]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261013T164000Z
+LOCATION:E103- Bât Joliot-Curie [Salle de TD]
+DTSTART:20261013T133000Z
+SUMMARY:TD
+UID:5a304c57-b4ed-4f0a-8c75-dae3fdacdbf0@5a30.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:TD\nG210 - GERMAIN [Salle de TD]\nLSMA523-Calcul intégral et théorie de la mesure [LSMA523]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]
+DTEND:20261006T105000Z
+LOCATION:G210 - GERMAIN [Salle de TD]
+DTSTART:20261006T074000Z
+SUMMARY:Calcul intégral et théorie de la mesure (TD)
+UID:f5051c3a-f9a5-494c-a6bf-d92e66cff666@f505.org
 END:VEVENT
 END:VCALENDAR
