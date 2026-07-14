@@ -7,31 +7,7 @@ DTEND:20261109T101000Z
 LOCATION:Pas d'amphi disponible
 DTSTART:20261109T084000Z
 SUMMARY:Mécanique des fluides 1 (Contrôle continu)
-UID:fce66562-58c1-4472-8347-13f6c648e2ef@fce6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Contrôle continu\nAMPHI D - DESCARTES (200 / 100) [Amphithéâtre]\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC1
-DTEND:20261005T105000Z
-LOCATION:AMPHI D - DESCARTES (200 / 100) [Amphithéâtre]
-DTSTART:20261005T092000Z
-SUMMARY:Mécanique des fluides 1 (Contrôle continu)
-UID:d83252b9-8ff8-4221-8c9e-50a0f4fe8dd0@d832.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Contrôle continu\nG210 - GERMAIN\nPas d'amphi disponible\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC1
-DTEND:20261005T091000Z
-LOCATION:Pas d'amphi disponible
-DTSTART:20261005T074000Z
-SUMMARY:Mécanique des fluides 1 (Contrôle continu)
-UID:1653642a-73c6-44f3-9cc8-975bac5462fe@1653.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Contrôle Continu de Rattrapage pour les ABJ\nG104 M- GERMAIN [Salle de cours]\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC3
-DTEND:20261214T115000Z
-LOCATION:G104 M- GERMAIN [Salle de cours]
-DTSTART:20261214T084000Z
-SUMMARY:Mécanique des fluides 1 (CC)
-UID:610030be-5d4b-4698-bc02-f468c630a137@6100.org
+UID:ff1a8304-75ec-4f3e-ab6b-4cae48cd57f3@ff1a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Contrôle continu\nAMPHI D - DESCARTES (200 / 100) [Amphithéâtre]\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC2
@@ -39,6 +15,30 @@ DTEND:20261109T115000Z
 LOCATION:AMPHI D - DESCARTES (200 / 100) [Amphithéâtre]
 DTSTART:20261109T102000Z
 SUMMARY:Mécanique des fluides 1 (Contrôle continu)
-UID:20c16322-1052-42c4-9ff5-c37e3ee29b6b@20c1.org
+UID:c646501f-3bc3-4ad2-81c2-0d9cce0e3dcf@c646.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Contrôle Continu de Rattrapage pour les ABJ\nG104 M- GERMAIN [Salle de cours]\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC3
+DTEND:20261214T115000Z
+LOCATION:G104 M- GERMAIN [Salle de cours]
+DTSTART:20261214T084000Z
+SUMMARY:Mécanique des fluides 1 (CC)
+UID:74aab99b-79b4-46fa-b2e9-1a5dbadd23c1@74aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Contrôle continu\nAMPHI D - DESCARTES (200 / 100) [Amphithéâtre]\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC1
+DTEND:20261005T105000Z
+LOCATION:AMPHI D - DESCARTES (200 / 100) [Amphithéâtre]
+DTSTART:20261005T092000Z
+SUMMARY:Mécanique des fluides 1 (Contrôle continu)
+UID:9070779c-e479-4174-811d-98a47703964f@9070.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Contrôle continu\nG210 - GERMAIN\nPas d'amphi disponible\nLSME507-LSME507 - Mécanique des fluides 1 [LSME507]\nL3 Double Diplôme Mathématiques Physique S5 ( S5 LDDMP ) [S5 LDD MP]\nL3 Physique S5 ( S5 PHYSIQUE ) [S5 PHYSIQUE ]\nCC1
+DTEND:20261005T091000Z
+LOCATION:Pas d'amphi disponible
+DTSTART:20261005T074000Z
+SUMMARY:Mécanique des fluides 1 (Contrôle continu)
+UID:44630db0-40c2-4fe9-b84f-133f2cab24a9@4463.org
 END:VEVENT
 END:VCALENDAR
